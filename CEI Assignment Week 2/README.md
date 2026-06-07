@@ -1,0 +1,31 @@
+# CEI Assignment Week 2
+
+This folder contains two SQL assignments completed as part of the Celebal Excellence Internship.
+
+## Task 1: SQL Analysis on Superstore Dataset
+
+### Files
+- Sample - Superstore.csv
+- SQL Assignment on Dataset.pdf
+- sql_queries_on_dataset.sql
+
+### Description
+Performed SQL-based data analysis on the Superstore dataset using filtering, aggregation, grouping, and business-related queries to extract meaningful insights.
+
+## Task 2: E-Commerce Sales Database
+
+### Files
+- CEI_SQL_Task2_Week2.docx
+- Week 2 Task On Tables.pdf
+- sql_task_on_tables.sql
+
+### Description
+Designed and implemented an E-Commerce Sales Database in MySQL. Created tables, defined relationships, inserted sample data, and executed queries involving joins, aggregations, constraints, indexing, CASE statements, and transactions.
+
+## Tools Used
+- MySQL
+- MySQL Workbench
+- GitHub
+
+## Author
+**Siga Nithin**
