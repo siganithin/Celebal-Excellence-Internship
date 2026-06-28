@@ -1,0 +1,459 @@
+record_id,user_id,transaction_date,age,city,region,product_category,sale_amount,price,store_id,subscription,status,email,username,raw_timestamp,revenue
+206,USR1000,2023-02-16,46,Delhi,North,Books,446.2,0.0,STORE_013,Premium,Unknown,user393@example.com,user_711,2023-01-30T05:40:00.000Z,206.03
+16,USR1000,2023-06-20,56,Bangalore,West,Toys,603.78,2079.24,STORE_005,Basic,Active,user696@example.com,user_540,2023-03-07T01:19:00.000Z,9337.57
+268,USR1000,2023-10-23,62,Jaipur,East,Toys,2902.94,0.0,STORE_002,Basic,Unknown,user215@example.com,user_807,2023-02-10T04:46:00.000Z,9837.43
+331,USR1001,2023-08-29,36,Hyderabad,West,Toys,1318.32,195.08,STORE_011,Basic,Unknown,user720@example.com,user_921,2023-11-03T22:47:00.000Z,153.07
+442,USR1001,2023-11-05,40,Delhi,North,Electronics,3862.08,2817.02,STORE_020,Premium,Active,user208@example.com,user_937,2023-06-23T22:05:00.000Z,4856.21
+437,USR1002,2023-03-27,60,Chennai,North,Electronics,3484.33,1204.53,STORE_018,Basic,Active,user868@example.com,user_675,2023-07-19T12:38:00.000Z,1922.26
+101,USR1002,2023-05-04,22,Ahmedabad,Central,Electronics,268.97,1628.48,STORE_002,Basic,Unknown,user339@example.com,user_849,2023-10-22T10:36:00.000Z,6758.07
+440,USR1002,2023-10-03,65,Kolkata,East,Sports,1142.16,1753.36,STORE_013,Basic,Unknown,user843@example.com,user_251,2023-09-03T02:31:00.000Z,1931.78
+414,USR1002,2023-10-08,43,Pune,West,Toys,3647.44,2770.73,STORE_018,Premium,Active,user870@example.com,user_986,2023-01-28T22:19:00.000Z,1720.58
+9,USR1002,2023-10-29,53,Mumbai,North,Electronics,4531.83,231.15,STORE_008,Free,Unknown,user235@example.com,user_684,2023-10-23T15:15:00.000Z,8094.22
+476,USR1002,2023-11-26,52,Ahmedabad,East,Groceries,2043.91,2755.74,STORE_002,Free,Active,user197@example.com,user_525,2023-06-04T08:20:00.000Z,4063.41
+370,USR1003,2023-04-26,43,Hyderabad,South,Groceries,361.08,103.06,STORE_014,Premium,Unknown,user442@example.com,user_353,2023-02-25T15:15:00.000Z,8341.92
+299,USR1003,2023-07-25,30,Pune,North,Home Decor,3224.5,681.99,STORE_009,Basic,Active,user969@example.com,user_787,2023-02-14T16:25:00.000Z,3245.8
+422,USR1003,2023-11-06,33,Jaipur,North,Toys,3218.88,1013.88,STORE_009,Basic,Inactive,user200@example.com,user_327,2023-07-13T03:50:00.000Z,1839.74
+244,USR1003,2023-11-10,54,Lucknow,South,Sports,1828.34,1440.27,STORE_017,Basic,Unknown,user482@example.com,user_496,2023-09-09T15:08:00.000Z,2340.1
+275,USR1003,2023-11-14,54,Lucknow,North,Clothing,3043.19,2296.3,STORE_019,Basic,Active,user359@example.com,user_776,2023-02-08T20:29:00.000Z,2836.2
+385,USR1004,2023-03-13,37,Kolkata,South,Toys,1962.85,999.95,STORE_015,Free,Active,user791@example.com,user_132,2023-12-19T19:31:00.000Z,0.0
+454,USR1004,2023-05-29,59,Delhi,North,Sports,4047.01,2311.1,STORE_006,Basic,Unknown,user723@example.com,user_887,2023-06-24T14:50:00.000Z,2979.33
+184,USR1004,2023-07-03,22,Jaipur,West,Sports,3994.33,2084.95,STORE_002,Premium,Unknown,user907@example.com,user_420,2023-10-10T01:00:00.000Z,2110.56
+453,USR1005,2023-01-25,35,Pune,East,Toys,1606.64,1080.4,STORE_005,Premium,Pending,user859@example.com,user_614,2023-03-18T00:37:00.000Z,4821.84
+230,USR1005,2023-02-06,20,Jaipur,North,Clothing,2681.72,1588.05,STORE_008,Basic,Inactive,user671@example.com,user_208,2023-11-23T18:22:00.000Z,7055.25
+390,USR1005,2023-08-25,,Kolkata,East,Toys,2013.54,0.0,STORE_004,Basic,Pending,user575@example.com,user_169,2023-02-12T17:42:00.000Z,9505.18
+106,USR1005,2023-10-16,63,Mumbai,East,Toys,1021.15,1717.97,STORE_008,Premium,Unknown,user801@example.com,user_881,2023-09-08T23:41:00.000Z,4662.21
+152,USR1006,2023-07-17,42,Kolkata,West,Toys,1907.97,2370.42,STORE_019,Basic,Inactive,user918@example.com,user_401,2023-01-11T10:16:00.000Z,834.58
+236,USR1006,2023-10-08,21,Jaipur,West,Groceries,2430.57,1198.05,STORE_019,Basic,Unknown,user853@example.com,user_348,2023-02-06T08:49:00.000Z,6878.91
+61,USR1007,2023-01-04,29,Chennai,East,Home Decor,2512.06,404.97,STORE_018,Basic,Unknown,user784@example.com,user_173,2023-07-23T23:02:00.000Z,4651.57
+99,USR1007,2023-02-05,46,Chennai,West,Groceries,3840.85,1944.72,STORE_014,Free,Unknown,user486@example.com,user_799,2023-12-05T17:08:00.000Z,3542.92
+77,USR1007,2023-02-08,41,Jaipur,South,Electronics,3057.49,123.7,STORE_003,Basic,Pending,user680@example.com,user_257,2023-12-14T14:23:00.000Z,7654.54
+288,USR1007,2023-05-24,45,Kolkata,South,Home Decor,1511.05,2387.8,STORE_020,Basic,Unknown,user975@example.com,user_521,2023-09-25T15:55:00.000Z,5956.65
+448,USR1007,2023-06-28,65,Chennai,West,Groceries,2779.93,1274.81,STORE_007,Basic,Active,user220@example.com,user_820,2023-03-15T12:46:00.000Z,0.0
+147,USR1007,2023-08-30,65,Bangalore,North,Sports,1369.31,2753.43,STORE_002,Basic,Unknown,user916@example.com,user_959,2023-03-30T05:15:00.000Z,8081.48
+351,USR1007,2023-11-20,58,Kolkata,West,Books,1602.79,2484.47,STORE_017,Basic,Inactive,user556@example.com,user_657,2023-11-16T19:41:00.000Z,3517.98
+282,USR1008,2023-04-14,63,Pune,North,Groceries,4825.23,155.85,STORE_006,Free,Active,user244@example.com,user_272,2023-12-23T11:35:00.000Z,2512.08
+281,USR1009,2023-01-19,47,Ahmedabad,Central,Electronics,3261.49,0.0,STORE_002,Free,Active,user274@example.com,user_165,2023-02-24T03:31:00.000Z,6194.72
+458,USR1009,2023-04-25,45,Pune,West,Beauty,4505.63,275.75,STORE_004,Premium,Unknown,user436@example.com,user_450,2023-11-06T15:13:00.000Z,4814.57
+62,USR1009,2023-06-10,52,Kolkata,East,Clothing,4832.69,2843.89,STORE_015,Free,Active,user208@example.com,user_703,2023-07-25T16:05:00.000Z,3171.72
+190,USR1009,2023-10-22,32,Kolkata,West,Toys,133.61,1613.81,STORE_020,Premium,Unknown,user968@example.com,user_614,2023-02-24T09:50:00.000Z,6105.0
+4,USR1009,2023-11-08,50,Bangalore,West,Toys,4630.69,674.45,STORE_011,Premium,Inactive,user924@example.com,user_374,2023-02-03T06:58:00.000Z,8776.04
+8,USR1010,2023-02-13,20,Bangalore,West,Groceries,4368.54,651.16,STORE_018,Basic,Pending,user787@example.com,user_548,2023-09-22T14:07:00.000Z,733.86
+57,USR1010,2023-02-17,63,Bangalore,Central,Electronics,2829.85,384.25,STORE_012,Premium,Active,user714@example.com,user_206,2023-10-23T16:13:00.000Z,4873.68
+35,USR1010,2023-05-08,64,Lucknow,Central,Sports,1932.87,906.11,STORE_019,Premium,Pending,user161@example.com,user_857,2023-02-20T06:40:00.000Z,6638.24
+366,USR1010,2023-11-29,50,Ahmedabad,North,Home Decor,1913.06,1172.52,STORE_001,Premium,Unknown,user297@example.com,user_326,2023-01-11T08:43:00.000Z,3642.43
+251,USR1011,2023-01-26,27,Chennai,Central,Groceries,3759.21,126.8,STORE_010,Free,Pending,user939@example.com,user_537,2023-10-09T02:18:00.000Z,1308.03
+173,USR1011,2023-02-26,58,Bangalore,North,Clothing,551.39,708.86,STORE_010,Free,Unknown,user932@example.com,user_140,2023-05-29T11:51:00.000Z,4317.35
+22,USR1011,2023-05-01,30,Bangalore,North,Electronics,2401.92,237.03,STORE_014,Basic,Inactive,user493@example.com,user_349,2023-03-17T20:44:00.000Z,0.0
+323,USR1011,2023-07-23,62,Hyderabad,North,Clothing,4153.46,2796.04,STORE_009,Premium,Active,user225@example.com,user_420,2023-06-18T18:47:00.000Z,7508.9
+337,USR1011,2023-07-24,31,Delhi,North,Sports,3908.49,2262.62,STORE_005,Premium,Pending,user542@example.com,user_417,2023-12-17T19:08:00.000Z,1051.5
+128,USR1011,2023-07-26,33,Ahmedabad,West,Home Decor,4351.09,297.56,STORE_015,Free,Active,user507@example.com,user_539,2023-04-19T15:17:00.000Z,2907.57
+178,USR1011,2023-09-13,23,Mumbai,North,Toys,2807.8,0.0,STORE_003,Basic,Unknown,user620@example.com,user_770,2023-12-10T14:21:00.000Z,637.32
+451,USR1011,2023-09-25,24,Kolkata,Central,Electronics,959.28,1686.7,STORE_003,Premium,Unknown,user757@example.com,user_489,2023-03-26T01:51:00.000Z,4299.8
+104,USR1011,2023-10-02,28,Chennai,West,Electronics,981.41,2178.43,STORE_018,Basic,Unknown,user440@example.com,user_115,2023-04-19T06:47:00.000Z,9995.76
+367,USR1011,2023-11-11,61,Hyderabad,West,Home Decor,2489.55,1825.96,STORE_001,Basic,Unknown,user384@example.com,user_605,2023-03-29T17:12:00.000Z,5700.5
+160,USR1012,2023-04-27,63,Pune,East,Toys,491.97,2742.03,STORE_014,Premium,Unknown,user940@example.com,user_910,2023-03-23T02:19:00.000Z,4093.51
+71,USR1012,2023-11-29,25,Mumbai,East,Beauty,737.02,1356.83,STORE_001,Premium,Active,user955@example.com,user_844,2023-11-08T16:27:00.000Z,2952.21
+393,USR1012,2023-12-07,26,Kolkata,Central,Clothing,1647.26,1881.53,STORE_018,Premium,Unknown,user318@example.com,user_431,2023-03-30T00:25:00.000Z,218.62
+164,USR1013,2023-01-04,58,Jaipur,Central,Books,585.12,2965.32,STORE_011,Free,Pending,user767@example.com,user_253,2023-09-22T07:57:00.000Z,8587.42
+373,USR1013,2023-02-22,,Lucknow,South,Groceries,1318.62,2179.38,STORE_015,Basic,Inactive,user145@example.com,user_419,2023-10-27T13:32:00.000Z,7568.3
+310,USR1013,2023-04-03,40,Hyderabad,Central,Sports,3818.98,1408.39,STORE_017,Basic,Unknown,user821@example.com,user_839,2023-01-21T02:20:00.000Z,3909.33
+180,USR1013,2023-05-11,28,Kolkata,South,Beauty,993.36,2276.31,STORE_002,Basic,Active,user561@example.com,user_703,2023-09-16T04:31:00.000Z,0.0
+222,USR1013,2023-05-25,61,Mumbai,South,Clothing,2493.22,948.5,STORE_016,Free,Unknown,user132@example.com,user_963,2023-03-16T01:17:00.000Z,806.71
+84,USR1013,2023-06-13,23,Ahmedabad,South,Groceries,1486.55,1853.82,STORE_008,Basic,Pending,user838@example.com,user_881,2023-03-23T15:32:00.000Z,8802.85
+58,USR1013,2023-06-29,39,Chennai,Central,Sports,4233.52,2458.91,STORE_020,Basic,Active,user773@example.com,user_373,2023-01-15T05:17:00.000Z,3158.95
+172,USR1013,2023-09-19,23,Delhi,North,Beauty,1038.76,1578.98,STORE_007,Free,Unknown,user140@example.com,user_312,2023-12-19T15:21:00.000Z,226.22
+417,USR1014,2023-02-12,57,Mumbai,Central,Beauty,3739.53,559.67,STORE_016,Premium,Pending,user201@example.com,user_830,2023-10-03T05:25:00.000Z,295.49
+174,USR1014,2023-02-18,18,Bangalore,South,Home Decor,2216.69,2637.86,STORE_003,Free,Pending,user510@example.com,user_567,2023-05-20T12:44:00.000Z,8019.0
+430,USR1014,2023-04-08,24,Kolkata,East,Electronics,1035.01,2002.42,STORE_009,Premium,Unknown,user607@example.com,user_831,2023-03-07T10:48:00.000Z,8829.49
+334,USR1014,2023-09-11,38,Ahmedabad,West,Clothing,4341.05,298.86,STORE_010,Basic,Inactive,user942@example.com,user_779,2023-10-27T06:37:00.000Z,140.84
+37,USR1014,2023-10-06,25,Bangalore,North,Electronics,1572.68,1716.24,STORE_010,Premium,Active,user411@example.com,user_378,2023-09-14T17:31:00.000Z,6020.56
+312,USR1015,2023-03-15,60,Bangalore,North,Home Decor,1726.23,2972.17,STORE_004,Basic,Unknown,user385@example.com,user_884,2023-10-25T18:17:00.000Z,8029.74
+307,USR1015,2023-04-24,60,Hyderabad,East,Groceries,4906.49,2293.81,STORE_004,Premium,Active,user875@example.com,user_301,2023-02-25T01:50:00.000Z,5972.44
+70,USR1015,2023-05-26,26,Ahmedabad,Central,Groceries,503.98,2453.78,STORE_012,Premium,Unknown,user614@example.com,user_495,2023-02-11T11:14:00.000Z,0.0
+429,USR1015,2023-09-07,,Hyderabad,West,Toys,1854.25,1618.55,STORE_009,Premium,Unknown,user549@example.com,user_462,2023-08-11T00:22:00.000Z,7121.27
+495,USR1015,2023-09-24,29,Ahmedabad,North,Beauty,4633.92,1461.48,STORE_006,Basic,Unknown,user727@example.com,user_979,2023-12-03T19:07:00.000Z,6398.35
+463,USR1015,2023-12-25,45,Kolkata,East,Home Decor,2157.95,1020.76,STORE_006,Premium,Unknown,user666@example.com,user_655,2023-08-12T12:18:00.000Z,6916.65
+424,USR1016,2023-05-13,,Bangalore,South,Toys,1373.48,1924.8,STORE_012,Basic,Unknown,user568@example.com,user_462,2023-08-28T16:18:00.000Z,4334.87
+356,USR1016,2023-09-06,24,Hyderabad,West,Beauty,826.36,2766.66,STORE_004,Basic,Unknown,user478@example.com,user_141,2023-09-25T04:07:00.000Z,9911.1
+379,USR1016,2023-09-18,47,Delhi,West,Clothing,1971.17,2258.39,STORE_012,Premium,Unknown,user429@example.com,user_638,2023-12-22T15:45:00.000Z,4790.21
+79,USR1017,2023-02-07,61,Delhi,East,Home Decor,2772.49,913.87,STORE_006,Basic,Pending,user224@example.com,user_911,2023-03-13T07:50:00.000Z,3672.88
+68,USR1017,2023-03-21,22,Pune,Central,Groceries,813.55,2084.68,STORE_020,Basic,Unknown,user473@example.com,user_343,2023-08-16T19:18:00.000Z,7859.62
+124,USR1017,2023-04-10,51,Kolkata,West,Toys,2247.07,1704.89,STORE_008,Free,Active,user650@example.com,user_899,2023-08-23T18:47:00.000Z,5003.6
+302,USR1017,2023-04-13,40,Jaipur,West,Electronics,1544.86,1492.42,STORE_015,Basic,Active,user257@example.com,user_755,2023-11-22T15:07:00.000Z,8937.6
+395,USR1017,2023-06-20,64,Ahmedabad,North,Home Decor,0.0,1357.76,STORE_017,Basic,Unknown,user113@example.com,user_731,2023-03-05T09:15:00.000Z,7596.73
+415,USR1017,2023-08-15,34,Hyderabad,South,Sports,95.21,1735.53,STORE_005,Premium,Unknown,user272@example.com,user_198,2023-07-02T15:11:00.000Z,1261.73
+391,USR1017,2023-08-30,26,Mumbai,Central,Clothing,664.55,521.99,STORE_001,Free,Inactive,user282@example.com,user_135,2023-12-12T17:13:00.000Z,572.78
+427,USR1017,2023-09-21,19,Ahmedabad,West,Groceries,610.51,764.3,STORE_018,Premium,Pending,user400@example.com,user_102,2023-11-20T18:25:00.000Z,3117.72
+195,USR1017,2023-10-03,62,Delhi,North,Electronics,2915.56,654.03,STORE_002,Basic,Pending,user652@example.com,user_893,2023-03-18T11:25:00.000Z,7744.23
+460,USR1018,2023-02-05,21,Ahmedabad,West,Sports,1334.26,295.47,STORE_014,Free,Pending,user457@example.com,user_593,2023-09-01T17:44:00.000Z,9659.34
+216,USR1018,2023-03-27,37,Lucknow,Central,Toys,403.15,700.09,STORE_011,Free,Pending,user504@example.com,user_555,2023-07-05T23:37:00.000Z,4557.86
+44,USR1018,2023-07-29,25,Ahmedabad,East,Home Decor,2017.54,999.13,STORE_018,Premium,Pending,user877@example.com,user_654,2023-01-19T19:04:00.000Z,6875.56
+343,USR1018,2023-08-31,23,Bangalore,West,Beauty,4305.99,619.99,STORE_019,Premium,Active,user205@example.com,user_830,2023-08-10T13:54:00.000Z,5828.75
+273,USR1018,2023-09-29,16,Ahmedabad,West,Home Decor,3430.24,0.0,STORE_018,Free,Unknown,user767@example.com,user_443,2023-05-19T08:51:00.000Z,6578.0
+469,USR1018,2023-11-18,,Delhi,West,Clothing,1448.19,296.48,STORE_016,Free,Inactive,user602@example.com,user_523,2023-02-07T15:40:00.000Z,6904.63
+211,USR1019,2023-02-24,21,Lucknow,North,Electronics,1887.42,2696.4,STORE_019,Free,Unknown,user882@example.com,user_386,2023-07-23T07:48:00.000Z,636.07
+138,USR1019,2023-04-02,18,Hyderabad,East,Sports,3615.43,252.1,STORE_012,Premium,Unknown,user153@example.com,user_923,2023-09-22T01:25:00.000Z,4704.43
+135,USR1019,2023-05-23,21,Bangalore,Central,Home Decor,3189.76,2049.55,STORE_003,Free,Unknown,user966@example.com,user_350,2023-02-14T13:07:00.000Z,6127.44
+241,USR1020,2023-01-10,38,Chennai,South,Books,3147.67,2673.4,STORE_001,Basic,Pending,user449@example.com,user_772,2023-03-12T02:46:00.000Z,9610.0
+456,USR1020,2023-02-04,39,Delhi,North,Groceries,2330.67,2935.88,STORE_015,Basic,Active,user599@example.com,user_979,2023-05-27T12:26:00.000Z,9179.69
+36,USR1020,2023-05-03,20,Mumbai,West,Beauty,2376.07,0.0,STORE_010,Free,Unknown,user339@example.com,user_906,2023-11-17T18:42:00.000Z,2058.41
+421,USR1020,2023-07-24,32,Bangalore,Central,Sports,3676.74,2096.47,STORE_007,Free,Unknown,user940@example.com,user_267,2023-08-03T04:20:00.000Z,4392.91
+187,USR1020,2023-08-01,41,Pune,South,Sports,1688.78,2851.92,STORE_020,Basic,Unknown,user943@example.com,user_764,2023-01-05T03:42:00.000Z,2479.44
+24,USR1020,2023-09-01,64,Chennai,Central,Beauty,1409.26,871.47,STORE_009,Free,Pending,user182@example.com,user_336,2023-07-16T22:09:00.000Z,735.87
+438,USR1020,2023-10-20,60,Jaipur,West,Books,1140.66,1665.41,STORE_006,Basic,Active,user398@example.com,user_251,2023-05-23T04:17:00.000Z,610.05
+60,USR1020,2023-11-13,21,Ahmedabad,West,Beauty,2100.21,1546.79,STORE_012,Premium,Active,user794@example.com,user_639,2023-12-08T09:02:00.000Z,9846.01
+346,USR1020,2023-11-15,60,Ahmedabad,South,Groceries,3048.46,1259.63,STORE_016,Free,Inactive,user148@example.com,user_467,2023-05-14T11:43:00.000Z,8296.69
+18,USR1020,2023-12-26,18,Hyderabad,South,Beauty,4111.66,684.31,STORE_007,Premium,Pending,user171@example.com,user_385,2023-06-29T20:32:00.000Z,9813.38
+478,USR1021,2023-02-15,39,Mumbai,East,Electronics,4738.37,1001.4,STORE_020,Premium,Pending,user241@example.com,user_222,2023-03-06T10:55:00.000Z,5882.89
+217,USR1021,2023-04-05,24,Chennai,North,Sports,559.9,2638.5,STORE_018,Premium,Active,user636@example.com,user_185,2023-02-23T08:39:00.000Z,6582.84
+153,USR1021,2023-07-12,20,Pune,Central,Beauty,2185.05,1829.81,STORE_014,Basic,Active,user310@example.com,user_519,2023-12-23T17:46:00.000Z,5447.24
+89,USR1021,2023-09-26,55,Bangalore,South,Electronics,3517.58,1334.29,STORE_014,Basic,Unknown,user520@example.com,user_726,2023-08-30T23:46:00.000Z,1467.02
+305,USR1021,2023-10-06,36,Chennai,East,Clothing,1790.57,428.11,STORE_010,Free,Unknown,user266@example.com,user_258,2023-09-15T07:53:00.000Z,8980.86
+441,USR1022,2023-04-07,62,Chennai,North,Books,929.78,1831.31,STORE_003,Basic,Active,user565@example.com,user_512,2023-02-21T23:33:00.000Z,7529.4
+49,USR1022,2023-04-13,50,Jaipur,Central,Books,1322.0,1455.91,STORE_010,Free,Active,user177@example.com,user_331,2023-12-13T23:43:00.000Z,9675.97
+100,USR1022,2023-10-03,24,Mumbai,North,Books,3609.52,1150.24,STORE_008,Basic,Unknown,user382@example.com,user_996,2023-02-27T01:51:00.000Z,6187.74
+496,USR1023,2023-03-14,58,Bangalore,Central,Sports,1485.68,2878.09,STORE_016,Free,Pending,user814@example.com,user_575,2023-08-02T13:09:00.000Z,0.0
+341,USR1023,2023-04-19,63,Delhi,West,Electronics,0.0,531.77,STORE_016,Premium,Unknown,user862@example.com,user_598,2023-06-05T19:52:00.000Z,3671.21
+10,USR1024,2023-02-18,43,Kolkata,West,Beauty,318.15,1945.62,STORE_002,Premium,Pending,user211@example.com,user_294,2023-10-02T14:08:00.000Z,2857.6
+433,USR1024,2023-03-16,55,Delhi,North,Toys,1566.91,709.65,STORE_011,Premium,Unknown,user537@example.com,user_411,2023-02-26T08:23:00.000Z,3575.14
+375,USR1025,2023-02-05,58,Ahmedabad,Central,Home Decor,2852.18,912.9,STORE_011,Basic,Active,user908@example.com,user_607,2023-04-23T00:40:00.000Z,2379.71
+142,USR1025,2023-03-11,53,Bangalore,North,Groceries,1604.46,1087.7,STORE_007,Premium,Pending,user972@example.com,user_261,2023-12-18T09:52:00.000Z,6072.69
+400,USR1025,2023-03-21,16,Jaipur,East,Beauty,2108.31,2231.74,STORE_013,Premium,Pending,user702@example.com,user_139,2023-03-05T12:59:00.000Z,2022.86
+169,USR1025,2023-07-11,36,Mumbai,North,Sports,4391.08,326.07,STORE_017,Basic,Pending,user943@example.com,user_397,2023-08-22T23:33:00.000Z,3444.57
+387,USR1026,2023-03-08,35,Ahmedabad,South,Books,2537.25,840.81,STORE_001,Basic,Unknown,user508@example.com,user_352,2023-09-27T10:58:00.000Z,4960.49
+398,USR1026,2023-05-01,43,Chennai,South,Sports,923.36,870.35,STORE_015,Basic,Pending,user592@example.com,user_468,2023-07-23T12:10:00.000Z,4284.7
+90,USR1026,2023-10-15,58,Jaipur,West,Home Decor,2325.33,1647.89,STORE_009,Basic,Unknown,user352@example.com,user_405,2023-04-26T09:49:00.000Z,2152.05
+98,USR1026,2023-10-26,48,Mumbai,West,Groceries,2311.15,1397.89,STORE_010,Premium,Unknown,user103@example.com,user_692,2023-02-07T01:27:00.000Z,731.22
+254,USR1027,2023-01-06,60,Chennai,North,Books,2772.47,359.23,STORE_011,Free,Unknown,user730@example.com,user_952,2023-03-31T06:21:00.000Z,9230.57
+143,USR1027,2023-06-17,61,Pune,West,Electronics,1337.83,112.62,STORE_013,Premium,Unknown,user355@example.com,user_204,2023-03-13T03:00:00.000Z,7831.5
+394,USR1027,2023-08-23,58,Lucknow,East,Electronics,1131.88,1804.63,STORE_004,Basic,Unknown,user197@example.com,user_746,2023-12-23T12:43:00.000Z,7736.92
+144,USR1028,2023-03-08,41,Delhi,Central,Books,421.19,609.3,STORE_015,Basic,Active,user949@example.com,user_225,2023-01-22T14:03:00.000Z,5781.45
+377,USR1028,2023-05-15,37,Bangalore,South,Electronics,1345.85,2497.71,STORE_005,Premium,Active,user315@example.com,user_345,2023-07-09T11:42:00.000Z,5316.57
+2,USR1028,2023-08-18,16,Kolkata,East,Books,4788.2,296.38,STORE_004,Free,Pending,user926@example.com,user_570,2023-10-02T03:59:00.000Z,5565.2
+179,USR1028,2023-08-21,65,Pune,West,Clothing,3311.61,0.0,STORE_012,Free,Unknown,user818@example.com,user_268,2023-09-10T04:52:00.000Z,7243.44
+285,USR1028,2023-08-26,58,Chennai,North,Sports,788.63,2736.22,STORE_016,Basic,Inactive,user144@example.com,user_472,2023-05-26T06:27:00.000Z,6206.51
+397,USR1029,2023-06-19,29,Hyderabad,South,Toys,958.55,212.56,STORE_016,Premium,Inactive,user244@example.com,user_228,2023-02-16T05:37:00.000Z,7972.81
+69,USR1029,2023-10-01,46,Pune,Central,Beauty,1444.77,1591.83,STORE_006,Basic,Unknown,user356@example.com,user_592,2023-07-10T17:59:00.000Z,8474.33
+408,USR1029,2023-11-07,63,Pune,West,Beauty,4292.65,2208.15,STORE_010,Basic,Inactive,user990@example.com,user_685,2023-09-16T01:08:00.000Z,962.19
+500,USR1030,2023-02-23,27,Kolkata,North,Electronics,616.65,237.19,STORE_012,Basic,Active,user428@example.com,user_560,2023-07-13T04:40:00.000Z,2077.37
+109,USR1030,2023-04-09,32,Chennai,West,Clothing,2059.84,2970.89,STORE_008,Free,Active,user978@example.com,user_132,2023-02-17T12:24:00.000Z,4812.45
+326,USR1030,2023-06-02,26,Pune,West,Electronics,446.47,1485.24,STORE_014,Free,Unknown,user939@example.com,user_264,2023-12-24T08:32:00.000Z,4266.62
+324,USR1030,2023-08-05,22,Hyderabad,East,Beauty,4321.35,1609.74,STORE_004,Free,Unknown,user799@example.com,user_384,2023-03-16T11:30:00.000Z,8231.52
+266,USR1030,2023-08-10,41,Kolkata,West,Toys,1095.52,434.43,STORE_018,Premium,Pending,user257@example.com,user_993,2023-12-10T04:08:00.000Z,0.0
+362,USR1030,2023-11-02,47,Delhi,East,Electronics,2787.95,106.14,STORE_008,Premium,Pending,user700@example.com,user_352,2023-10-12T20:50:00.000Z,5725.63
+272,USR1030,2023-12-05,56,Hyderabad,Central,Home Decor,1358.76,176.52,STORE_015,Premium,Unknown,user864@example.com,user_645,2023-04-30T12:43:00.000Z,4798.44
+11,USR1031,2023-02-08,51,Mumbai,Central,Electronics,4635.52,515.61,STORE_016,Premium,Inactive,user160@example.com,user_102,2023-07-19T08:59:00.000Z,4604.58
+439,USR1031,2023-04-18,16,Lucknow,East,Home Decor,3542.04,2171.8,STORE_014,Basic,Pending,user158@example.com,user_110,2023-07-02T07:46:00.000Z,1849.68
+66,USR1031,2023-12-29,44,Pune,East,Books,3883.6,176.05,STORE_011,Premium,Pending,user794@example.com,user_358,2023-12-03T19:55:00.000Z,906.87
+186,USR1032,2023-01-03,61,Mumbai,South,Home Decor,3879.62,2532.56,STORE_010,Premium,Unknown,user174@example.com,user_425,2023-09-27T07:11:00.000Z,7883.96
+271,USR1032,2023-01-08,54,Lucknow,South,Beauty,918.23,723.86,STORE_006,Basic,Active,user186@example.com,user_709,2023-03-20T15:48:00.000Z,7726.64
+419,USR1032,2023-01-18,23,Pune,Central,Groceries,4728.88,0.0,STORE_010,Premium,Unknown,user400@example.com,user_555,2023-03-13T18:31:00.000Z,5274.4
+490,USR1032,2023-03-12,34,Delhi,East,Groceries,1023.8,260.54,STORE_008,Premium,Unknown,user354@example.com,user_752,2023-07-17T13:25:00.000Z,1071.57
+304,USR1033,2023-03-25,25,Ahmedabad,South,Home Decor,1399.72,2738.07,STORE_012,Premium,Pending,user754@example.com,user_626,2023-04-10T20:11:00.000Z,6027.75
+210,USR1033,2023-05-08,41,Delhi,Central,Groceries,1800.01,821.85,STORE_007,Premium,Inactive,user347@example.com,user_311,2023-04-28T06:53:00.000Z,6224.11
+491,USR1033,2023-06-04,27,Pune,Central,Groceries,1037.56,1671.77,STORE_010,Free,Active,user743@example.com,user_287,2023-07-12T13:06:00.000Z,4474.82
+452,USR1034,2023-02-25,39,Mumbai,South,Books,577.0,52.71,STORE_010,Basic,Unknown,user133@example.com,user_187,2023-10-19T18:02:00.000Z,7923.23
+113,USR1034,2023-03-20,56,Kolkata,East,Home Decor,75.72,1092.55,STORE_009,Premium,Inactive,user541@example.com,user_668,2023-09-20T13:06:00.000Z,0.0
+330,USR1034,2023-05-28,40,Kolkata,South,Sports,1450.69,1266.63,STORE_014,Basic,Active,user368@example.com,user_561,2023-05-08T11:37:00.000Z,4635.82
+130,USR1035,2023-02-17,32,Pune,South,Electronics,1562.27,717.75,STORE_003,Premium,Active,user179@example.com,user_331,2023-09-23T21:28:00.000Z,0.0
+199,USR1035,2023-04-19,26,Lucknow,North,Sports,1684.61,2032.18,STORE_016,Basic,Unknown,user953@example.com,user_349,2023-01-23T04:36:00.000Z,1433.77
+382,USR1035,2023-04-27,20,Mumbai,Central,Sports,3391.78,2240.73,STORE_009,Basic,Unknown,user975@example.com,user_857,2023-10-06T08:00:00.000Z,2890.27
+252,USR1035,2023-06-18,49,Hyderabad,Central,Electronics,3662.16,2961.82,STORE_016,Basic,Pending,user968@example.com,user_638,2023-10-22T19:22:00.000Z,6181.47
+333,USR1035,2023-07-04,34,Lucknow,East,Home Decor,866.67,1484.0,STORE_005,Basic,Unknown,user252@example.com,user_287,2023-01-19T15:16:00.000Z,4724.62
+115,USR1035,2023-08-04,20,Chennai,South,Beauty,1017.96,927.88,STORE_013,Free,Unknown,user982@example.com,user_442,2023-08-09T20:38:00.000Z,3274.59
+459,USR1035,2023-08-21,,Ahmedabad,South,Sports,205.05,1153.25,STORE_012,Premium,Unknown,user316@example.com,user_876,2023-12-17T13:17:00.000Z,1843.45
+158,USR1035,2023-09-24,16,Delhi,West,Groceries,2960.27,2820.16,STORE_004,Basic,Active,user988@example.com,user_452,2023-07-30T08:24:00.000Z,5763.03
+483,USR1035,2023-09-29,49,Delhi,North,Sports,1136.92,126.35,STORE_009,Basic,Active,user382@example.com,user_735,2023-12-25T22:25:00.000Z,1102.91
+361,USR1036,2023-03-15,65,Bangalore,East,Toys,341.62,560.74,STORE_002,Free,Unknown,user245@example.com,user_431,2023-05-13T12:52:00.000Z,613.59
+45,USR1036,2023-04-27,43,Delhi,West,Groceries,4521.95,0.0,STORE_002,Free,Pending,user249@example.com,user_521,2023-10-17T21:50:00.000Z,1833.19
+139,USR1036,2023-06-09,51,Mumbai,East,Sports,3933.31,742.9,STORE_012,Basic,Unknown,user894@example.com,user_659,2023-05-06T04:00:00.000Z,336.71
+191,USR1036,2023-08-13,58,Ahmedabad,South,Sports,1985.41,1646.26,STORE_005,Free,Pending,user111@example.com,user_668,2023-03-14T03:02:00.000Z,0.0
+247,USR1036,2023-08-25,34,Jaipur,South,Beauty,2285.91,357.25,STORE_019,Basic,Inactive,user431@example.com,user_283,2023-08-21T18:57:00.000Z,2099.13
+208,USR1036,2023-10-14,38,Chennai,South,Sports,2049.58,0.0,STORE_006,Premium,Unknown,user174@example.com,user_448,2023-03-01T16:16:00.000Z,8150.16
+94,USR1037,2023-01-20,,Pune,East,Beauty,2739.34,2816.91,STORE_017,Premium,Pending,user215@example.com,user_848,2023-08-23T20:16:00.000Z,239.43
+270,USR1037,2023-03-27,,Lucknow,East,Electronics,2911.8,1975.83,STORE_010,Basic,Active,user184@example.com,user_178,2023-05-23T08:08:00.000Z,2824.65
+34,USR1037,2023-12-24,56,Delhi,North,Books,2230.32,173.1,STORE_016,Premium,Active,user175@example.com,user_802,2023-01-28T04:09:00.000Z,9496.34
+257,USR1038,2023-03-31,18,Delhi,West,Electronics,4529.53,1033.55,STORE_016,Basic,Pending,user246@example.com,user_200,2023-09-22T21:08:00.000Z,461.87
+47,USR1038,2023-04-12,46,Hyderabad,West,Home Decor,4963.83,2934.27,STORE_013,Free,Active,user802@example.com,user_150,2023-11-07T23:31:00.000Z,9039.06
+357,USR1038,2023-05-31,25,Lucknow,West,Electronics,1560.56,565.57,STORE_016,Premium,Active,user169@example.com,user_527,2023-09-04T18:19:00.000Z,9012.84
+103,USR1038,2023-07-12,50,Hyderabad,South,Books,764.54,191.72,STORE_014,Premium,Unknown,user497@example.com,user_308,2023-06-19T20:05:00.000Z,8486.62
+96,USR1038,2023-10-26,16,Pune,South,Electronics,2353.71,2064.5,STORE_010,Premium,Pending,user326@example.com,user_236,2023-09-02T04:29:00.000Z,6096.82
+235,USR1039,2023-09-26,50,Pune,Central,Sports,3384.49,2913.7,STORE_020,Basic,Unknown,user542@example.com,user_503,2023-03-17T04:21:00.000Z,5757.26
+374,USR1039,2023-10-26,65,Bangalore,West,Books,1490.77,1562.69,STORE_005,Premium,Inactive,user955@example.com,user_155,2023-08-05T11:12:00.000Z,6441.49
+136,USR1039,2023-12-08,63,Delhi,North,Groceries,860.97,1578.56,STORE_009,Basic,Pending,user899@example.com,user_850,2023-03-02T00:21:00.000Z,2792.61
+111,USR1040,2023-01-09,53,Kolkata,North,Books,1240.34,1179.69,STORE_018,Free,Unknown,user243@example.com,user_805,2023-02-10T16:47:00.000Z,631.59
+120,USR1040,2023-02-04,61,Mumbai,East,Clothing,863.55,746.86,STORE_006,Basic,Inactive,user536@example.com,user_337,2023-07-27T20:11:00.000Z,6607.35
+5,USR1040,2023-04-19,41,Bangalore,East,Groceries,2828.77,1762.07,STORE_019,Premium,Pending,user241@example.com,user_193,2023-01-25T03:09:00.000Z,7941.59
+492,USR1040,2023-09-15,61,Ahmedabad,East,Toys,4809.16,2739.42,STORE_001,Premium,Active,user729@example.com,user_905,2023-05-05T18:32:00.000Z,6246.81
+102,USR1041,2023-05-02,25,Kolkata,East,Books,4745.18,2736.5,STORE_014,Basic,Unknown,user452@example.com,user_787,2023-07-15T16:20:00.000Z,4141.77
+349,USR1042,2023-03-12,28,Kolkata,North,Sports,2394.63,530.36,STORE_009,Free,Unknown,user780@example.com,user_871,2023-09-29T13:50:00.000Z,8037.51
+371,USR1042,2023-09-24,20,Delhi,West,Clothing,350.4,0.0,STORE_011,Premium,Inactive,user921@example.com,user_408,2023-11-09T20:27:00.000Z,6807.89
+63,USR1043,2023-04-24,26,Jaipur,North,Sports,1779.41,2460.47,STORE_005,Basic,Active,user302@example.com,user_256,2023-12-02T02:11:00.000Z,6316.69
+59,USR1043,2023-06-29,,Lucknow,West,Clothing,3184.2,0.0,STORE_017,Basic,Unknown,user449@example.com,user_419,2023-06-16T18:38:00.000Z,620.83
+365,USR1043,2023-11-22,64,Chennai,South,Home Decor,2326.01,67.31,STORE_005,Premium,Unknown,user109@example.com,user_523,2023-10-12T22:45:00.000Z,3988.63
+383,USR1044,2023-07-26,53,Ahmedabad,Central,Groceries,1176.51,645.43,STORE_008,Basic,Unknown,user875@example.com,user_933,2023-08-25T10:50:00.000Z,8473.44
+39,USR1044,2023-07-29,58,Bangalore,East,Toys,1476.68,2444.43,STORE_018,Premium,Unknown,user358@example.com,user_891,2023-07-26T16:52:00.000Z,6610.84
+256,USR1045,2023-02-03,33,Pune,West,Groceries,1978.35,2596.49,STORE_010,Free,Active,user188@example.com,user_343,2023-07-10T14:53:00.000Z,2239.78
+114,USR1045,2023-10-11,54,Kolkata,North,Books,3906.89,1687.42,STORE_008,Basic,Unknown,user489@example.com,user_375,2023-06-04T08:31:00.000Z,1755.35
+420,USR1045,2023-11-07,29,Mumbai,South,Electronics,1533.56,2873.12,STORE_020,Basic,Inactive,user384@example.com,user_737,2023-08-05T02:35:00.000Z,3879.64
+73,USR1046,2023-02-04,50,Kolkata,West,Electronics,4906.15,68.4,STORE_003,Free,Inactive,user743@example.com,user_695,2023-06-20T04:02:00.000Z,3451.62
+215,USR1046,2023-10-14,32,Mumbai,West,Clothing,3413.95,1739.02,STORE_018,Basic,Pending,user789@example.com,user_893,2023-08-17T02:24:00.000Z,4691.15
+118,USR1046,2023-12-26,50,Delhi,South,Home Decor,3082.76,1942.19,STORE_013,Free,Unknown,user200@example.com,user_622,2023-09-23T17:37:00.000Z,2288.21
+238,USR1047,2023-03-21,21,Mumbai,South,Groceries,4109.66,0.0,STORE_004,Free,Unknown,user439@example.com,user_650,2023-04-19T06:34:00.000Z,2660.71
+474,USR1047,2023-07-10,36,Mumbai,East,Electronics,1108.17,978.25,STORE_008,Basic,Active,user716@example.com,user_322,2023-02-22T17:17:00.000Z,9468.08
+119,USR1047,2023-07-20,59,Pune,North,Beauty,2109.08,365.89,STORE_005,Free,Pending,user903@example.com,user_594,2023-06-28T15:06:00.000Z,6997.96
+141,USR1047,2023-08-23,21,Jaipur,South,Toys,2860.71,2893.37,STORE_008,Free,Pending,user920@example.com,user_951,2023-06-17T10:28:00.000Z,839.41
+338,USR1047,2023-09-20,44,Ahmedabad,East,Toys,2141.55,575.34,STORE_014,Premium,Active,user574@example.com,user_763,2023-12-18T22:09:00.000Z,5320.06
+470,USR1048,2023-06-10,44,Bangalore,East,Electronics,3315.35,2567.33,STORE_004,Free,Pending,user728@example.com,user_105,2023-03-23T16:47:00.000Z,1303.78
+358,USR1048,2023-09-01,54,Bangalore,Central,Beauty,3352.74,2189.04,STORE_003,Basic,Unknown,user338@example.com,user_447,2023-10-04T01:42:00.000Z,7385.54
+403,USR1048,2023-10-28,42,Delhi,Central,Home Decor,1381.66,2249.9,STORE_010,Premium,Inactive,user101@example.com,user_892,2023-12-23T13:33:00.000Z,2954.57
+316,USR1048,2023-11-12,65,Pune,North,Electronics,684.58,2432.47,STORE_019,Premium,Pending,user538@example.com,user_465,2023-07-30T11:03:00.000Z,2551.38
+444,USR1049,2023-03-17,34,Kolkata,North,Beauty,595.17,2868.43,STORE_012,Premium,Unknown,user469@example.com,user_186,2023-01-23T19:09:00.000Z,5351.76
+218,USR1049,2023-06-08,63,Ahmedabad,South,Groceries,894.51,0.0,STORE_012,Free,Unknown,user991@example.com,user_378,2023-10-08T14:08:00.000Z,7006.47
+318,USR1049,2023-06-15,47,Hyderabad,East,Beauty,3836.27,1852.19,STORE_012,Premium,Inactive,user967@example.com,user_177,2023-10-02T06:18:00.000Z,3043.47
+123,USR1049,2023-08-03,52,Kolkata,South,Beauty,3482.49,2999.7,STORE_018,Basic,Unknown,user291@example.com,user_561,2023-11-14T01:55:00.000Z,194.88
+258,USR1049,2023-09-25,35,Lucknow,North,Home Decor,278.39,1983.77,STORE_010,Premium,Unknown,user754@example.com,user_428,2023-04-13T06:18:00.000Z,3259.58
+121,USR1050,2023-01-15,28,Lucknow,West,Toys,0.0,849.47,STORE_003,Basic,Active,user649@example.com,user_433,2023-04-11T14:07:00.000Z,8640.1
+274,USR1050,2023-08-25,63,Lucknow,South,Home Decor,4966.41,51.52,STORE_001,Premium,Active,user637@example.com,user_556,2023-06-29T07:46:00.000Z,2011.49
+86,USR1051,2023-01-27,28,Jaipur,East,Clothing,2279.25,2479.43,STORE_020,Basic,Active,user199@example.com,user_913,2023-06-23T17:23:00.000Z,2070.67
+467,USR1051,2023-06-12,43,Delhi,South,Clothing,3932.19,1889.41,STORE_009,Basic,Inactive,user308@example.com,user_126,2023-08-12T00:40:00.000Z,1615.18
+313,USR1051,2023-07-02,54,Ahmedabad,Central,Books,2300.44,1478.24,STORE_008,Basic,Active,user154@example.com,user_610,2023-12-14T00:11:00.000Z,6824.12
+298,USR1051,2023-09-13,45,Bangalore,North,Home Decor,1513.01,2909.42,STORE_019,Basic,Unknown,user552@example.com,user_215,2023-09-03T01:08:00.000Z,1257.07
+245,USR1052,2023-01-08,42,Hyderabad,South,Clothing,4775.76,1858.84,STORE_011,Premium,Inactive,user894@example.com,user_852,2023-07-14T23:20:00.000Z,9397.48
+355,USR1052,2023-02-11,43,Ahmedabad,South,Beauty,3400.27,1685.73,STORE_013,Free,Unknown,user533@example.com,user_805,2023-09-08T23:26:00.000Z,1529.03
+41,USR1052,2023-02-17,23,Delhi,South,Beauty,1494.71,1258.16,STORE_016,Premium,Inactive,user248@example.com,user_713,2023-09-18T23:56:00.000Z,791.12
+287,USR1052,2023-04-13,30,Ahmedabad,Central,Beauty,2207.53,1836.11,STORE_006,Premium,Pending,user837@example.com,user_467,2023-05-19T06:21:00.000Z,6952.88
+284,USR1052,2023-05-03,55,Lucknow,South,Beauty,485.7,917.58,STORE_014,Premium,Unknown,user220@example.com,user_197,2023-11-13T11:55:00.000Z,5443.26
+350,USR1052,2023-07-29,49,Mumbai,West,Groceries,3602.25,227.35,STORE_011,Free,Unknown,user268@example.com,user_502,2023-01-19T21:59:00.000Z,9034.86
+479,USR1052,2023-11-23,23,Lucknow,West,Beauty,1643.46,692.97,STORE_009,Free,Active,user955@example.com,user_775,2023-11-28T23:54:00.000Z,872.37
+466,USR1053,2023-01-17,,Pune,Central,Home Decor,4797.84,740.66,STORE_013,Basic,Unknown,user948@example.com,user_691,2023-08-08T04:40:00.000Z,7308.32
+303,USR1053,2023-04-02,60,Mumbai,North,Books,4854.6,1098.04,STORE_016,Basic,Unknown,user743@example.com,user_810,2023-03-03T11:32:00.000Z,273.7
+434,USR1053,2023-05-07,19,Mumbai,North,Electronics,1642.12,854.87,STORE_020,Premium,Unknown,user603@example.com,user_411,2023-02-27T03:42:00.000Z,0.0
+30,USR1053,2023-09-08,39,Bangalore,West,Groceries,4829.09,2428.43,STORE_018,Premium,Unknown,user848@example.com,user_430,2023-05-06T02:17:00.000Z,2514.25
+295,USR1053,2023-12-16,24,Pune,West,Beauty,156.34,85.67,STORE_008,Basic,Pending,user451@example.com,user_905,2023-06-17T15:37:00.000Z,5348.65
+97,USR1053,2023-12-26,46,Hyderabad,Central,Clothing,2664.46,2753.39,STORE_004,Premium,Unknown,user307@example.com,user_253,2023-03-26T10:54:00.000Z,1250.78
+231,USR1054,2023-02-23,27,Jaipur,East,Groceries,3019.58,2709.41,STORE_018,Free,Pending,user748@example.com,user_843,2023-06-15T19:15:00.000Z,2217.89
+194,USR1054,2023-03-28,,Hyderabad,West,Books,714.81,2636.1,STORE_015,Premium,Pending,user598@example.com,user_279,2023-11-27T19:05:00.000Z,8601.27
+449,USR1054,2023-07-10,22,Ahmedabad,Central,Groceries,1857.96,249.65,STORE_019,Premium,Inactive,user581@example.com,user_866,2023-09-28T22:19:00.000Z,7253.32
+212,USR1054,2023-09-02,18,Kolkata,South,Beauty,3506.31,2073.85,STORE_001,Basic,Unknown,user433@example.com,user_982,2023-05-13T05:35:00.000Z,2767.14
+369,USR1054,2023-11-25,57,Pune,West,Toys,3416.86,1097.19,STORE_002,Basic,Active,user530@example.com,user_423,2023-01-03T12:12:00.000Z,8812.97
+276,USR1054,2023-12-21,65,Chennai,South,Clothing,358.82,2987.96,STORE_009,Free,Inactive,user603@example.com,user_305,2023-11-09T12:11:00.000Z,1173.46
+12,USR1054,2023-12-23,51,Bangalore,South,Books,339.49,201.65,STORE_011,Premium,Active,user614@example.com,user_643,2023-03-22T01:32:00.000Z,1939.67
+384,USR1054,2023-12-24,44,Jaipur,North,Home Decor,4375.06,2218.66,STORE_016,Free,Pending,user535@example.com,user_513,2023-12-20T17:19:00.000Z,330.07
+243,USR1055,2023-03-16,52,Pune,North,Clothing,4205.64,107.86,STORE_011,Premium,Unknown,user863@example.com,user_752,2023-05-21T04:49:00.000Z,1402.3
+404,USR1055,2023-03-29,27,Hyderabad,West,Groceries,595.68,653.47,STORE_007,Premium,Inactive,user296@example.com,user_992,2023-07-29T14:40:00.000Z,1181.03
+112,USR1055,2023-04-29,37,Pune,North,Books,2280.22,1668.05,STORE_013,Premium,Inactive,user776@example.com,user_890,2023-11-13T09:51:00.000Z,827.72
+401,USR1055,2023-05-11,64,Jaipur,West,Home Decor,3271.99,2212.28,STORE_008,Premium,Active,user470@example.com,user_792,2023-01-15T22:42:00.000Z,2687.17
+38,USR1055,2023-06-15,17,Hyderabad,Central,Electronics,3377.79,139.89,STORE_006,Premium,Unknown,user384@example.com,user_699,2023-08-12T20:52:00.000Z,1003.3
+461,USR1055,2023-07-01,52,Mumbai,Central,Sports,3356.41,984.72,STORE_011,Premium,Inactive,user251@example.com,user_424,2023-02-28T21:26:00.000Z,7250.63
+76,USR1055,2023-11-05,27,Pune,North,Clothing,1513.42,2158.64,STORE_006,Premium,Pending,user844@example.com,user_461,2023-11-11T13:17:00.000Z,7935.63
+464,USR1055,2023-11-21,55,Delhi,North,Clothing,3100.49,1499.29,STORE_020,Basic,Active,user615@example.com,user_133,2023-12-08T09:54:00.000Z,2306.51
+150,USR1055,2023-11-24,57,Bangalore,Central,Home Decor,2965.3,934.33,STORE_010,Basic,Inactive,user818@example.com,user_500,2023-10-18T01:11:00.000Z,9218.28
+176,USR1056,2023-01-24,57,Mumbai,Central,Sports,3365.73,1578.85,STORE_020,Premium,Unknown,user354@example.com,user_779,2023-12-13T20:24:00.000Z,8281.73
+264,USR1056,2023-04-01,41,Lucknow,North,Toys,3242.7,668.48,STORE_005,Basic,Active,user776@example.com,user_644,2023-05-30T12:39:00.000Z,2037.1
+348,USR1056,2023-08-23,64,Delhi,Central,Clothing,257.75,1897.18,STORE_007,Free,Inactive,user825@example.com,user_618,2023-09-13T23:55:00.000Z,6506.22
+450,USR1056,2023-11-27,34,Bangalore,North,Electronics,909.22,1201.24,STORE_014,Premium,Unknown,user364@example.com,user_613,2023-06-06T22:14:00.000Z,1652.33
+259,USR1056,2023-12-10,25,Chennai,North,Electronics,2820.15,1636.74,STORE_018,Free,Pending,user821@example.com,user_687,2023-05-06T05:04:00.000Z,8933.21
+363,USR1057,2023-02-12,48,Bangalore,East,Groceries,2710.8,2736.25,STORE_015,Premium,Active,user949@example.com,user_768,2023-03-27T00:03:00.000Z,4873.64
+462,USR1057,2023-03-06,56,Mumbai,South,Sports,2753.13,1145.12,STORE_012,Basic,Inactive,user690@example.com,user_479,2023-07-06T00:19:00.000Z,5070.64
+182,USR1057,2023-03-10,54,Jaipur,East,Sports,3139.63,1048.97,STORE_005,Basic,Unknown,user752@example.com,user_218,2023-06-30T17:30:00.000Z,9432.47
+488,USR1057,2023-09-27,59,Pune,West,Toys,1417.42,1746.96,STORE_011,Basic,Active,user565@example.com,user_911,2023-06-27T09:07:00.000Z,5039.38
+294,USR1057,2023-11-14,59,Hyderabad,West,Clothing,4494.83,2870.75,STORE_004,Basic,Pending,user251@example.com,user_995,2023-04-15T16:40:00.000Z,0.0
+315,USR1058,2023-01-19,,Bangalore,West,Toys,3592.83,345.96,STORE_016,Basic,Unknown,user587@example.com,user_260,2023-09-17T01:25:00.000Z,5951.35
+248,USR1058,2023-02-16,60,Delhi,North,Clothing,3188.66,2127.69,STORE_017,Basic,Inactive,user489@example.com,user_274,2023-06-21T18:55:00.000Z,1585.89
+497,USR1058,2023-03-03,16,Mumbai,Central,Beauty,4539.94,1414.36,STORE_015,Free,Active,user466@example.com,user_981,2023-09-15T06:22:00.000Z,5298.05
+14,USR1058,2023-06-11,20,Ahmedabad,Central,Clothing,1105.11,2801.11,STORE_003,Basic,Pending,user548@example.com,user_820,2023-06-04T19:51:00.000Z,177.45
+291,USR1058,2023-08-26,61,Bangalore,East,Beauty,56.75,1166.94,STORE_011,Basic,Active,user870@example.com,user_727,2023-10-05T18:50:00.000Z,6878.19
+465,USR1058,2023-10-10,28,Delhi,East,Beauty,4111.07,2228.64,STORE_001,Free,Inactive,user374@example.com,user_370,2023-06-07T13:43:00.000Z,9011.85
+336,USR1058,2023-11-18,54,Pune,North,Beauty,3671.15,2873.06,STORE_019,Basic,Inactive,user920@example.com,user_430,2023-01-29T23:04:00.000Z,6062.69
+320,USR1058,2023-12-10,27,Jaipur,South,Beauty,4812.48,1412.54,STORE_018,Basic,Unknown,user844@example.com,user_634,2023-04-13T11:29:00.000Z,1589.68
+402,USR1058,2023-12-15,31,Mumbai,North,Clothing,4588.57,1766.76,STORE_003,Basic,Inactive,user269@example.com,user_358,2023-12-21T09:32:00.000Z,6619.01
+329,USR1059,2023-04-12,26,Kolkata,Central,Toys,788.79,526.97,STORE_019,Premium,Active,user545@example.com,user_564,2023-12-11T15:07:00.000Z,2111.14
+289,USR1059,2023-05-23,,Hyderabad,South,Home Decor,1150.91,2839.83,STORE_019,Premium,Unknown,user141@example.com,user_851,2023-09-16T01:27:00.000Z,4844.77
+64,USR1059,2023-10-16,44,Pune,South,Beauty,2238.93,838.53,STORE_002,Free,Unknown,user572@example.com,user_158,2023-07-08T09:04:00.000Z,9775.95
+261,USR1059,2023-10-18,60,Delhi,West,Books,3565.57,710.45,STORE_008,Basic,Unknown,user472@example.com,user_816,2023-12-07T10:50:00.000Z,3315.13
+388,USR1059,2023-10-22,,Chennai,West,Home Decor,3572.66,1846.82,STORE_006,Premium,Inactive,user732@example.com,user_568,2023-07-16T21:11:00.000Z,1045.79
+51,USR1059,2023-12-25,42,Bangalore,North,Electronics,2488.49,2664.03,STORE_005,Premium,Unknown,user860@example.com,user_653,2023-08-03T18:47:00.000Z,8865.6
+117,USR1059,2023-12-29,34,Kolkata,West,Groceries,1248.0,2151.4,STORE_013,Premium,Unknown,user590@example.com,user_647,2023-09-17T22:26:00.000Z,7928.14
+214,USR1060,2023-01-05,47,Jaipur,Central,Home Decor,1535.17,1712.15,STORE_013,Premium,Inactive,user933@example.com,user_959,2023-11-19T03:28:00.000Z,2671.71
+308,USR1060,2023-03-02,18,Chennai,North,Clothing,4604.49,2705.5,STORE_006,Free,Active,user966@example.com,user_384,2023-10-24T11:22:00.000Z,5056.28
+223,USR1060,2023-04-03,32,Mumbai,North,Sports,4876.11,2983.72,STORE_007,Premium,Active,user313@example.com,user_797,2023-06-09T10:10:00.000Z,517.64
+155,USR1060,2023-09-08,32,Jaipur,West,Groceries,1938.15,152.96,STORE_015,Premium,Pending,user375@example.com,user_254,2023-12-23T21:06:00.000Z,3503.53
+162,USR1060,2023-10-28,38,Chennai,North,Books,0.0,0.0,STORE_019,Basic,Inactive,user793@example.com,user_767,2023-07-29T16:01:00.000Z,9674.67
+446,USR1061,2023-02-04,43,Bangalore,North,Home Decor,950.27,971.56,STORE_014,Premium,Unknown,user751@example.com,user_921,2023-12-01T07:24:00.000Z,5021.31
+105,USR1061,2023-05-05,61,Kolkata,South,Home Decor,1934.28,1090.59,STORE_009,Free,Unknown,user577@example.com,user_839,2023-08-29T10:58:00.000Z,3197.93
+255,USR1061,2023-08-31,57,Ahmedabad,South,Beauty,2707.99,2356.29,STORE_014,Premium,Unknown,user842@example.com,user_668,2023-10-02T00:13:00.000Z,3384.02
+426,USR1061,2023-09-12,59,Kolkata,North,Sports,3742.29,2113.72,STORE_012,Basic,Unknown,user143@example.com,user_272,2023-12-12T16:57:00.000Z,843.71
+239,USR1061,2023-11-15,25,Kolkata,Central,Electronics,347.54,2095.65,STORE_009,Premium,Unknown,user108@example.com,user_776,2023-05-19T21:54:00.000Z,3666.17
+262,USR1062,2023-01-16,23,Ahmedabad,West,Groceries,1775.65,1533.69,STORE_013,Premium,Pending,user172@example.com,user_645,2023-08-25T12:37:00.000Z,6246.66
+168,USR1062,2023-06-20,27,Mumbai,North,Beauty,3817.91,2298.16,STORE_016,Premium,Inactive,user748@example.com,user_539,2023-09-02T12:00:00.000Z,0.0
+480,USR1063,2023-01-31,58,Ahmedabad,West,Sports,1735.23,2289.58,STORE_017,Free,Pending,user771@example.com,user_616,2023-02-24T04:14:00.000Z,3917.2
+253,USR1063,2023-09-24,47,Bangalore,Central,Sports,4897.33,0.0,STORE_001,Premium,Active,user312@example.com,user_524,2023-07-31T01:21:00.000Z,8079.83
+347,USR1064,2023-01-17,37,Delhi,Central,Sports,1159.27,1034.17,STORE_012,Premium,Unknown,user254@example.com,user_994,2023-09-21T19:42:00.000Z,599.18
+431,USR1064,2023-07-19,22,Bangalore,South,Home Decor,3848.56,2041.36,STORE_011,Premium,Unknown,user544@example.com,user_388,2023-09-06T02:48:00.000Z,6214.37
+332,USR1064,2023-11-14,41,Bangalore,Central,Electronics,1338.44,2792.37,STORE_015,Basic,Active,user643@example.com,user_366,2023-03-01T10:02:00.000Z,5042.19
+200,USR1065,2023-01-21,25,Bangalore,East,Groceries,2057.01,1920.12,STORE_010,Premium,Inactive,user582@example.com,user_274,2023-04-23T13:38:00.000Z,5868.2
+498,USR1065,2023-02-02,25,Lucknow,East,Beauty,3944.15,2292.57,STORE_010,Premium,Active,user760@example.com,user_583,2023-11-07T21:11:00.000Z,9281.38
+125,USR1065,2023-02-27,33,Jaipur,North,Beauty,4949.39,2493.61,STORE_008,Free,Active,user456@example.com,user_189,2023-08-13T03:49:00.000Z,2177.79
+472,USR1065,2023-07-24,32,Hyderabad,East,Toys,3976.11,513.65,STORE_007,Premium,Unknown,user533@example.com,user_378,2023-06-13T19:06:00.000Z,4350.2
+87,USR1065,2023-07-25,18,Bangalore,East,Beauty,787.26,436.55,STORE_020,Free,Inactive,user731@example.com,user_406,2023-10-31T10:32:00.000Z,5370.16
+416,USR1065,2023-11-29,43,Kolkata,South,Electronics,2013.39,1796.54,STORE_006,Premium,Active,user985@example.com,user_491,2023-05-21T20:41:00.000Z,214.86
+221,USR1066,2023-11-10,59,Chennai,Central,Books,4274.74,882.99,STORE_015,Basic,Unknown,user737@example.com,user_428,2023-01-10T04:03:00.000Z,319.1
+56,USR1067,2023-05-31,54,Delhi,North,Sports,4446.05,2485.71,STORE_013,Premium,Active,user420@example.com,user_483,2023-03-20T21:59:00.000Z,1003.13
+122,USR1067,2023-11-24,40,Lucknow,North,Home Decor,2316.41,2027.29,STORE_010,Basic,Unknown,user237@example.com,user_344,2023-06-06T03:11:00.000Z,1499.45
+82,USR1068,2023-02-17,26,Bangalore,Central,Home Decor,2839.91,104.55,STORE_002,Basic,Pending,user885@example.com,user_732,2023-11-24T00:31:00.000Z,5501.22
+92,USR1068,2023-05-19,60,Bangalore,North,Sports,3365.68,1921.07,STORE_002,Premium,Unknown,user583@example.com,user_889,2023-03-12T00:35:00.000Z,1663.62
+19,USR1068,2023-06-19,23,Bangalore,Central,Books,3003.03,2363.56,STORE_014,Basic,Unknown,user690@example.com,user_145,2023-12-29T13:00:00.000Z,8084.46
+140,USR1069,2023-06-27,60,Pune,North,Toys,3649.71,1598.85,STORE_008,Premium,Unknown,user245@example.com,user_195,2023-01-23T07:57:00.000Z,4189.26
+156,USR1069,2023-07-31,53,Jaipur,North,Toys,2122.23,2603.34,STORE_016,Basic,Inactive,user180@example.com,user_974,2023-01-18T16:36:00.000Z,8024.46
+277,USR1069,2023-08-09,57,Ahmedabad,East,Clothing,398.54,2336.17,STORE_001,Premium,Inactive,user100@example.com,user_780,2023-07-19T08:09:00.000Z,9055.71
+260,USR1069,2023-08-16,17,Mumbai,North,Toys,2161.01,1796.44,STORE_019,Premium,Unknown,user440@example.com,user_830,2023-12-10T17:05:00.000Z,7581.86
+353,USR1069,2023-10-31,65,Kolkata,Central,Clothing,4215.84,1532.35,STORE_004,Premium,Active,user686@example.com,user_564,2023-06-23T07:51:00.000Z,5857.78
+436,USR1069,2023-11-13,62,Hyderabad,Central,Groceries,998.95,772.53,STORE_018,Free,Pending,user834@example.com,user_546,2023-02-04T15:26:00.000Z,9529.2
+435,USR1070,2023-03-08,63,Lucknow,Central,Home Decor,1415.94,279.95,STORE_004,Basic,Unknown,user700@example.com,user_770,2023-04-08T06:45:00.000Z,1076.51
+263,USR1070,2023-03-23,40,Pune,South,Toys,2205.0,1642.69,STORE_008,Basic,Active,user828@example.com,user_598,2023-02-28T18:38:00.000Z,5595.37
+15,USR1070,2023-06-03,22,Chennai,North,Clothing,819.47,647.68,STORE_011,Basic,Pending,user357@example.com,user_966,2023-01-27T02:40:00.000Z,2839.13
+296,USR1070,2023-08-16,52,Chennai,South,Books,1890.92,2539.63,STORE_005,Free,Pending,user270@example.com,user_264,2023-12-31T17:18:00.000Z,1836.06
+224,USR1070,2023-09-24,46,Hyderabad,East,Electronics,1128.05,1906.07,STORE_011,Premium,Inactive,user698@example.com,user_908,2023-05-05T00:02:00.000Z,6938.44
+372,USR1071,2023-01-27,40,Delhi,Central,Toys,3017.9,51.61,STORE_013,Premium,Unknown,user734@example.com,user_766,2023-12-12T00:29:00.000Z,5919.35
+50,USR1071,2023-07-07,41,Chennai,Central,Clothing,3380.5,1761.99,STORE_012,Premium,Inactive,user734@example.com,user_674,2023-06-17T19:14:00.000Z,6390.5
+418,USR1071,2023-10-02,49,Delhi,Central,Clothing,1076.95,369.63,STORE_020,Basic,Active,user919@example.com,user_140,2023-03-07T18:13:00.000Z,969.43
+205,USR1071,2023-10-12,35,Kolkata,South,Clothing,2260.64,502.15,STORE_007,Basic,Unknown,user920@example.com,user_813,2023-12-17T22:03:00.000Z,9649.25
+493,USR1072,2023-05-31,41,Kolkata,North,Beauty,4380.81,181.95,STORE_002,Free,Active,user199@example.com,user_679,2023-09-04T22:21:00.000Z,1302.28
+21,USR1072,2023-06-04,16,Chennai,South,Toys,3052.97,1336.52,STORE_007,Basic,Unknown,user915@example.com,user_774,2023-02-13T09:32:00.000Z,6230.68
+134,USR1072,2023-08-04,59,Ahmedabad,North,Electronics,118.28,2769.29,STORE_013,Basic,Pending,user613@example.com,user_533,2023-12-26T12:05:00.000Z,5422.79
+443,USR1072,2023-08-16,35,Ahmedabad,South,Sports,3475.6,386.77,STORE_002,Premium,Unknown,user623@example.com,user_525,2023-03-14T00:58:00.000Z,2344.08
+278,USR1073,2023-01-02,65,Ahmedabad,West,Toys,3915.64,1629.58,STORE_001,Premium,Unknown,user648@example.com,user_467,2023-06-20T21:19:00.000Z,6359.5
+237,USR1073,2023-02-15,42,Pune,East,Sports,2989.69,0.0,STORE_010,Basic,Pending,user922@example.com,user_249,2023-08-14T01:59:00.000Z,2076.88
+78,USR1073,2023-03-12,41,Chennai,South,Clothing,0.0,1562.88,STORE_018,Premium,Pending,user820@example.com,user_726,2023-05-27T22:58:00.000Z,2081.77
+209,USR1073,2023-05-09,40,Hyderabad,East,Beauty,4487.79,1456.27,STORE_009,Premium,Unknown,user325@example.com,user_335,2023-06-11T13:22:00.000Z,196.26
+80,USR1073,2023-07-08,51,Lucknow,North,Clothing,4998.0,1586.57,STORE_014,Basic,Active,user424@example.com,user_560,2023-08-27T21:33:00.000Z,8791.81
+43,USR1073,2023-07-16,65,Mumbai,East,Beauty,4066.47,1997.79,STORE_005,Premium,Active,user704@example.com,user_202,2023-08-14T03:33:00.000Z,251.94
+319,USR1073,2023-07-25,55,Lucknow,North,Home Decor,2853.82,1292.78,STORE_012,Premium,Pending,user407@example.com,user_652,2023-06-10T06:26:00.000Z,6287.14
+246,USR1073,2023-11-01,57,Jaipur,North,Beauty,4394.95,752.25,STORE_018,Premium,Active,user628@example.com,user_150,2023-04-08T09:28:00.000Z,3115.09
+29,USR1073,2023-12-13,40,Hyderabad,North,Sports,3873.78,1809.23,STORE_004,Basic,Active,user538@example.com,user_170,2023-09-17T20:21:00.000Z,0.0
+283,USR1074,2023-01-21,56,Bangalore,North,Beauty,85.76,2126.09,STORE_019,Free,Unknown,user911@example.com,user_808,2023-03-06T06:09:00.000Z,5278.56
+381,USR1074,2023-01-22,55,Kolkata,West,Beauty,1869.18,833.6,STORE_001,Basic,Unknown,user760@example.com,user_184,2023-05-31T16:32:00.000Z,873.77
+380,USR1074,2023-07-25,53,Hyderabad,South,Sports,1210.2,1286.57,STORE_013,Basic,Inactive,user483@example.com,user_186,2023-03-10T02:18:00.000Z,3580.59
+494,USR1074,2023-12-12,61,Hyderabad,Central,Groceries,4838.03,2687.26,STORE_005,Free,Pending,user106@example.com,user_738,2023-12-19T06:07:00.000Z,1614.92
+280,USR1075,2023-05-03,20,Ahmedabad,Central,Beauty,131.27,1026.4,STORE_002,Premium,Active,user769@example.com,user_569,2023-12-14T17:09:00.000Z,2406.56
+250,USR1075,2023-12-04,42,Delhi,Central,Electronics,2759.34,1681.49,STORE_007,Premium,Inactive,user768@example.com,user_248,2023-01-17T21:36:00.000Z,3054.57
+202,USR1076,2023-01-20,50,Delhi,West,Groceries,2719.47,0.0,STORE_014,Basic,Unknown,user144@example.com,user_539,2023-04-28T15:50:00.000Z,3570.13
+13,USR1076,2023-02-04,31,Delhi,Central,Sports,246.72,1978.97,STORE_019,Basic,Pending,user309@example.com,user_421,2023-05-03T08:25:00.000Z,6490.46
+445,USR1076,2023-04-03,25,Lucknow,East,Home Decor,1391.91,1119.96,STORE_009,Premium,Active,user252@example.com,user_250,2023-06-13T04:24:00.000Z,7988.82
+364,USR1076,2023-05-09,40,Hyderabad,Central,Books,3708.96,915.9,STORE_013,Premium,Inactive,user386@example.com,user_315,2023-11-09T16:51:00.000Z,6852.8
+192,USR1076,2023-07-21,21,Hyderabad,East,Sports,3247.36,499.64,STORE_008,Basic,Pending,user285@example.com,user_680,2023-01-28T17:29:00.000Z,824.13
+165,USR1076,2023-07-26,59,Mumbai,West,Books,2121.9,125.25,STORE_019,Basic,Pending,user327@example.com,user_753,2023-09-01T21:22:00.000Z,8469.65
+227,USR1076,2023-10-11,49,Ahmedabad,East,Books,2297.69,1527.75,STORE_006,Premium,Unknown,user894@example.com,user_428,2023-02-02T21:34:00.000Z,1979.71
+471,USR1077,2023-01-16,49,Hyderabad,East,Clothing,196.01,268.66,STORE_005,Free,Pending,user194@example.com,user_664,2023-11-30T09:29:00.000Z,5008.44
+26,USR1077,2023-04-23,33,Ahmedabad,North,Toys,3411.75,511.83,STORE_015,Basic,Unknown,user503@example.com,user_778,2023-01-14T02:41:00.000Z,8681.83
+300,USR1077,2023-09-19,58,Kolkata,South,Toys,1895.51,1067.04,STORE_015,Basic,Active,user554@example.com,user_525,2023-08-15T09:10:00.000Z,9706.57
+406,USR1077,2023-09-24,64,Ahmedabad,West,Home Decor,1715.92,1042.37,STORE_011,Basic,Pending,user487@example.com,user_464,2023-06-19T03:00:00.000Z,7013.25
+412,USR1077,2023-10-30,41,Jaipur,West,Home Decor,4717.31,1509.5,STORE_015,Basic,Unknown,user864@example.com,user_920,2023-12-26T01:38:00.000Z,5073.54
+177,USR1078,2023-01-28,,Jaipur,West,Beauty,420.58,737.86,STORE_009,Premium,Unknown,user758@example.com,user_936,2023-05-01T02:29:00.000Z,5773.05
+149,USR1078,2023-04-14,37,Pune,North,Electronics,3538.25,350.54,STORE_017,Free,Active,user778@example.com,user_203,2023-06-22T09:20:00.000Z,1659.29
+213,USR1078,2023-06-25,47,Hyderabad,West,Home Decor,2032.93,1722.8,STORE_019,Basic,Active,user923@example.com,user_542,2023-07-15T06:09:00.000Z,7411.57
+46,USR1078,2023-07-15,31,Lucknow,South,Sports,1307.19,48.0,STORE_015,Free,Unknown,user552@example.com,user_701,2023-06-03T20:27:00.000Z,4622.67
+399,USR1078,2023-08-10,46,Kolkata,West,Clothing,4611.59,475.34,STORE_006,Free,Unknown,user564@example.com,user_675,2023-11-07T15:04:00.000Z,7177.15
+242,USR1078,2023-11-17,42,Lucknow,South,Toys,4553.19,1635.86,STORE_007,Basic,Unknown,user919@example.com,user_241,2023-06-08T22:45:00.000Z,9104.67
+306,USR1078,2023-12-20,49,Kolkata,West,Clothing,699.6,0.0,STORE_012,Free,Pending,user552@example.com,user_711,2023-09-25T10:11:00.000Z,384.72
+171,USR1079,2023-01-25,19,Mumbai,North,Clothing,1932.26,1433.7,STORE_005,Basic,Active,user777@example.com,user_632,2023-05-19T19:38:00.000Z,4246.37
+396,USR1079,2023-02-10,39,Chennai,South,Groceries,3228.09,2181.42,STORE_015,Free,Inactive,user759@example.com,user_140,2023-09-24T13:41:00.000Z,7530.45
+376,USR1079,2023-04-20,63,Kolkata,South,Toys,4949.9,239.72,STORE_001,Basic,Active,user550@example.com,user_699,2023-07-04T01:01:00.000Z,2912.6
+292,USR1079,2023-06-21,19,Mumbai,North,Toys,3114.71,542.3,STORE_018,Premium,Unknown,user309@example.com,user_442,2023-05-03T17:07:00.000Z,7400.06
+455,USR1079,2023-08-09,61,Hyderabad,South,Clothing,2856.16,310.27,STORE_001,Basic,Pending,user916@example.com,user_189,2023-09-13T03:29:00.000Z,9347.15
+378,USR1079,2023-08-11,20,Bangalore,South,Sports,1922.07,1806.66,STORE_008,Premium,Unknown,user974@example.com,user_908,2023-03-18T10:15:00.000Z,7976.56
+229,USR1079,2023-12-26,19,Hyderabad,Central,Clothing,0.0,1974.13,STORE_003,Premium,Active,user861@example.com,user_525,2023-07-08T22:03:00.000Z,2731.57
+468,USR1079,2023-12-29,21,Mumbai,South,Beauty,3899.07,1964.52,STORE_008,Free,Inactive,user351@example.com,user_926,2023-07-13T08:42:00.000Z,921.34
+7,USR1080,2023-06-02,48,Bangalore,East,Groceries,3904.2,21.7,STORE_011,Premium,Active,user471@example.com,user_951,2023-06-07T07:03:00.000Z,5716.83
+3,USR1080,2023-11-13,39,Delhi,North,Sports,4926.85,2602.12,STORE_013,Free,Unknown,user473@example.com,user_463,2023-04-18T21:17:00.000Z,6867.12
+110,USR1081,2023-01-05,21,Kolkata,East,Clothing,4599.8,2705.79,STORE_019,Premium,Pending,user176@example.com,user_387,2023-10-06T18:42:00.000Z,0.0
+1,USR1081,2023-02-27,,Hyderabad,South,Groceries,3399.66,279.08,STORE_014,Premium,Active,user338@example.com,user_127,2023-10-15T06:45:00.000Z,5494.92
+405,USR1081,2023-03-27,21,Delhi,East,Clothing,2948.95,2024.96,STORE_004,Premium,Active,user107@example.com,user_908,2023-01-22T03:13:00.000Z,171.89
+392,USR1081,2023-09-25,61,Kolkata,East,Beauty,73.1,2306.0,STORE_008,Free,Inactive,user116@example.com,user_114,2023-06-22T06:43:00.000Z,2283.62
+167,USR1081,2023-10-26,55,Ahmedabad,South,Clothing,1939.26,181.1,STORE_005,Basic,Inactive,user683@example.com,user_568,2023-03-15T10:55:00.000Z,7811.52
+267,USR1082,2023-01-09,47,Bangalore,North,Groceries,2108.48,2371.01,STORE_020,Premium,Unknown,user621@example.com,user_939,2023-08-19T12:22:00.000Z,4305.24
+322,USR1082,2023-01-19,33,Mumbai,East,Books,921.13,2892.08,STORE_016,Premium,Active,user185@example.com,user_405,2023-02-02T13:57:00.000Z,6608.56
+359,USR1082,2023-02-15,61,Lucknow,East,Clothing,471.5,1634.67,STORE_002,Basic,Unknown,user587@example.com,user_119,2023-03-03T21:59:00.000Z,9627.53
+279,USR1082,2023-02-16,37,Ahmedabad,East,Sports,244.69,589.19,STORE_013,Premium,Pending,user747@example.com,user_294,2023-03-13T01:12:00.000Z,0.0
+74,USR1082,2023-03-31,59,Ahmedabad,South,Groceries,3892.14,894.46,STORE_002,Basic,Active,user417@example.com,user_934,2023-10-06T15:16:00.000Z,0.0
+75,USR1082,2023-04-08,65,Pune,East,Clothing,2212.91,1330.42,STORE_013,Free,Inactive,user609@example.com,user_916,2023-09-23T08:51:00.000Z,4302.55
+83,USR1082,2023-06-04,59,Chennai,West,Clothing,832.5,1404.04,STORE_011,Basic,Inactive,user835@example.com,user_981,2023-06-26T12:08:00.000Z,5198.3
+226,USR1082,2023-06-27,44,Mumbai,West,Home Decor,1290.95,0.0,STORE_015,Basic,Pending,user601@example.com,user_291,2023-10-06T11:20:00.000Z,2825.71
+428,USR1082,2023-09-21,18,Lucknow,West,Electronics,3096.87,1074.6,STORE_001,Free,Inactive,user109@example.com,user_603,2023-04-12T02:33:00.000Z,1621.74
+339,USR1082,2023-09-26,45,Delhi,West,Books,682.56,2527.78,STORE_017,Premium,Pending,user664@example.com,user_146,2023-09-20T03:32:00.000Z,1035.4
+188,USR1082,2023-11-11,31,Pune,West,Clothing,2724.17,2735.78,STORE_012,Basic,Unknown,user144@example.com,user_767,2023-04-09T10:32:00.000Z,1049.97
+52,USR1083,2023-02-20,55,Chennai,North,Home Decor,2251.24,1100.8,STORE_012,Basic,Pending,user382@example.com,user_225,2023-08-21T02:42:00.000Z,6430.98
+132,USR1083,2023-03-26,62,Bangalore,West,Beauty,479.11,2262.29,STORE_019,Premium,Pending,user422@example.com,user_353,2023-05-22T20:05:00.000Z,6049.89
+175,USR1083,2023-03-27,60,Bangalore,North,Toys,2439.24,1325.73,STORE_020,Premium,Pending,user983@example.com,user_958,2023-03-08T15:58:00.000Z,8887.18
+204,USR1083,2023-04-16,36,Pune,North,Groceries,2947.58,1617.59,STORE_019,Free,Unknown,user796@example.com,user_308,2023-07-31T17:50:00.000Z,1869.32
+352,USR1083,2023-07-27,35,Mumbai,Central,Home Decor,3608.46,1571.0,STORE_018,Free,Inactive,user665@example.com,user_448,2023-11-22T05:01:00.000Z,0.0
+93,USR1083,2023-09-01,28,Pune,East,Electronics,492.83,1614.75,STORE_002,Basic,Unknown,user280@example.com,user_137,2023-07-23T15:11:00.000Z,9625.1
+54,USR1084,2023-01-14,38,Lucknow,East,Electronics,309.38,1587.73,STORE_003,Premium,Unknown,user625@example.com,user_562,2023-09-15T07:39:00.000Z,7853.95
+67,USR1084,2023-03-14,35,Bangalore,Central,Clothing,1914.56,2443.29,STORE_017,Premium,Unknown,user118@example.com,user_284,2023-04-20T10:49:00.000Z,2342.78
+154,USR1084,2023-05-25,22,Kolkata,Central,Beauty,1836.1,897.76,STORE_020,Premium,Inactive,user311@example.com,user_398,2023-02-11T15:54:00.000Z,7870.28
+207,USR1084,2023-09-23,18,Lucknow,South,Electronics,3292.34,278.79,STORE_009,Premium,Pending,user515@example.com,user_630,2023-01-08T23:45:00.000Z,992.64
+55,USR1084,2023-09-24,57,Mumbai,West,Toys,584.41,1341.82,STORE_003,Free,Unknown,user229@example.com,user_748,2023-10-27T17:45:00.000Z,9946.81
+482,USR1084,2023-09-29,32,Jaipur,North,Home Decor,795.57,1533.62,STORE_002,Premium,Pending,user150@example.com,user_849,2023-08-05T06:18:00.000Z,1848.79
+166,USR1084,2023-10-13,22,Bangalore,East,Groceries,4502.98,682.32,STORE_008,Free,Unknown,user439@example.com,user_699,2023-05-31T14:54:00.000Z,631.4
+340,USR1084,2023-10-19,38,Lucknow,North,Electronics,3324.81,562.98,STORE_013,Premium,Active,user821@example.com,user_701,2023-08-21T21:28:00.000Z,2724.24
+487,USR1084,2023-11-02,33,Bangalore,West,Sports,751.08,748.22,STORE_014,Free,Inactive,user298@example.com,user_486,2023-11-24T03:17:00.000Z,6820.14
+193,USR1085,2023-02-04,28,Pune,East,Groceries,1210.94,228.03,STORE_007,Free,Unknown,user731@example.com,user_810,2023-10-27T04:36:00.000Z,8096.23
+475,USR1085,2023-02-08,57,Kolkata,East,Home Decor,295.82,159.44,STORE_009,Premium,Active,user275@example.com,user_705,2023-07-16T07:36:00.000Z,0.0
+410,USR1085,2023-03-05,50,Delhi,East,Sports,3843.37,1939.08,STORE_013,Premium,Unknown,user547@example.com,user_328,2023-05-13T03:18:00.000Z,982.48
+127,USR1086,2023-02-18,64,Mumbai,East,Groceries,706.82,979.85,STORE_008,Premium,Unknown,user747@example.com,user_524,2023-07-12T14:04:00.000Z,8813.24
+409,USR1086,2023-10-08,45,Ahmedabad,North,Beauty,1242.46,2264.69,STORE_003,Premium,Unknown,user129@example.com,user_434,2023-07-16T08:14:00.000Z,6692.73
+157,USR1086,2023-11-14,64,Bangalore,South,Sports,674.62,2965.07,STORE_014,Basic,Inactive,user364@example.com,user_844,2023-02-04T02:24:00.000Z,5565.34
+342,USR1086,2023-12-20,35,Bangalore,South,Electronics,4089.04,580.9,STORE_001,Basic,Unknown,user765@example.com,user_962,2023-11-17T17:12:00.000Z,7720.24
+163,USR1087,2023-01-05,24,Lucknow,North,Sports,4035.17,2901.73,STORE_009,Premium,Unknown,user570@example.com,user_577,2023-06-04T21:33:00.000Z,4031.81
+170,USR1087,2023-03-10,47,Hyderabad,South,Toys,0.0,2954.94,STORE_007,Premium,Unknown,user226@example.com,user_766,2023-01-20T12:56:00.000Z,7735.37
+489,USR1087,2023-03-17,25,Lucknow,Central,Groceries,1476.89,66.47,STORE_002,Basic,Pending,user226@example.com,user_413,2023-01-03T13:22:00.000Z,106.35
+228,USR1087,2023-09-12,25,Pune,West,Home Decor,2639.84,2508.88,STORE_005,Basic,Active,user597@example.com,user_132,2023-10-20T20:53:00.000Z,4950.11
+368,USR1087,2023-11-05,20,Delhi,South,Books,4284.62,2192.12,STORE_009,Basic,Active,user809@example.com,user_729,2023-05-10T21:35:00.000Z,119.35
+20,USR1087,2023-12-10,43,Pune,Central,Home Decor,666.9,1531.23,STORE_014,Free,Unknown,user667@example.com,user_530,2023-12-07T12:43:00.000Z,1822.87
+413,USR1088,2023-03-05,61,Hyderabad,West,Books,1914.71,1012.77,STORE_007,Basic,Active,user894@example.com,user_599,2023-07-20T09:52:00.000Z,8500.33
+116,USR1088,2023-04-13,27,Pune,East,Beauty,3920.77,855.29,STORE_013,Free,Active,user304@example.com,user_658,2023-04-03T21:49:00.000Z,9534.75
+233,USR1088,2023-05-22,48,Delhi,North,Beauty,735.12,1754.82,STORE_008,Free,Pending,user509@example.com,user_322,2023-02-09T23:20:00.000Z,1811.73
+32,USR1088,2023-09-01,47,Mumbai,North,Books,3474.35,1753.04,STORE_016,Basic,Unknown,user863@example.com,user_460,2023-12-26T14:17:00.000Z,2382.33
+220,USR1088,2023-09-09,46,Mumbai,West,Books,3994.0,581.94,STORE_018,Premium,Unknown,user832@example.com,user_499,2023-07-13T07:16:00.000Z,6290.7
+225,USR1088,2023-11-02,65,Hyderabad,South,Beauty,3112.29,2990.98,STORE_002,Premium,Pending,user818@example.com,user_209,2023-03-06T15:14:00.000Z,5627.67
+234,USR1088,2023-12-26,22,Mumbai,Central,Toys,326.82,1056.83,STORE_014,Premium,Active,user332@example.com,user_969,2023-11-05T00:40:00.000Z,3886.62
+389,USR1089,2023-01-23,26,Jaipur,East,Clothing,3625.93,1490.59,STORE_018,Premium,Pending,user207@example.com,user_898,2023-06-16T13:28:00.000Z,2152.98
+290,USR1089,2023-02-20,31,Jaipur,North,Toys,706.92,1949.97,STORE_003,Premium,Unknown,user265@example.com,user_978,2023-10-20T23:37:00.000Z,0.0
+131,USR1089,2023-06-25,43,Ahmedabad,North,Sports,3667.28,953.79,STORE_010,Basic,Unknown,user871@example.com,user_756,2023-12-13T04:04:00.000Z,183.9
+148,USR1089,2023-07-03,17,Lucknow,Central,Groceries,981.76,2647.25,STORE_016,Basic,Pending,user138@example.com,user_338,2023-11-05T07:01:00.000Z,106.77
+345,USR1089,2023-08-12,,Hyderabad,West,Home Decor,2562.8,2061.22,STORE_020,Premium,Inactive,user840@example.com,user_526,2023-12-11T20:47:00.000Z,4776.02
+183,USR1090,2023-08-02,50,Kolkata,North,Clothing,0.0,2017.36,STORE_007,Free,Inactive,user799@example.com,user_959,2023-02-01T22:50:00.000Z,7560.58
+91,USR1090,2023-09-08,38,Chennai,North,Toys,2002.94,2323.73,STORE_005,Free,Active,user831@example.com,user_552,2023-12-02T08:47:00.000Z,2100.47
+88,USR1090,2023-10-16,17,Pune,North,Toys,3993.94,2070.37,STORE_001,Basic,Unknown,user771@example.com,user_894,2023-10-24T18:14:00.000Z,5876.88
+297,USR1090,2023-12-21,25,Hyderabad,North,Electronics,2893.9,1121.62,STORE_007,Basic,Active,user452@example.com,user_559,2023-10-04T05:34:00.000Z,9212.3
+425,USR1091,2023-04-28,21,Kolkata,East,Clothing,429.63,299.03,STORE_019,Premium,Active,user667@example.com,user_927,2023-01-06T13:43:00.000Z,7334.89
+354,USR1091,2023-11-18,54,Pune,East,Books,4084.64,437.12,STORE_013,Basic,Inactive,user628@example.com,user_942,2023-07-04T14:06:00.000Z,4314.35
+407,USR1092,2023-03-13,,Jaipur,East,Sports,3110.84,1436.09,STORE_014,Basic,Active,user932@example.com,user_748,2023-07-04T01:51:00.000Z,6811.5
+33,USR1092,2023-04-09,63,Hyderabad,South,Beauty,2968.46,1798.44,STORE_004,Basic,Pending,user283@example.com,user_825,2023-10-01T04:17:00.000Z,639.81
+145,USR1092,2023-07-22,40,Bangalore,East,Sports,1411.16,462.92,STORE_020,Basic,Unknown,user402@example.com,user_663,2023-09-03T01:05:00.000Z,1458.64
+133,USR1092,2023-11-08,60,Chennai,South,Sports,1512.93,2695.78,STORE_008,Premium,Unknown,user611@example.com,user_172,2023-09-28T00:23:00.000Z,1406.63
+196,USR1093,2023-05-29,48,Kolkata,East,Electronics,4247.51,1849.83,STORE_006,Basic,Inactive,user283@example.com,user_679,2023-12-04T04:47:00.000Z,9397.84
+423,USR1093,2023-06-06,47,Jaipur,East,Books,3056.96,528.83,STORE_013,Basic,Pending,user794@example.com,user_644,2023-10-10T19:56:00.000Z,4820.93
+107,USR1093,2023-06-30,62,Bangalore,Central,Electronics,4203.39,2457.63,STORE_002,Premium,Unknown,user745@example.com,user_824,2023-03-19T00:13:00.000Z,3794.69
+432,USR1093,2023-09-19,33,Chennai,South,Toys,3546.98,2109.41,STORE_017,Basic,Inactive,user975@example.com,user_749,2023-03-18T07:07:00.000Z,479.83
+327,USR1093,2023-10-08,45,Mumbai,South,Beauty,723.66,1892.32,STORE_011,Basic,Active,user355@example.com,user_886,2023-11-29T04:54:00.000Z,4162.13
+344,USR1093,2023-10-11,18,Kolkata,West,Beauty,350.49,0.0,STORE_019,Free,Unknown,user763@example.com,user_584,2023-03-01T15:39:00.000Z,3532.96
+309,USR1093,2023-11-10,52,Delhi,Central,Electronics,3593.27,531.88,STORE_018,Premium,Active,user616@example.com,user_586,2023-07-07T22:37:00.000Z,6767.9
+484,USR1093,2023-12-21,29,Hyderabad,East,Books,1475.49,0.0,STORE_006,Basic,Unknown,user412@example.com,user_804,2023-05-03T05:20:00.000Z,1749.79
+181,USR1094,2023-01-25,43,Jaipur,South,Groceries,685.49,1809.63,STORE_011,Basic,Unknown,user723@example.com,user_880,2023-05-08T08:25:00.000Z,9707.87
+126,USR1094,2023-10-29,61,Bangalore,Central,Groceries,4076.97,1718.82,STORE_018,Free,Unknown,user431@example.com,user_399,2023-05-29T18:17:00.000Z,5192.71
+411,USR1094,2023-10-31,63,Lucknow,East,Groceries,4772.64,25.0,STORE_002,Basic,Unknown,user497@example.com,user_427,2023-07-06T21:59:00.000Z,5245.54
+28,USR1096,2023-01-16,28,Lucknow,South,Sports,3363.82,669.53,STORE_009,Free,Inactive,user865@example.com,user_896,2023-03-25T09:06:00.000Z,9295.98
+23,USR1096,2023-02-24,30,Jaipur,West,Electronics,4591.48,417.35,STORE_015,Basic,Unknown,user873@example.com,user_727,2023-09-16T13:53:00.000Z,4514.54
+269,USR1096,2023-05-24,21,Hyderabad,West,Clothing,2719.03,1846.86,STORE_011,Basic,Active,user624@example.com,user_687,2023-06-19T13:22:00.000Z,8002.41
+293,USR1096,2023-10-25,60,Hyderabad,East,Home Decor,2542.65,182.29,STORE_012,Free,Unknown,user639@example.com,user_581,2023-12-30T17:43:00.000Z,9004.57
+286,USR1097,2023-08-21,63,Jaipur,South,Groceries,2451.05,2687.34,STORE_015,Basic,Unknown,user303@example.com,user_433,2023-04-28T03:20:00.000Z,2447.47
+201,USR1098,2023-04-04,48,Bangalore,East,Beauty,390.77,414.0,STORE_001,Basic,Unknown,user616@example.com,user_946,2023-03-18T19:06:00.000Z,9025.92
+42,USR1098,2023-08-01,48,Mumbai,East,Books,2920.62,2598.48,STORE_015,Basic,Unknown,user665@example.com,user_486,2023-08-22T10:55:00.000Z,7005.23
+335,USR1098,2023-10-20,20,Ahmedabad,North,Home Decor,0.0,2048.31,STORE_013,Free,Unknown,user208@example.com,user_257,2023-01-15T02:29:00.000Z,6629.44
+48,USR1099,2023-04-28,38,Hyderabad,Central,Books,3618.6,2518.24,STORE_004,Premium,Pending,user134@example.com,user_849,2023-03-09T02:58:00.000Z,7500.06
+185,USR1099,2023-08-15,56,Lucknow,Central,Sports,4823.23,548.73,STORE_003,Basic,Inactive,user222@example.com,user_538,2023-05-23T17:16:00.000Z,5881.46
+161,USR1099,2023-09-26,17,Hyderabad,South,Electronics,2309.42,2119.81,STORE_009,Free,Unknown,user750@example.com,user_797,2023-01-16T07:23:00.000Z,4516.42
+81,USR1099,2023-10-10,27,Kolkata,Central,Electronics,2614.61,502.66,STORE_008,Free,Unknown,user966@example.com,user_301,2023-11-22T17:17:00.000Z,3097.96
+499,USR1099,2023-12-04,24,Lucknow,Central,Home Decor,4157.94,107.98,STORE_006,Basic,Active,user611@example.com,user_587,2023-06-15T07:49:00.000Z,7353.21
