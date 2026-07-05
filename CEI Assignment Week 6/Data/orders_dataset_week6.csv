@@ -1,0 +1,2021 @@
+order_id,user_id,product_id,category,product_name,base_price,price,amount,quantity,region,priority,status,order_date
+1,1072.0,P9935,Electronics,Laptop,3733.6,3733.6,14934.4,4,North,Low,Processing,2025-04-25
+2,,P4257,Electronics,Laptop,559.11,559.11,2236.44,4,West,High,Processing,2025-09-16
+3,1358.0,P5552,Sports,Tennis Racket,4066.21,4066.21,4066.21,1,South,High,Cancelled,2025-03-23
+4,1310.0,P1711,Electronics,Laptop,1961.64,1961.64,11769.84,6,West,Low,Completed,2025-06-26
+5,1296.0,P2139,Groceries,Rice,2805.0,2805.0,28050.0,10,North,Low,Pending,2025-07-05
+6,1143.0,P6977,Clothing,T-Shirt,4291.06,4291.06,8582.12,2,South,Medium,Cancelled,2025-07-14
+7,1326.0,P5010,Furniture,Sofa,3538.92,3538.92,7077.84,2,South,Medium,Processing,2025-11-08
+8,1118.0,P6168,Clothing,Hoodie,1176.11,1176.11,7056.66,6,West,Medium,Completed,2025-01-29
+9,1336.0,P8517,Furniture,Wardrobe,4394.2,4394.2,26365.2,6,South,Medium,Pending,2025-04-19
+10,1460.0,P6930,Furniture,Wardrobe,2740.99,2740.99,27409.9,10,South,High,Processing,2025-08-08
+11,1082.0,P7916,Electronics,Laptop,4319.4,4319.4,12958.2,3,North,Medium,Processing,2025-11-18
+12,1349.0,P9797,Sports,Yoga Mat,2692.66,2692.66,24233.94,9,East,Low,Cancelled,2025-01-06
+13,1489.0,P5315,Electronics,Tablet,2230.35,2230.35,17842.8,8,South,Low,Completed,2025-01-02
+14,1391.0,P9689,Clothing,Hoodie,3083.95,3083.95,9251.85,3,North,Low,Cancelled,2025-07-11
+15,1123.0,P2290,Groceries,Rice,648.15,648.15,3888.9,6,North,Low,Processing,2025-06-07
+16,1244.0,P3705,Electronics,Monitor,3852.59,3852.59,11557.77,3,East,Low,Processing,2025-12-04
+17,1160.0,P7118,Furniture,Wardrobe,3800.8,3800.8,15203.2,4,West,Low,Processing,2026-01-01
+18,1302.0,P4608,Electronics,Smartphone,1201.02,1201.02,7206.12,6,North,High,Completed,2025-01-11
+19,1264.0,P8953,Furniture,Chair,4536.56,4536.56,27219.36,6,South,Low,Pending,2025-02-06
+20,1098.0,P8062,Sports,Dumbbells,2416.09,2416.09,19328.72,8,East,Medium,Processing,2025-07-28
+21,1207.0,P2790,Groceries,Rice,3399.49,3399.49,6798.98,2,South,High,Pending,2025-02-01
+22,1237.0,P2235,Sports,Yoga Mat,786.89,786.89,2360.67,3,West,Low,Completed,2025-05-23
+23,1086.0,P8886,Electronics,Monitor,4196.54,4196.54,8393.08,2,South,Medium,Completed,2025-05-02
+24,1475.0,P8454,Furniture,Desk,110.56,110.56,773.92,7,East,Medium,Processing,2025-05-16
+25,1377.0,P6138,Furniture,Table,1553.87,1553.87,1553.87,1,North,High,Processing,2025-10-24
+26,1436.0,P2113,Sports,Dumbbells,871.42,871.42,7842.78,9,South,Medium,Completed,2025-02-11
+27,1042.0,P9565,Sports,Cricket Bat,2936.7,2936.7,2936.7,1,East,Medium,Pending,2025-11-14
+28,1331.0,P6180,Clothing,Jeans,1401.51,1401.51,4204.53,3,North,High,Processing,2025-12-10
+29,1110.0,P3170,Sports,Dumbbells,4980.87,4980.87,9961.74,2,East,High,Pending,2025-10-03
+30,1155.0,P9666,Clothing,Jacket,872.96,872.96,7856.64,9,North,Low,Cancelled,2025-12-27
+31,1080.0,P4450,Electronics,Smartphone,1395.88,1395.88,2791.76,2,East,High,Cancelled,2025-10-11
+32,1325.0,P5533,Sports,Yoga Mat,1330.49,1330.49,1330.49,1,North,High,Cancelled,2025-02-17
+33,1362.0,P1158,Furniture,Sofa,891.75,891.75,7134.0,8,North,High,Pending,2025-10-10
+34,1076.0,P1685,Sports,Football,4189.52,4189.52,41895.2,10,East,Medium,Completed,2025-10-10
+35,1400.0,P7658,Clothing,Jeans,3442.13,3442.13,6884.26,2,South,High,Pending,2025-07-01
+36,1411.0,P5065,Furniture,Desk,221.45,221.45,1328.7,6,East,High,Completed,2025-07-30
+37,1419.0,P6728,Groceries,Rice,4307.11,4307.11,17228.44,4,East,High,Pending,2025-04-13
+38,1496.0,P6753,Electronics,Smartphone,2052.48,2052.48,10262.4,5,West,Low,Cancelled,2025-02-05
+39,1298.0,P5349,Electronics,Laptop,4397.49,4397.49,21987.45,5,North,High,Processing,2025-04-02
+40,1198.0,P4114,Clothing,Jacket,2238.33,2238.33,20144.97,9,East,High,Processing,2025-03-01
+41,1369.0,P4228,Electronics,Monitor,4635.32,4635.32,41717.88,9,,Medium,Completed,2025-12-18
+42,1260.0,P7691,Clothing,Hoodie,1638.19,1638.19,3276.38,2,East,Medium,Cancelled,2025-06-03
+43,1384.0,P5930,Sports,Cricket Bat,1040.02,1040.02,7280.14,7,West,Low,Completed,2025-12-13
+44,1336.0,P8238,Clothing,Jacket,1129.9,1129.9,11299.0,10,West,Low,Pending,2025-11-07
+45,1044.0,P6491,Sports,Yoga Mat,3989.3,3989.3,11967.9,3,North,High,Cancelled,2025-12-04
+46,1244.0,P2193,Furniture,Table,822.03,822.03,822.03,1,West,Medium,Pending,2025-05-06
+47,,P2746,Groceries,Eggs,2058.3,2058.3,6174.9,3,West,High,Pending,2025-12-02
+48,1234.0,P8612,Sports,Yoga Mat,346.07,346.07,1384.28,4,East,Medium,Processing,2025-03-04
+49,1133.0,P5543,Sports,Yoga Mat,4496.32,4496.32,35970.56,8,West,Low,Pending,2025-08-19
+50,1140.0,P9849,Clothing,Shoes,479.67,479.67,2398.35,5,North,High,Pending,2025-05-01
+51,1213.0,P9890,Furniture,Desk,3500.35,3500.35,14001.4,4,West,Medium,Completed,2025-02-02
+52,1011.0,P7232,Furniture,Desk,2008.44,2008.44,20084.4,10,West,High,Cancelled,2025-12-23
+53,1383.0,P4613,Clothing,Shoes,4281.89,4281.89,29973.23,7,West,High,Cancelled,2025-10-03
+54,1348.0,P3704,Groceries,Eggs,242.22,242.22,1453.32,6,West,High,Completed,2025-12-09
+55,1330.0,P8564,Groceries,Oil,2865.52,2865.52,2865.52,1,South,High,Cancelled,2025-02-12
+56,1390.0,P5558,Groceries,Bread,1137.14,1137.14,6822.84,6,West,Medium,Completed,2025-06-22
+57,1115.0,P1659,Groceries,Rice,3770.22,3770.22,3770.22,1,North,High,Pending,2025-06-29
+58,1343.0,P4571,Electronics,Monitor,846.67,846.67,2540.01,3,West,Low,Cancelled,2025-08-31
+59,1494.0,P1420,Clothing,Jeans,3068.87,3068.87,6137.74,2,East,Low,Processing,2025-03-25
+60,1357.0,P2983,Groceries,Milk,472.38,472.38,1889.52,4,North,Medium,Processing,2025-02-22
+61,1435.0,P9031,Clothing,T-Shirt,2579.21,2579.21,15475.26,6,North,Medium,Cancelled,2025-01-07
+62,1139.0,P9817,Groceries,Milk,2233.89,2233.89,20105.01,9,West,Medium,Processing,2025-11-30
+63,1143.0,P4995,Sports,Tennis Racket,1679.29,1679.29,6717.16,4,West,Low,Processing,2025-02-14
+64,1250.0,P5232,Clothing,T-Shirt,2522.1,2522.1,15132.6,6,East,Medium,Cancelled,2025-04-04
+65,1124.0,P9004,Sports,Football,2631.47,2631.47,10525.88,4,South,Low,Processing,2025-02-13
+66,1114.0,P4986,Groceries,Eggs,3985.37,3985.37,7970.74,2,East,Low,Cancelled,2025-05-31
+67,1170.0,P8434,Groceries,Oil,2701.52,2701.52,18910.64,7,East,Medium,Cancelled,2025-10-09
+68,1381.0,P4033,Furniture,Chair,3634.29,3634.29,21805.74,6,South,High,Processing,2025-03-03
+69,1145.0,P4180,Clothing,Hoodie,4885.37,4885.37,43968.33,9,East,High,Cancelled,2025-11-02
+70,1141.0,P1893,Furniture,Sofa,169.33,169.33,1523.97,9,East,Low,Pending,2025-03-06
+71,1241.0,P6582,Groceries,Rice,4376.33,4376.33,43763.3,10,South,High,Cancelled,2025-05-26
+72,1038.0,P1878,Groceries,Rice,4128.37,4128.37,28898.59,7,South,High,Cancelled,2025-09-09
+73,1306.0,P4697,Electronics,Smartphone,680.41,680.41,4762.87,7,West,Medium,Processing,2025-11-07
+74,1318.0,P2625,Clothing,Hoodie,4951.15,4951.15,24755.75,5,South,Low,Pending,2025-10-19
+75,1039.0,P7693,Clothing,T-Shirt,869.58,869.58,2608.74,3,West,Low,Processing,2025-10-10
+76,1441.0,P4824,Clothing,T-Shirt,1234.23,1234.23,6171.15,5,East,Low,Pending,2025-12-26
+77,1424.0,P1977,Groceries,Rice,2768.36,2768.36,8305.08,3,South,Medium,Cancelled,2025-05-17
+78,1207.0,P9199,Groceries,Rice,2396.62,2396.62,11983.1,5,West,Medium,Completed,2025-12-25
+79,,P4750,Sports,Football,4458.17,4458.17,26749.02,6,North,Low,Cancelled,2025-11-06
+80,1266.0,P5557,Sports,Football,3839.23,3839.23,11517.69,3,South,Low,Processing,2025-08-29
+81,1165.0,P3634,Groceries,Rice,2403.05,2403.05,16821.35,7,East,Medium,Processing,2025-06-20
+82,1233.0,P5135,Clothing,Shoes,4086.47,4086.47,36778.23,9,East,High,Processing,2025-01-19
+83,1212.0,P9494,Sports,Football,3322.54,3322.54,29902.86,9,East,Low,Processing,2025-08-25
+84,1475.0,P8941,Groceries,Rice,1097.44,1097.44,9876.96,9,North,High,Pending,2025-03-09
+85,1048.0,P2858,Furniture,Sofa,2799.11,2799.11,25191.99,9,West,High,Pending,2025-07-28
+86,1428.0,P8736,Groceries,Bread,2593.47,2593.47,12967.35,5,South,Medium,Pending,2025-08-01
+87,1443.0,P7798,Groceries,Milk,4617.15,4617.15,41554.35,9,East,Low,Cancelled,2025-03-11
+88,1338.0,P3434,Electronics,Tablet,3657.65,3657.65,36576.5,10,West,Low,Processing,2025-10-24
+89,1234.0,P4090,Clothing,Jacket,2804.4,2804.4,25239.6,9,South,Low,Processing,2025-07-13
+90,1468.0,P7325,Furniture,Desk,313.87,313.87,2510.96,8,South,Medium,Completed,2025-12-28
+91,1448.0,P2633,Furniture,Wardrobe,4830.23,4830.23,28981.38,6,West,High,Pending,2025-02-21
+92,1320.0,P2315,Groceries,Milk,466.66,466.66,2333.3,5,East,Low,Processing,2025-06-23
+93,1036.0,P5708,Clothing,Shoes,4374.68,4374.68,4374.68,1,South,Low,Completed,2025-11-13
+94,1086.0,P1474,Groceries,Rice,3825.81,3825.81,7651.62,2,North,Medium,Completed,2025-08-16
+95,1272.0,P3950,Clothing,Jacket,1936.72,1936.72,5810.16,3,South,High,Completed,2025-05-06
+96,1468.0,P4804,Sports,Yoga Mat,3136.58,3136.58,12546.32,4,West,Low,Cancelled,2025-09-12
+97,1347.0,P2210,Groceries,Bread,3367.52,3367.52,26940.16,8,West,Medium,Cancelled,2025-05-28
+98,1197.0,P2747,Groceries,Bread,2338.5,2338.5,11692.5,5,South,Medium,Cancelled,2025-04-12
+99,1425.0,P5497,Sports,Tennis Racket,4964.19,4964.19,24820.95,5,North,Low,Completed,2025-01-12
+100,1311.0,P4588,Sports,Yoga Mat,4180.91,4180.91,20904.55,5,South,Low,Cancelled,2025-04-28
+101,1404.0,P6977,Furniture,Chair,4526.68,4526.68,4526.68,1,South,High,Cancelled,2025-06-08
+102,1449.0,P9697,Clothing,Shoes,960.64,960.64,2881.92,3,East,High,Cancelled,2025-10-04
+103,1240.0,P3306,Groceries,Bread,3758.14,3758.14,22548.84,6,South,Low,Processing,2025-02-28
+104,1136.0,P8451,Sports,Tennis Racket,542.48,542.48,3797.36,7,East,Low,Cancelled,2025-01-08
+105,1346.0,P1410,Sports,Yoga Mat,4129.84,4129.84,24779.04,6,East,Low,Pending,2025-02-25
+106,1210.0,P1742,Electronics,Headphones,4556.0,4556.0,22780.0,5,North,Medium,Processing,2025-11-29
+107,1199.0,P9850,Electronics,Laptop,1250.52,1250.52,11254.68,9,West,Low,Pending,2025-03-11
+108,1481.0,P1536,Groceries,Rice,4185.1,4185.1,41851.0,10,East,High,Processing,2025-07-28
+109,1189.0,P6876,Groceries,Milk,4291.71,4291.71,8583.42,2,North,Medium,Cancelled,2025-12-18
+110,1340.0,P1349,Furniture,Chair,4750.15,4750.15,38001.2,8,North,Medium,Pending,2025-02-16
+111,1301.0,P4817,Furniture,Wardrobe,1105.51,1105.51,9949.59,9,East,High,Completed,2025-04-17
+112,1409.0,P1422,Clothing,Jeans,4938.88,4938.88,44449.92,9,South,High,Cancelled,2025-05-09
+113,1027.0,P7897,Furniture,Wardrobe,1686.48,1686.48,5059.44,3,North,Low,Completed,2025-05-16
+114,1056.0,P4629,Groceries,Eggs,3912.28,3912.28,35210.52,9,North,Low,Cancelled,2025-10-31
+115,1219.0,P9032,Groceries,Rice,398.04,398.04,3184.32,8,West,High,Completed,2025-07-25
+116,1320.0,P9984,Clothing,Hoodie,826.84,826.84,2480.52,3,East,Medium,Cancelled,2025-05-21
+117,1059.0,P4522,Groceries,Oil,3066.59,3066.59,6133.18,2,West,Medium,Pending,2025-12-26
+118,1374.0,P7992,Groceries,Bread,4154.35,4154.35,29080.45,7,East,Low,Cancelled,2025-08-01
+119,1047.0,P2527,Clothing,Jeans,3465.42,3465.42,27723.36,8,West,High,Cancelled,2025-02-04
+120,1169.0,P7730,Furniture,Wardrobe,393.91,393.91,3545.19,9,East,Low,Processing,2025-10-15
+121,1296.0,P3535,Electronics,Tablet,3042.01,3042.01,18252.06,6,West,High,Completed,2025-02-23
+122,1116.0,P1430,Clothing,Hoodie,1901.05,1901.05,9505.25,5,East,High,Pending,2025-10-21
+123,1093.0,P7566,Clothing,Jacket,4615.53,4615.53,27693.18,6,North,High,Completed,2025-01-04
+124,1175.0,P6105,Electronics,Monitor,1154.15,1154.15,8079.05,7,East,Low,Completed,2025-08-21
+125,1346.0,P8259,Electronics,Smartphone,871.31,871.31,8713.1,10,West,Medium,Processing,2025-01-26
+126,1177.0,P5640,Groceries,Bread,1156.29,1156.29,10406.61,9,West,Low,Cancelled,2025-02-28
+127,1004.0,P4460,Electronics,Smartphone,2036.79,2036.79,20367.9,10,South,Medium,Cancelled,2025-01-29
+128,1067.0,P4770,Clothing,T-Shirt,137.88,137.88,965.16,7,East,High,Processing,2025-03-31
+129,1295.0,P7626,Electronics,Headphones,191.83,191.83,383.66,2,West,Medium,Completed,2025-06-10
+130,1236.0,P6928,Groceries,Rice,4834.38,4834.38,14503.14,3,North,Medium,,2025-11-13
+131,1203.0,P6562,Furniture,Desk,2985.47,2985.47,26869.23,9,South,Medium,Pending,2025-02-10
+132,1100.0,P6724,Electronics,Monitor,3202.8,3202.8,28825.2,9,East,Low,Pending,2025-09-19
+133,1309.0,P2234,Furniture,Chair,817.58,817.58,3270.32,4,South,Low,Processing,2025-03-30
+134,1474.0,P6295,Groceries,Oil,3823.4,3823.4,30587.2,8,East,High,Processing,2025-12-15
+135,1303.0,P9312,Electronics,Headphones,2266.82,2266.82,11334.1,5,North,Medium,Processing,2025-05-21
+136,1331.0,P2479,Groceries,Rice,378.76,378.76,1893.8,5,West,Medium,Completed,2025-02-09
+137,1244.0,P2013,Groceries,Oil,3294.0,3294.0,19764.0,6,West,High,Cancelled,2025-11-06
+138,1363.0,P8199,Electronics,Monitor,3266.02,3266.02,3266.02,1,South,Medium,Cancelled,2025-05-07
+139,1307.0,P6482,Clothing,Shoes,2102.97,2102.97,12617.82,6,North,Medium,Completed,2025-12-14
+140,1171.0,P3317,Sports,Yoga Mat,1492.32,1492.32,14923.2,10,East,Medium,Processing,2025-03-18
+141,1287.0,P6381,Furniture,Wardrobe,3573.29,3573.29,7146.58,2,South,Low,Completed,2025-06-08
+142,1093.0,P6598,Groceries,Oil,1872.96,1872.96,11237.76,6,West,High,Pending,2025-06-08
+143,1395.0,P9626,Furniture,Table,478.11,478.11,956.22,2,North,Low,Cancelled,2025-09-17
+144,1093.0,P3712,Sports,Cricket Bat,3026.51,3026.51,9079.53,3,West,High,Processing,2025-03-25
+145,1386.0,P8355,Clothing,Jeans,4850.98,4850.98,48509.8,10,South,Low,Pending,2025-05-26
+146,1348.0,P8218,Clothing,Shoes,4529.47,4529.47,18117.88,4,West,Medium,Processing,2025-07-08
+147,1411.0,P5096,Sports,Dumbbells,2151.44,2151.44,6454.32,3,North,Low,Processing,2025-04-13
+148,1146.0,P3626,Clothing,Hoodie,4678.04,4678.04,42102.36,9,East,Medium,Pending,2025-03-05
+149,1453.0,P1436,Groceries,Rice,4737.42,4737.42,18949.68,4,West,High,Processing,2025-08-19
+150,,P2623,Sports,Tennis Racket,1255.31,1255.31,2510.62,2,East,High,Pending,2025-07-11
+151,1426.0,P8685,Electronics,Tablet,4595.24,4595.24,36761.92,8,West,Low,Completed,2025-12-23
+152,1482.0,P9647,Electronics,Laptop,1354.03,1354.03,4062.09,3,West,High,Cancelled,2025-10-08
+153,1328.0,P8489,Furniture,Sofa,697.06,697.06,2788.24,4,North,High,Processing,2025-08-03
+154,1124.0,P5772,Sports,Dumbbells,180.53,180.53,1624.77,9,West,High,Cancelled,2025-10-22
+155,1500.0,P9618,Furniture,Wardrobe,2141.18,2141.18,4282.36,2,North,Medium,Processing,2025-09-26
+156,1183.0,P6649,Electronics,Headphones,4907.09,4907.09,24535.45,5,South,Low,Completed,2025-01-09
+157,1174.0,P3868,Sports,Tennis Racket,753.71,753.71,4522.26,6,West,Low,Processing,2025-10-07
+158,1151.0,P4268,Furniture,Table,409.19,409.19,3273.52,8,North,Medium,Cancelled,2025-01-19
+159,1130.0,P4131,Sports,Yoga Mat,4946.7,4946.7,44520.3,9,East,Medium,Completed,2025-08-31
+160,1456.0,P8204,Clothing,Jacket,709.93,709.93,4259.58,6,West,Medium,Pending,2025-08-12
+161,1411.0,P7955,Groceries,Eggs,1900.0,1900.0,17100.0,9,North,Medium,Pending,2025-05-17
+162,1339.0,P8305,Sports,Tennis Racket,1673.94,1673.94,3347.88,2,West,High,Processing,2025-06-17
+163,1223.0,P1939,Clothing,Shoes,307.54,307.54,1845.24,6,North,Low,Processing,2025-11-11
+164,1074.0,P8179,Clothing,Hoodie,4025.37,4025.37,12076.11,3,North,High,Completed,2025-01-16
+165,1310.0,P8371,Furniture,Sofa,1874.54,1874.54,18745.4,10,East,Medium,Processing,2025-01-17
+166,1161.0,P5089,Electronics,Monitor,774.71,774.71,4648.26,6,North,High,Pending,2025-07-23
+167,1135.0,P8311,Groceries,Oil,1996.24,1996.24,17966.16,9,South,Low,Cancelled,2025-03-02
+168,1089.0,P8292,Groceries,Milk,700.92,700.92,1401.84,2,North,Low,Cancelled,2025-08-20
+169,1436.0,P3852,Clothing,T-Shirt,2794.99,2794.99,13974.95,5,East,Low,Pending,2025-06-03
+170,1014.0,P7044,Electronics,Smartphone,3981.12,3981.12,15924.48,4,West,Low,Pending,2025-09-10
+171,1270.0,P7708,Sports,Football,422.17,422.17,2955.19,7,North,High,Cancelled,2025-09-03
+172,1066.0,P3981,Electronics,Headphones,2382.58,2382.58,21443.22,9,South,Medium,Completed,2025-06-26
+173,1166.0,P4694,Electronics,Monitor,849.78,849.78,2549.34,3,East,Low,Cancelled,2025-03-24
+174,1065.0,P9740,Electronics,Tablet,1061.88,1061.88,9556.92,9,North,Low,Pending,2025-05-21
+175,1173.0,P1674,Sports,Dumbbells,855.55,855.55,8555.5,10,North,High,Completed,2025-11-06
+176,1317.0,P9159,Sports,Tennis Racket,3290.54,3290.54,32905.4,10,East,Low,Cancelled,2025-08-02
+177,1233.0,P1981,Groceries,Milk,4042.97,4042.97,28300.79,7,South,Medium,Processing,2025-06-02
+178,1161.0,P6231,Groceries,Eggs,1099.71,1099.71,10997.1,10,East,Medium,Pending,2025-03-15
+179,1239.0,P8366,Clothing,Hoodie,2852.09,2852.09,17112.54,6,South,High,Completed,2025-05-04
+180,1128.0,P3616,Electronics,Tablet,4732.39,4732.39,47323.9,10,East,Low,Cancelled,2025-08-03
+181,1256.0,P9148,Furniture,Table,2541.5,2541.5,22873.5,9,North,High,Processing,2025-08-28
+182,1181.0,P5609,Sports,Yoga Mat,4836.76,4836.76,19347.04,4,West,Low,Processing,2025-10-26
+183,1069.0,P6992,Clothing,Hoodie,140.07,140.07,280.14,2,West,Medium,Completed,2025-08-09
+184,1284.0,P7329,Groceries,Rice,2894.38,2894.38,11577.52,4,West,Low,Cancelled,2025-07-05
+185,1192.0,P6555,Sports,Dumbbells,682.17,682.17,1364.34,2,East,High,Pending,2025-07-21
+186,1020.0,P6456,Sports,Dumbbells,2066.8,2066.8,2066.8,1,West,Low,Processing,2025-01-24
+187,1477.0,P3662,Furniture,Wardrobe,4476.35,4476.35,13429.05,3,West,Low,Cancelled,2025-06-17
+188,1251.0,P5911,Sports,Tennis Racket,2585.84,2585.84,23272.56,9,West,High,Cancelled,2025-09-30
+189,1408.0,P1436,Clothing,T-Shirt,4901.5,4901.5,49015.0,10,West,Medium,Pending,2025-06-07
+190,1370.0,P7229,Electronics,Monitor,2454.2,2454.2,22087.8,9,South,Low,Pending,2025-11-19
+191,1010.0,P7861,Electronics,Monitor,4746.21,4746.21,9492.42,2,South,Medium,Pending,2025-04-08
+192,1362.0,P4397,Groceries,Oil,3897.36,3897.36,31178.88,8,East,Low,Processing,2025-02-01
+193,1468.0,P9950,Sports,Yoga Mat,1637.39,1637.39,4912.17,3,East,Low,Cancelled,2025-08-24
+194,1286.0,P5876,Sports,Yoga Mat,1042.09,1042.09,4168.36,4,East,Low,Pending,2025-05-23
+195,1148.0,P9899,Groceries,Bread,2451.04,2451.04,22059.36,9,West,Medium,Cancelled,2025-05-21
+196,1474.0,P5201,Furniture,Sofa,306.13,306.13,612.26,2,West,High,Pending,2025-06-27
+197,1056.0,P4920,Sports,Tennis Racket,4671.82,4671.82,23359.1,5,South,High,Pending,2025-03-12
+198,1052.0,P3252,Furniture,Chair,590.97,590.97,3545.82,6,North,Low,Pending,2025-08-30
+199,1165.0,P1969,Groceries,Eggs,2439.5,2439.5,9758.0,4,North,Low,Pending,2025-05-28
+200,1452.0,P1595,Sports,Football,4574.83,4574.83,13724.49,3,West,Medium,Pending,2025-08-02
+201,1055.0,P6489,Clothing,T-Shirt,145.41,145.41,1454.1,10,East,Medium,Processing,2025-11-05
+202,1170.0,P8518,Furniture,Wardrobe,2393.3,2393.3,9573.2,4,East,Low,Pending,2025-02-27
+203,1388.0,P7643,Electronics,Tablet,3974.76,3974.76,39747.6,10,West,Low,Cancelled,2025-12-12
+204,1245.0,P5064,,Headphones,3379.35,3379.35,10138.05,3,North,Medium,Processing,2025-03-13
+205,1299.0,P1187,Furniture,Desk,3793.41,3793.41,22760.46,6,East,Low,Cancelled,2025-06-04
+206,1082.0,P9233,Furniture,Chair,3372.15,3372.15,26977.2,8,East,Low,Completed,2025-06-07
+207,1245.0,P7121,Clothing,Jacket,3111.66,3111.66,12446.64,4,West,Low,Processing,2025-03-10
+208,1270.0,P6927,Sports,Cricket Bat,3833.11,3833.11,38331.1,10,North,Low,Completed,2025-02-11
+209,1275.0,P6375,Electronics,Monitor,4524.15,4524.15,18096.6,4,West,High,Pending,2025-10-21
+210,1415.0,P3161,Sports,Yoga Mat,545.61,545.61,4910.49,9,West,Medium,Completed,2025-08-17
+211,1203.0,P1049,Sports,Yoga Mat,3396.56,3396.56,16982.8,5,South,Low,Completed,2025-01-12
+212,1031.0,P2130,Electronics,Headphones,1788.19,1788.19,3576.38,2,West,High,Cancelled,2025-10-05
+213,1457.0,P7184,Groceries,Milk,3867.96,3867.96,27075.72,7,West,High,Pending,2025-07-11
+214,1271.0,P4648,Clothing,T-Shirt,974.52,974.52,8770.68,9,North,High,Cancelled,2025-07-21
+215,1127.0,P3541,Groceries,Oil,2178.23,2178.23,15247.61,7,East,High,Completed,2025-04-28
+216,1106.0,P1550,Electronics,Headphones,3113.12,3113.12,3113.12,1,West,Low,Completed,2025-05-04
+217,1112.0,P1924,Furniture,Chair,2071.1,2071.1,8284.4,4,South,Low,Cancelled,2025-10-04
+218,1420.0,P5944,Furniture,Wardrobe,1662.63,1662.63,16626.3,10,South,Low,Pending,2025-12-11
+219,1451.0,P3869,Groceries,Bread,1448.25,1448.25,13034.25,9,West,Low,Processing,2025-10-30
+220,1164.0,P7688,Electronics,Tablet,4713.77,4713.77,32996.39,7,South,Medium,Processing,2025-09-26
+221,1440.0,P8586,Furniture,Wardrobe,2420.24,2420.24,9680.96,4,North,Low,Processing,2025-06-03
+222,1131.0,P2295,Groceries,Oil,2696.96,2696.96,18878.72,7,West,Medium,Completed,2025-05-05
+223,1310.0,P2192,Sports,Cricket Bat,352.53,352.53,2467.71,7,South,Low,Pending,2025-12-11
+224,1490.0,P4470,Groceries,Milk,4360.42,4360.42,26162.52,6,South,Low,Completed,2025-06-05
+225,1469.0,P6269,Groceries,Milk,3508.57,3508.57,14034.28,4,East,Medium,Processing,2025-07-23
+226,1452.0,P2615,Sports,Tennis Racket,1611.27,1611.27,9667.62,6,West,Medium,Pending,2025-09-20
+227,1380.0,P5272,Clothing,Jacket,2128.26,2128.26,21282.6,10,West,Medium,Pending,2025-04-24
+228,1256.0,P6530,Furniture,Sofa,1227.09,1227.09,12270.9,10,East,Medium,Processing,2025-05-06
+229,1072.0,P9000,Groceries,Milk,3690.58,3690.58,22143.48,6,South,Low,Completed,2025-03-28
+230,1025.0,P7756,Sports,Football,4211.44,4211.44,8422.88,2,South,Low,Pending,2025-12-09
+231,1192.0,P8916,Electronics,Smartphone,144.79,144.79,1303.11,9,West,High,Completed,2025-08-22
+232,1370.0,P5697,Sports,Dumbbells,2115.56,2115.56,2115.56,1,North,Low,Processing,2025-09-29
+233,1124.0,P9625,Furniture,Chair,4598.44,4598.44,41385.96,9,East,Medium,Cancelled,2025-03-18
+234,1290.0,P4700,Groceries,Rice,1927.95,1927.95,13495.65,7,East,Low,Completed,2025-08-24
+235,1244.0,P1154,Electronics,Laptop,2085.86,2085.86,14601.02,7,South,High,Processing,2025-10-10
+236,1471.0,P4463,Groceries,Bread,2872.7,2872.7,5745.4,2,West,Medium,Completed,2025-09-28
+237,1017.0,P6152,Electronics,Tablet,4506.63,4506.63,45066.3,10,North,High,Pending,2025-12-03
+238,1291.0,P7375,Groceries,Rice,1566.46,1566.46,15664.6,10,East,Medium,Pending,2025-05-04
+239,1051.0,P2245,Electronics,Monitor,3752.74,3752.74,22516.44,6,East,Low,Processing,2025-01-28
+240,1117.0,P7150,Clothing,T-Shirt,3207.2,3207.2,25657.6,8,West,High,Processing,2025-09-09
+241,1038.0,P3526,Electronics,Monitor,1547.36,1547.36,6189.44,4,West,Low,Pending,2026-01-01
+242,1483.0,P6896,Groceries,Bread,1867.43,1867.43,3734.86,2,East,High,Pending,2025-01-03
+243,1263.0,P1430,Electronics,Smartphone,2211.8,2211.8,19906.2,9,North,Medium,Completed,2025-10-12
+244,1150.0,P2387,Sports,Dumbbells,3943.75,3943.75,27606.25,7,South,Low,Pending,2025-01-07
+245,1253.0,P3739,Groceries,Milk,780.32,780.32,3901.6,5,West,Medium,Processing,2025-05-18
+246,1484.0,P9123,Clothing,Shoes,3935.07,3935.07,23610.42,6,South,Medium,Completed,2025-05-09
+247,1431.0,P6399,Furniture,Sofa,133.16,133.16,932.12,7,West,Medium,Processing,2025-06-20
+248,1103.0,P3910,Sports,Cricket Bat,1572.13,1572.13,15721.3,10,West,Medium,Cancelled,2025-12-22
+249,1144.0,P7437,Groceries,Oil,3931.67,3931.67,23590.02,6,East,High,Pending,2025-07-12
+250,1488.0,P4434,Sports,Dumbbells,981.64,981.64,8834.76,9,West,Medium,Completed,2025-01-14
+251,1130.0,P7932,Groceries,Eggs,781.98,781.98,3909.9,5,West,High,Processing,2025-05-04
+252,1473.0,P7853,Sports,Yoga Mat,2953.0,2953.0,26577.0,9,North,Medium,Completed,2025-09-17
+253,1332.0,P7547,Electronics,Smartphone,3322.25,3322.25,19933.5,6,East,Medium,Completed,2025-03-27
+254,1286.0,P4621,Electronics,Laptop,1367.82,1367.82,12310.38,9,West,Medium,Processing,2025-09-23
+255,1013.0,P5840,Groceries,Oil,3483.14,3483.14,10449.42,3,West,High,Completed,2025-06-26
+256,1267.0,P8801,Furniture,Sofa,1628.26,1628.26,13026.08,8,North,Medium,Processing,2025-04-16
+257,1435.0,P2791,Clothing,T-Shirt,1571.29,1571.29,3142.58,2,South,Low,Pending,2025-01-12
+258,1219.0,P4798,Sports,Cricket Bat,2804.36,2804.36,16826.16,6,West,Low,Pending,2025-10-14
+259,1231.0,P7370,Furniture,Desk,2038.35,2038.35,20383.5,10,North,Low,Pending,2025-04-12
+260,1053.0,P9796,Furniture,Sofa,3786.39,3786.39,7572.78,2,South,Medium,Cancelled,2025-10-23
+261,1495.0,P7367,Furniture,Desk,658.38,658.38,5267.04,8,West,Low,Completed,2025-09-28
+262,1417.0,P5873,Clothing,Jacket,4243.04,4243.04,42430.4,10,North,Low,Pending,2025-03-30
+263,1192.0,P9369,Clothing,T-Shirt,1269.01,1269.01,2538.02,2,West,Medium,Pending,2025-04-04
+264,1276.0,P3838,Sports,Yoga Mat,2172.89,2172.89,17383.12,8,South,Medium,Cancelled,2025-11-22
+265,1028.0,P1157,Furniture,Table,1641.44,1641.44,13131.52,8,West,High,Pending,2025-11-14
+266,1351.0,P8272,Groceries,Oil,2576.65,2576.65,20613.2,8,West,High,Completed,2025-07-29
+267,1017.0,P9808,Sports,Football,3999.82,3999.82,15999.28,4,East,High,Processing,2025-05-30
+268,1059.0,P9898,Sports,Yoga Mat,2793.66,2793.66,5587.32,2,East,Low,Completed,2025-10-21
+269,1377.0,P5055,Groceries,Oil,1170.86,1170.86,8196.02,7,East,High,Processing,2025-02-22
+270,1444.0,P4882,Clothing,Jacket,4324.78,4324.78,8649.56,2,South,Low,Cancelled,2025-08-13
+271,1417.0,P1972,Sports,Yoga Mat,913.31,913.31,2739.93,3,East,Low,Cancelled,2025-04-16
+272,1294.0,P9428,Sports,Dumbbells,925.05,925.05,4625.25,5,North,High,Processing,2025-05-29
+273,1444.0,P3396,Electronics,Tablet,4348.53,4348.53,13045.59,3,East,High,Processing,2025-12-26
+274,1213.0,P2237,Groceries,Milk,2929.39,2929.39,14646.95,5,North,Medium,Cancelled,2025-11-18
+275,1002.0,P2526,Clothing,Shoes,4756.24,4756.24,28537.44,6,West,Low,Cancelled,2025-10-25
+276,1254.0,P5646,Electronics,Monitor,2048.81,2048.81,14341.67,7,East,Low,Pending,2025-04-19
+277,1051.0,P8529,Sports,Yoga Mat,3962.69,3962.69,3962.69,1,North,High,Pending,2025-01-24
+278,1353.0,P5945,Groceries,Eggs,103.31,103.31,723.17,7,South,Medium,Completed,2025-04-14
+279,1203.0,P4836,Clothing,Jacket,503.86,503.86,1511.58,3,West,Low,Completed,2025-01-27
+280,1304.0,P8291,Electronics,Laptop,1145.76,1145.76,2291.52,2,North,High,Cancelled,2025-03-09
+281,1118.0,P2678,Electronics,Headphones,3500.75,3500.75,28006.0,8,North,Medium,Cancelled,2025-02-06
+282,1347.0,P9691,Clothing,Jeans,1975.33,1975.33,5925.99,3,North,Low,Pending,2025-11-25
+283,1316.0,P4559,Groceries,Bread,3639.92,3639.92,10919.76,3,North,High,Pending,2025-07-30
+284,1162.0,P5059,Electronics,Monitor,3677.04,3677.04,22062.24,6,East,Low,Completed,2025-08-08
+285,1399.0,P1439,Furniture,Wardrobe,3044.9,3044.9,30449.0,10,East,High,Pending,2025-05-26
+286,1198.0,P9185,Groceries,Bread,3266.23,3266.23,13064.92,4,North,Low,Completed,2025-09-11
+287,1188.0,P3830,Clothing,Jacket,746.72,746.72,7467.2,10,West,High,Completed,2025-08-04
+288,1473.0,P7520,Sports,Football,167.59,167.59,670.36,4,East,Low,Processing,2025-01-21
+289,1316.0,P2369,Groceries,Eggs,503.9,503.9,4535.1,9,East,High,Pending,2025-10-03
+290,1391.0,P2083,Furniture,Wardrobe,1701.08,1701.08,17010.8,10,East,Low,Processing,2025-11-21
+291,1233.0,P1901,Furniture,Chair,1297.95,1297.95,9085.65,7,East,Low,Pending,2025-03-01
+292,1255.0,P9568,Electronics,Laptop,3568.71,3568.71,3568.71,1,East,High,Cancelled,2025-03-25
+293,1172.0,P5456,Furniture,Sofa,3691.39,3691.39,7382.78,2,North,Medium,Completed,2025-01-16
+294,1440.0,P7024,Groceries,Eggs,2602.83,2602.83,2602.83,1,South,Medium,Completed,2025-09-13
+295,1023.0,P1201,Sports,Football,1219.18,1219.18,10972.62,9,South,High,Processing,2025-01-02
+296,1284.0,P7870,Clothing,Shoes,4609.11,4609.11,13827.33,3,South,Medium,Pending,2025-01-19
+297,1191.0,P1862,Groceries,Bread,1429.16,1429.16,2858.32,2,South,High,Completed,2025-10-20
+298,1168.0,P8483,Groceries,Rice,4397.26,4397.26,21986.3,5,North,Medium,Pending,2025-06-09
+299,1238.0,P9083,Clothing,Hoodie,3944.09,3944.09,39440.9,10,South,Low,Pending,2025-05-05
+300,1278.0,P1157,Furniture,Chair,4668.75,4668.75,4668.75,1,East,High,Processing,2025-04-30
+301,1252.0,P3332,Clothing,T-Shirt,1105.45,1105.45,4421.8,4,East,High,Completed,2025-08-03
+302,1499.0,P2565,Furniture,Wardrobe,2123.98,2123.98,12743.88,6,South,Low,Processing,2025-08-23
+303,1494.0,P5778,Electronics,Monitor,2882.32,2882.32,20176.24,7,East,Medium,Processing,2025-12-06
+304,1484.0,P2785,Clothing,Jacket,2318.51,2318.51,9274.04,4,South,High,Pending,2025-02-08
+305,1184.0,P4401,Groceries,Eggs,1638.76,1638.76,3277.52,2,West,Medium,Processing,2025-10-02
+306,1357.0,P4522,Clothing,T-Shirt,543.06,543.06,2715.3,5,East,High,Completed,2025-12-27
+307,1154.0,P3848,Furniture,Sofa,2041.6,2041.6,2041.6,1,North,Medium,Processing,2025-12-13
+308,1412.0,P2989,Sports,Dumbbells,1324.28,1324.28,10594.24,8,North,High,Pending,2025-02-22
+309,1323.0,P2376,Furniture,Table,4136.0,4136.0,24816.0,6,East,High,Completed,2025-12-18
+310,1048.0,P6432,Electronics,Smartphone,4522.23,4522.23,36177.84,8,North,High,Processing,2025-03-07
+311,,P7990,Electronics,Smartphone,4628.25,4628.25,32397.75,7,South,Medium,Pending,2025-07-22
+312,1315.0,P5026,Furniture,Sofa,1471.29,1471.29,4413.87,3,East,Medium,Processing,2025-01-18
+313,1071.0,P9614,,Yoga Mat,398.8,398.8,1994.0,5,South,Low,Completed,2025-07-16
+314,1468.0,P6269,Groceries,Bread,2450.45,2450.45,19603.6,8,West,Medium,Pending,2025-06-26
+315,1030.0,P8728,Electronics,Tablet,3025.87,3025.87,3025.87,1,East,Low,Pending,2025-05-24
+316,1274.0,P1916,Furniture,Chair,1314.5,1314.5,5258.0,4,South,Low,Processing,2025-05-17
+317,1413.0,P6878,Clothing,Jeans,962.89,962.89,9628.9,10,North,Low,Cancelled,2025-06-12
+318,1278.0,P9035,,Dumbbells,796.3,796.3,3185.2,4,North,High,Completed,2025-09-10
+319,1001.0,P4300,Furniture,Wardrobe,1172.16,1172.16,10549.44,9,South,Medium,Pending,2025-09-02
+320,1470.0,P2817,Clothing,T-Shirt,207.37,207.37,2073.7,10,East,High,Cancelled,2025-12-27
+321,1070.0,P8157,Groceries,Oil,595.06,595.06,2975.3,5,West,Low,Cancelled,2025-06-15
+322,1115.0,P3872,,Wardrobe,3498.45,3498.45,34984.5,10,West,Medium,Cancelled,2025-07-02
+323,1436.0,P1530,Furniture,Table,3671.27,3671.27,36712.7,10,South,Low,Cancelled,2025-07-20
+324,1073.0,P2274,Sports,Cricket Bat,3234.27,3234.27,6468.54,2,South,Medium,Cancelled,2025-09-12
+325,1006.0,P5088,Furniture,Chair,4126.14,4126.14,24756.84,6,North,Medium,Cancelled,2025-08-17
+326,1497.0,P7783,Electronics,Laptop,335.92,335.92,2687.36,8,West,Medium,Cancelled,2025-08-03
+327,1334.0,P4695,Sports,Yoga Mat,597.0,597.0,4776.0,8,South,Medium,Completed,2025-10-23
+328,1038.0,P7151,Electronics,Tablet,198.38,198.38,991.9,5,South,Low,Completed,2025-02-23
+329,1361.0,P3703,Sports,Football,1755.96,1755.96,17559.6,10,West,High,Completed,2025-09-05
+330,1357.0,P9849,Electronics,Tablet,1107.2,1107.2,4428.8,4,East,Low,Cancelled,2025-07-29
+331,1282.0,P3516,Clothing,Jeans,569.99,569.99,3989.93,7,North,Medium,Completed,2025-10-20
+332,1103.0,P4390,Groceries,Rice,1543.29,1543.29,15432.9,10,South,Low,Cancelled,2025-09-03
+333,1242.0,P5341,Electronics,Headphones,4234.47,4234.47,21172.35,5,North,Low,Processing,2025-07-23
+334,1229.0,P8204,Furniture,Sofa,4438.91,4438.91,26633.46,6,West,Medium,Pending,2025-04-06
+335,1343.0,P9871,Clothing,Hoodie,402.03,402.03,804.06,2,West,Low,Pending,2025-02-13
+336,1495.0,P8779,Sports,Football,4219.91,4219.91,37979.19,9,South,Medium,Cancelled,2025-08-03
+337,1293.0,P3415,Electronics,Headphones,4523.61,4523.61,4523.61,1,North,Medium,Pending,2025-09-15
+338,1217.0,P8133,Furniture,Table,4061.46,4061.46,12184.38,3,South,Low,Pending,2025-01-22
+339,1199.0,P6343,Sports,Tennis Racket,1666.77,1666.77,3333.54,2,East,Low,Processing,2025-02-14
+340,1213.0,P2641,Electronics,Monitor,2979.12,2979.12,20853.84,7,North,Low,Completed,2025-02-27
+341,1197.0,P8750,Clothing,Hoodie,4412.67,4412.67,30888.69,7,North,High,Cancelled,2025-05-16
+342,1203.0,P6431,Groceries,Milk,3129.4,3129.4,21905.8,7,South,High,Processing,2025-01-20
+343,1144.0,P2609,Clothing,Jacket,199.14,199.14,995.7,5,South,High,Cancelled,2025-06-09
+344,1331.0,P8237,Groceries,Bread,1420.16,1420.16,9941.12,7,South,Medium,Processing,2025-11-06
+345,1034.0,P9303,Sports,Tennis Racket,4122.99,4122.99,37106.91,9,West,High,Completed,2025-03-23
+346,1128.0,P1828,Furniture,Table,4388.38,4388.38,17553.52,4,East,Low,Pending,2025-01-30
+347,1326.0,P1500,Clothing,Jacket,4135.18,4135.18,37216.62,9,South,Medium,Processing,2025-07-23
+348,1283.0,P3679,Sports,Yoga Mat,970.16,970.16,7761.28,8,East,Low,Completed,2025-10-28
+349,1400.0,P4626,Clothing,T-Shirt,1994.17,1994.17,5982.51,3,South,Low,Pending,2025-10-20
+350,1467.0,P3837,Clothing,Shoes,2615.08,2615.08,2615.08,1,North,High,Cancelled,2025-08-31
+351,1459.0,P6713,Sports,Tennis Racket,3592.43,3592.43,17962.15,5,West,Medium,Pending,2025-08-05
+352,1300.0,P9380,Groceries,Bread,3418.26,3418.26,34182.6,10,East,Low,Cancelled,2025-07-23
+353,1328.0,P5536,Clothing,T-Shirt,2460.52,2460.52,14763.12,6,East,Low,Cancelled,2025-05-22
+354,1413.0,P7620,Furniture,Table,2634.74,2634.74,10538.96,4,East,Low,Pending,2025-01-30
+355,1208.0,P1578,Electronics,Headphones,4987.6,4987.6,24938.0,5,South,Medium,Pending,2025-08-03
+356,1154.0,P3967,Sports,Yoga Mat,4541.98,4541.98,27251.88,6,East,High,Processing,2025-09-17
+357,1485.0,P6499,Furniture,Sofa,3653.41,3653.41,32880.69,9,North,High,Cancelled,2025-04-04
+358,1134.0,P8598,Furniture,Sofa,2160.32,2160.32,12961.92,6,North,Medium,Completed,2025-07-10
+359,1456.0,P2963,Sports,Dumbbells,4727.07,4727.07,9454.14,2,West,Low,Cancelled,2025-08-30
+360,1103.0,P8496,Groceries,Rice,4367.16,4367.16,13101.48,3,South,Medium,Pending,2025-03-12
+361,1325.0,P8406,Electronics,Headphones,1729.88,1729.88,5189.64,3,East,High,Pending,2025-06-10
+362,1315.0,P8035,Sports,Cricket Bat,2498.93,2498.93,4997.86,2,West,Medium,Processing,2025-03-08
+363,,P6279,Groceries,Rice,284.85,284.85,1139.4,4,South,High,Completed,2025-07-11
+364,1067.0,P9246,Furniture,Table,3498.27,3498.27,20989.62,6,East,High,Completed,2025-06-09
+365,1306.0,P8105,Electronics,Tablet,4747.47,4747.47,37979.76,8,South,Medium,Processing,2025-09-24
+366,1117.0,P3149,Clothing,Jeans,907.93,907.93,6355.51,7,South,Low,Completed,2025-01-10
+367,1334.0,P7147,Sports,Dumbbells,928.03,928.03,5568.18,6,East,Low,Completed,2025-12-31
+368,1354.0,P8279,Sports,Football,3343.65,3343.65,3343.65,1,West,High,Cancelled,2025-01-25
+369,1216.0,P9524,Groceries,Milk,1106.93,1106.93,1106.93,1,East,Low,Pending,2025-06-04
+370,1145.0,P2741,Groceries,Rice,2606.77,2606.77,26067.7,10,West,High,Pending,2025-03-02
+371,1210.0,P1645,Clothing,Hoodie,4868.29,4868.29,29209.74,6,West,High,Processing,2025-12-27
+372,1428.0,P9095,Clothing,Jeans,113.42,113.42,226.84,2,South,High,Completed,2025-02-26
+373,1136.0,P2635,Electronics,Tablet,3257.25,3257.25,26058.0,8,South,High,Cancelled,2025-06-01
+374,1436.0,P1751,Clothing,Jacket,2187.38,2187.38,4374.76,2,North,High,Pending,2025-02-18
+375,1450.0,P7105,Clothing,Jacket,4483.19,4483.19,44831.9,10,East,High,Completed,2025-05-18
+376,1354.0,P7909,Groceries,Eggs,4815.32,4815.32,24076.6,5,South,High,Pending,2025-07-17
+377,1411.0,P8178,Electronics,Smartphone,608.19,608.19,6081.9,10,South,Low,Processing,2025-09-05
+378,1472.0,P7738,Clothing,Hoodie,241.2,241.2,723.6,3,West,High,Completed,2025-09-05
+379,1371.0,P6542,Clothing,Jacket,160.57,160.57,1445.13,9,North,Medium,Pending,2025-10-23
+380,1430.0,P1894,Groceries,Bread,3352.18,3352.18,23465.26,7,North,Low,Pending,2025-03-18
+381,1385.0,P4946,Sports,Yoga Mat,4274.17,4274.17,12822.51,3,East,Medium,Completed,2025-02-08
+382,1419.0,P8521,Sports,Cricket Bat,2797.43,2797.43,19582.01,7,West,Low,Processing,2025-07-26
+383,1382.0,P2681,Electronics,Headphones,2290.63,2290.63,4581.26,2,West,Medium,,2025-09-12
+384,1494.0,P5990,Sports,Dumbbells,100.83,100.83,201.66,2,South,Low,Processing,2025-11-06
+385,1170.0,P8751,Clothing,Jacket,4144.02,4144.02,16576.08,4,East,Low,Processing,2025-08-21
+386,1175.0,P5783,Electronics,Laptop,3820.67,3820.67,15282.68,4,East,Low,Completed,2025-01-02
+387,1131.0,P4072,Electronics,Smartphone,2512.87,2512.87,17590.09,7,North,Medium,Pending,2025-02-24
+388,1024.0,P3018,Groceries,Milk,3612.26,3612.26,7224.52,2,West,Medium,Pending,2025-08-01
+389,1479.0,P8912,,Rice,2698.79,2698.79,2698.79,1,South,Low,Pending,2025-10-11
+390,1452.0,P7302,Furniture,Chair,1998.29,1998.29,19982.9,10,West,Low,Pending,2025-11-07
+391,1413.0,P7762,Clothing,Shoes,4821.61,4821.61,24108.05,5,East,Low,Cancelled,2025-08-20
+392,1149.0,P3173,Sports,Cricket Bat,1084.36,1084.36,10843.6,10,South,Low,Cancelled,2026-01-01
+393,1483.0,P7839,Electronics,Tablet,2855.17,2855.17,28551.7,10,East,Medium,Completed,2025-10-20
+394,1344.0,P5374,Sports,Football,223.83,223.83,671.49,3,South,Medium,Cancelled,2025-01-28
+395,1386.0,P6876,Furniture,Chair,3483.91,3483.91,17419.55,5,West,High,Pending,2025-04-15
+396,1341.0,P7251,Sports,Yoga Mat,1264.22,1264.22,6321.1,5,West,Medium,Cancelled,2025-12-21
+397,1318.0,P8259,Sports,Football,163.53,163.53,817.65,5,South,Low,Cancelled,2025-04-14
+398,1151.0,P2220,Sports,Dumbbells,3718.41,3718.41,14873.64,4,South,High,Completed,2025-04-10
+399,1067.0,P5178,Groceries,Rice,2199.69,2199.69,19797.21,9,North,Medium,Processing,2025-05-16
+400,1027.0,P5934,Furniture,Chair,853.15,853.15,5118.9,6,West,Low,Cancelled,2025-11-02
+401,1035.0,P3611,Electronics,Tablet,2674.44,2674.44,8023.32,3,West,Low,Processing,2025-09-24
+402,1170.0,P5809,Electronics,Tablet,1183.87,1183.87,4735.48,4,South,Low,Processing,2025-12-06
+403,1124.0,P4994,Sports,Football,662.14,662.14,3972.84,6,North,Low,Cancelled,2025-08-17
+404,1013.0,P7143,Groceries,Rice,1990.79,1990.79,17917.11,9,West,Medium,Completed,2025-05-25
+405,1086.0,P9814,Clothing,Jeans,1669.53,1669.53,3339.06,2,North,Low,Completed,2025-02-19
+406,1106.0,P8130,Furniture,Table,4338.26,4338.26,30367.82,7,North,Low,Pending,2025-02-23
+407,1038.0,P5127,Electronics,Headphones,3612.65,3612.65,3612.65,1,North,Low,Pending,2025-02-14
+408,,P2938,Clothing,Shoes,2001.36,2001.36,14009.52,7,North,Low,Completed,2025-08-10
+409,1476.0,P5748,Sports,Football,3534.32,3534.32,7068.64,2,East,Low,Completed,2025-07-03
+410,1081.0,P3234,Clothing,Shoes,1968.93,1968.93,1968.93,1,West,Low,Cancelled,2025-08-31
+411,1284.0,P3316,Furniture,Sofa,3418.72,3418.72,20512.32,6,North,High,Completed,2025-01-06
+412,1157.0,P6633,,Dumbbells,2031.0,2031.0,18279.0,9,South,Medium,Pending,2025-02-13
+413,1059.0,P1891,Furniture,Table,1181.86,1181.86,5909.3,5,West,Low,Completed,2025-04-10
+414,1250.0,P6851,Clothing,T-Shirt,1328.37,1328.37,5313.48,4,South,Low,Pending,2025-10-25
+415,1249.0,P6008,Electronics,Tablet,3135.63,3135.63,12542.52,4,South,Low,Cancelled,2025-06-12
+416,1403.0,P8145,Clothing,Shoes,926.33,926.33,5557.98,6,East,Medium,Pending,2025-05-07
+417,1250.0,P3879,Clothing,Shoes,2367.96,2367.96,14207.76,6,North,Medium,Pending,2025-06-06
+418,,P9309,Sports,Cricket Bat,1389.85,1389.85,2779.7,2,North,Low,Processing,2025-02-08
+419,1279.0,P9842,Sports,Cricket Bat,4540.89,4540.89,40868.01,9,West,Low,Pending,2025-05-14
+420,1069.0,P9362,Clothing,Shoes,1194.2,1194.2,11942.0,10,North,Medium,Cancelled,2025-05-29
+421,1085.0,P3299,Sports,Football,3347.12,3347.12,33471.2,10,West,High,Pending,2025-12-17
+422,1481.0,P4585,Sports,Dumbbells,3331.13,3331.13,9993.39,3,West,High,Completed,2025-09-05
+423,1465.0,P7358,Clothing,Jacket,1246.69,1246.69,4986.76,4,West,Medium,Completed,2025-09-23
+424,1425.0,P5314,Electronics,Tablet,605.8,605.8,5452.2,9,South,Medium,Processing,2025-11-21
+425,1129.0,P4651,Clothing,Hoodie,3301.35,3301.35,6602.7,2,West,Medium,Cancelled,2025-09-22
+426,1452.0,P3713,Groceries,Eggs,4447.14,4447.14,4447.14,1,South,High,Cancelled,2025-09-14
+427,1368.0,P4773,Furniture,Table,1015.84,1015.84,6095.04,6,West,Medium,Completed,2025-11-05
+428,1332.0,P1367,Groceries,Eggs,2447.2,2447.2,24472.0,10,South,High,Pending,2025-03-24
+429,1457.0,P1916,Sports,Dumbbells,889.53,889.53,8005.77,9,South,Medium,Pending,2025-01-21
+430,1010.0,P5644,Sports,Yoga Mat,3036.85,3036.85,30368.5,10,North,High,Processing,2025-11-23
+431,1426.0,P3338,Sports,Yoga Mat,4349.78,4349.78,13049.34,3,South,Low,Cancelled,2025-04-23
+432,1036.0,P7315,Furniture,Sofa,4619.52,4619.52,46195.2,10,South,High,Completed,2025-10-30
+433,1215.0,P2577,Furniture,Wardrobe,4312.0,4312.0,38808.0,9,South,Medium,Completed,2025-12-17
+434,1338.0,P9835,Sports,Dumbbells,3786.68,3786.68,7573.36,2,North,Low,Processing,2025-09-04
+435,1272.0,P8899,Sports,Yoga Mat,1914.85,1914.85,1914.85,1,West,Medium,Completed,2025-12-24
+436,1146.0,P9908,Groceries,Milk,1347.14,1347.14,5388.56,4,West,Medium,Pending,2025-02-12
+437,1004.0,P4365,Electronics,Laptop,2932.14,2932.14,5864.28,2,East,Medium,Cancelled,2025-09-24
+438,1134.0,P7939,Electronics,Smartphone,2187.75,2187.75,21877.5,10,East,Low,Cancelled,2025-05-10
+439,1092.0,P8925,Groceries,Milk,2124.82,2124.82,19123.38,9,East,Medium,Cancelled,2025-09-05
+440,1229.0,P3650,Groceries,Milk,4289.49,4289.49,8578.98,2,North,High,Processing,2025-04-28
+441,1200.0,P1086,Clothing,Hoodie,3108.72,3108.72,3108.72,1,North,High,Processing,2025-03-24
+442,1190.0,P1618,Sports,Yoga Mat,531.89,531.89,2659.45,5,West,Medium,Cancelled,2025-04-24
+443,1254.0,P4304,Sports,Football,4734.01,4734.01,14202.03,3,East,High,Completed,2025-11-24
+444,1087.0,P6893,Sports,Dumbbells,2627.49,2627.49,10509.96,4,South,Low,Completed,2025-11-11
+445,1343.0,P4281,Furniture,Chair,4984.4,4984.4,34890.8,7,North,Low,Completed,2025-06-30
+446,1179.0,P5530,Electronics,Monitor,1494.02,1494.02,13446.18,9,South,Low,Pending,2025-10-26
+447,1209.0,P2185,Groceries,Eggs,2917.04,2917.04,14585.2,5,East,Medium,Completed,2025-03-31
+448,1356.0,P7178,Sports,Tennis Racket,4392.95,4392.95,43929.5,10,West,High,Cancelled,2025-05-09
+449,1060.0,P7269,Groceries,Eggs,4492.97,4492.97,4492.97,1,South,Low,Pending,2025-09-04
+450,1005.0,P5314,Clothing,Shoes,4781.68,4781.68,43035.12,9,South,Medium,Completed,2025-10-02
+451,1161.0,P5408,Groceries,Bread,472.54,472.54,1417.62,3,South,Low,Pending,2025-09-01
+452,1106.0,P5091,Groceries,Milk,1250.82,1250.82,5003.28,4,East,High,Completed,2025-05-16
+453,1004.0,P9871,Electronics,Laptop,3411.48,3411.48,27291.84,8,North,Medium,Cancelled,2025-11-11
+454,1252.0,P9374,Sports,Tennis Racket,2512.47,2512.47,25124.7,10,East,Medium,Pending,2025-05-21
+455,1482.0,P9232,Sports,Cricket Bat,365.33,365.33,2557.31,7,East,Medium,Pending,2025-09-02
+456,,P4452,Groceries,Rice,3521.4,3521.4,28171.2,8,West,Low,Completed,2025-06-11
+457,1281.0,P5413,Clothing,Jacket,3102.61,3102.61,15513.05,5,West,Low,Cancelled,2025-04-06
+458,1359.0,P6981,Clothing,Jeans,2543.97,2543.97,10175.88,4,West,Medium,Processing,2025-08-03
+459,1118.0,P5422,Furniture,Wardrobe,742.58,742.58,7425.8,10,South,Low,,2025-12-18
+460,,P7906,Groceries,Milk,814.63,814.63,2443.89,3,West,High,Cancelled,2025-08-31
+461,1204.0,P3676,Groceries,Bread,1329.77,1329.77,13297.7,10,North,High,Cancelled,2025-01-25
+462,1185.0,P5222,Groceries,Rice,2304.29,2304.29,13825.74,6,East,High,Processing,2025-05-14
+463,1296.0,P9821,,Tablet,4350.11,4350.11,43501.1,10,South,Medium,Cancelled,2025-04-12
+464,1196.0,P8598,Clothing,Hoodie,2488.72,2488.72,19909.76,8,South,High,Cancelled,2025-02-10
+465,1083.0,P6136,Groceries,Oil,2901.02,2901.02,5802.04,2,East,Low,Cancelled,2025-02-10
+466,1400.0,P6950,Clothing,Hoodie,3258.76,3258.76,16293.8,5,West,Medium,Pending,2025-08-16
+467,1129.0,P2311,Furniture,Chair,712.7,712.7,2850.8,4,South,High,Processing,2025-12-05
+468,,P7504,Electronics,Laptop,412.58,412.58,3300.64,8,North,High,Cancelled,2025-10-08
+469,1118.0,P5655,Sports,Cricket Bat,513.13,513.13,3591.91,7,West,Low,Pending,2025-06-08
+470,1340.0,P6328,Furniture,Wardrobe,4208.74,4208.74,4208.74,1,West,Medium,Cancelled,2025-01-18
+471,1303.0,P8126,Sports,Yoga Mat,762.06,762.06,6858.54,9,East,Medium,Processing,2025-04-01
+472,1188.0,P3551,Sports,Cricket Bat,4043.07,4043.07,32344.56,8,East,High,Completed,2025-06-07
+473,1005.0,P9059,Sports,Cricket Bat,1785.04,1785.04,14280.32,8,West,Medium,Completed,2025-10-01
+474,1192.0,P8161,Groceries,Bread,3025.32,3025.32,3025.32,1,West,High,Pending,2025-10-08
+475,1321.0,P5454,Groceries,Eggs,1180.9,1180.9,2361.8,2,East,Low,Cancelled,2025-08-05
+476,1149.0,P8460,Groceries,Milk,4282.06,4282.06,12846.18,3,West,Medium,Processing,2025-03-11
+477,1012.0,P2675,Furniture,Sofa,195.04,195.04,195.04,1,East,Medium,Pending,2025-10-01
+478,1253.0,P7885,Groceries,Rice,1240.77,1240.77,3722.31,3,East,Medium,Cancelled,2025-01-08
+479,1137.0,P2169,Groceries,Rice,1718.22,1718.22,5154.66,3,West,High,Pending,2025-01-29
+480,1128.0,P8257,Clothing,Shoes,4158.44,4158.44,8316.88,2,South,Low,Completed,2026-01-01
+481,1341.0,P8746,Furniture,Desk,3703.08,3703.08,7406.16,2,West,Low,Cancelled,2025-09-24
+482,1267.0,P8884,Clothing,Jeans,3182.9,3182.9,3182.9,1,East,High,Cancelled,2025-10-09
+483,1223.0,P3742,Electronics,Smartphone,4869.04,4869.04,19476.16,4,East,Low,Completed,2025-11-21
+484,1402.0,P3539,Groceries,Milk,143.76,143.76,143.76,1,East,High,Pending,2025-10-25
+485,1477.0,P1983,Furniture,Desk,547.87,547.87,5478.7,10,North,Medium,Pending,2025-06-23
+486,1286.0,P6690,Sports,Football,716.55,716.55,2866.2,4,West,Low,Pending,2025-06-12
+487,1461.0,P8168,Electronics,Headphones,1855.02,1855.02,5565.06,3,East,Low,Processing,2025-05-09
+488,1375.0,P3627,Furniture,Wardrobe,1014.47,1014.47,6086.82,6,North,Low,Pending,2025-06-15
+489,,P9289,Groceries,Bread,4115.15,4115.15,37036.35,9,West,Low,Pending,2025-07-07
+490,1165.0,P9830,Electronics,Monitor,4298.46,4298.46,42984.6,10,West,High,Processing,2025-05-03
+491,1329.0,P2577,Sports,Cricket Bat,3103.89,3103.89,18623.34,6,North,High,Pending,2025-07-29
+492,1051.0,P7366,Furniture,Chair,1090.19,1090.19,8721.52,8,West,Low,Cancelled,2025-04-09
+493,1477.0,P9051,Electronics,Tablet,1181.54,1181.54,2363.08,2,North,Medium,Completed,2025-01-07
+494,1407.0,P5355,Clothing,Hoodie,3743.04,3743.04,26201.28,7,North,Low,Completed,2025-07-08
+495,1052.0,P9710,Clothing,T-Shirt,4728.56,4728.56,42557.04,9,West,High,Pending,2025-02-19
+496,1384.0,P2728,Sports,Cricket Bat,2893.14,2893.14,8679.42,3,East,Low,Processing,2025-10-13
+497,1206.0,P3591,Groceries,Rice,917.37,917.37,2752.11,3,West,Medium,Cancelled,2025-10-09
+498,1221.0,P6299,Sports,Tennis Racket,4239.78,4239.78,29678.46,7,South,Low,Pending,2025-11-21
+499,1493.0,P7505,Groceries,Oil,4638.12,4638.12,23190.6,5,North,Low,Completed,2025-07-04
+500,1004.0,P4635,Clothing,Hoodie,179.88,179.88,539.64,3,South,Medium,Completed,2025-06-04
+501,1080.0,P8542,Clothing,Hoodie,2605.23,2605.23,26052.3,10,East,High,Pending,2025-10-20
+502,1132.0,P2505,Clothing,Jacket,4459.16,4459.16,17836.64,4,West,Low,Pending,2025-04-30
+503,1423.0,P2562,Electronics,Tablet,3985.23,3985.23,11955.69,3,East,High,Processing,2025-09-07
+504,1451.0,P7824,Electronics,Laptop,4617.17,4617.17,27703.02,6,North,High,Completed,2025-06-28
+505,1277.0,P6354,Groceries,Rice,1593.44,1593.44,1593.44,1,South,High,Completed,2025-06-13
+506,1047.0,P5747,Groceries,Eggs,3788.92,3788.92,37889.2,10,West,High,Pending,2025-09-16
+507,1205.0,P7529,Clothing,T-Shirt,2431.69,2431.69,2431.69,1,West,Low,Pending,2025-10-08
+508,1334.0,P9589,Furniture,Desk,2840.55,2840.55,22724.4,8,South,High,Completed,2025-07-22
+509,1058.0,P7939,Clothing,Shoes,1684.72,1684.72,16847.2,10,East,Medium,Pending,2025-02-15
+510,1087.0,P8245,Clothing,Jacket,3010.0,3010.0,3010.0,1,South,Medium,Completed,2025-06-06
+511,1058.0,P4982,Furniture,Table,3458.26,3458.26,10374.78,3,South,Medium,Completed,2025-02-13
+512,1170.0,P9814,Clothing,T-Shirt,1595.08,1595.08,12760.64,8,South,High,Cancelled,2025-01-12
+513,1358.0,P7170,Sports,Yoga Mat,3152.91,3152.91,9458.73,3,North,Medium,Pending,2025-12-22
+514,1028.0,P1136,Electronics,Tablet,1083.41,1083.41,10834.1,10,North,Medium,Cancelled,2025-05-19
+515,1195.0,P2631,Clothing,T-Shirt,193.48,193.48,1354.36,7,East,Medium,Completed,2025-04-29
+516,1475.0,P1651,Furniture,Table,2553.19,2553.19,20425.52,8,South,Low,Cancelled,2025-10-15
+517,1178.0,P6822,Clothing,Shoes,2027.66,2027.66,6082.98,3,East,High,Cancelled,2025-01-10
+518,1486.0,P3485,Electronics,Tablet,4405.52,4405.52,4405.52,1,East,Medium,Pending,2025-10-12
+519,1352.0,P4938,Electronics,Headphones,2651.52,2651.52,26515.2,10,South,Medium,Cancelled,2025-11-17
+520,1335.0,P9869,Sports,Tennis Racket,2300.93,2300.93,6902.79,3,South,High,Cancelled,2025-04-16
+521,1478.0,P3589,Sports,Cricket Bat,2207.32,2207.32,6621.96,3,East,High,Completed,2025-12-02
+522,1392.0,P7783,Furniture,Sofa,4213.66,4213.66,12640.98,3,West,Medium,Processing,2025-01-16
+523,,P5372,Clothing,Jeans,3917.63,3917.63,7835.26,2,South,Low,Pending,2025-03-09
+524,1258.0,P8680,Furniture,Chair,1860.38,1860.38,14883.04,8,East,High,Processing,2025-03-10
+525,1017.0,P1245,Groceries,Eggs,773.81,773.81,3095.24,4,East,Medium,Pending,2025-04-26
+526,1251.0,P8496,Furniture,Table,424.07,424.07,3392.56,8,South,Medium,Processing,2025-11-12
+527,1202.0,P9784,Electronics,Monitor,3703.13,3703.13,25921.91,7,North,Low,Completed,2025-06-10
+528,1266.0,P1643,Groceries,Eggs,4152.35,4152.35,4152.35,1,West,Low,Completed,2025-05-06
+529,1237.0,P5823,Furniture,Sofa,2253.81,2253.81,11269.05,5,North,Low,Pending,2025-05-27
+530,1093.0,P9952,Groceries,Eggs,543.16,543.16,4888.44,9,South,Medium,Processing,2025-02-27
+531,1460.0,P4308,Clothing,Shoes,222.07,222.07,1776.56,8,West,High,Cancelled,2025-10-30
+532,1059.0,P6946,Clothing,Jeans,3620.04,3620.04,7240.08,2,North,Low,Processing,2025-02-16
+533,1195.0,P3799,Sports,Dumbbells,4753.79,4753.79,33276.53,7,East,Low,Pending,2025-10-09
+534,1158.0,P8311,Furniture,Table,976.45,976.45,976.45,1,East,Low,Pending,2025-08-03
+535,1392.0,P8514,Electronics,Smartphone,4806.13,4806.13,4806.13,1,West,Medium,Completed,2025-11-15
+536,1244.0,P8239,Sports,Yoga Mat,1265.6,1265.6,12656.0,10,North,Low,Completed,2025-12-04
+537,1026.0,P1902,Furniture,Wardrobe,1462.75,1462.75,13164.75,9,East,High,Pending,2025-04-17
+538,1472.0,P2784,Electronics,Monitor,4206.27,4206.27,21031.35,5,West,High,Pending,2025-06-19
+539,1404.0,P8460,Clothing,Hoodie,3338.53,3338.53,33385.3,10,East,High,Completed,2025-10-21
+540,1389.0,P2063,Clothing,Jacket,1905.99,1905.99,13341.93,7,East,Medium,Pending,2025-02-04
+541,1108.0,P1953,Electronics,Tablet,1713.12,1713.12,11991.84,7,North,Low,Completed,2025-09-26
+542,1312.0,P5254,Groceries,Oil,4676.07,4676.07,23380.35,5,East,High,Processing,2025-08-07
+543,1120.0,P4171,Sports,Yoga Mat,2513.27,2513.27,7539.81,3,North,High,Completed,2025-11-09
+544,1213.0,P6468,Groceries,Rice,3713.6,3713.6,14854.4,4,East,Low,Pending,2025-11-12
+545,1158.0,P6307,Electronics,Smartphone,3481.08,3481.08,17405.4,5,North,High,Cancelled,2025-02-04
+546,1427.0,P6415,Clothing,Shoes,3649.54,3649.54,36495.4,10,East,Low,Processing,2025-01-15
+547,1322.0,P9797,Groceries,Rice,3263.7,3263.7,26109.6,8,East,Medium,Processing,2025-03-21
+548,,P6434,Electronics,Monitor,1566.78,1566.78,9400.68,6,East,High,Pending,2025-10-12
+549,1274.0,P7382,Clothing,T-Shirt,1761.85,1761.85,12332.95,7,South,Low,Completed,2025-11-17
+550,1045.0,P4893,Clothing,Jacket,3578.22,3578.22,17891.1,5,East,Medium,Cancelled,2025-07-31
+551,1402.0,P4311,Furniture,Wardrobe,1581.36,1581.36,3162.72,2,North,Medium,Completed,2025-07-11
+552,1376.0,P6084,Groceries,Oil,854.98,854.98,5129.88,6,East,High,Completed,2025-09-05
+553,1199.0,P9558,Sports,Cricket Bat,1105.42,1105.42,1105.42,1,North,High,Cancelled,2025-08-24
+554,1456.0,P9529,Electronics,Monitor,4372.19,4372.19,26233.14,6,East,High,Cancelled,2025-08-28
+555,1273.0,P8227,Furniture,Sofa,1082.72,1082.72,5413.6,5,North,Medium,Pending,2025-05-22
+556,1264.0,P9888,Furniture,Sofa,660.86,660.86,6608.6,10,East,Low,Cancelled,2025-10-14
+557,1126.0,P6101,Clothing,Jeans,4722.06,4722.06,23610.3,5,East,Low,Processing,2025-10-21
+558,1197.0,P7987,Electronics,Smartphone,242.06,242.06,242.06,1,West,High,Processing,2025-02-24
+559,1389.0,P9740,Sports,Tennis Racket,1630.96,1630.96,6523.84,4,North,Medium,Pending,2026-01-01
+560,1330.0,P8625,Electronics,Headphones,576.59,576.59,2882.95,5,West,High,Pending,2025-12-17
+561,1094.0,P6412,Furniture,Wardrobe,1364.46,1364.46,8186.76,6,East,Medium,Processing,2025-07-20
+562,1237.0,P5624,Electronics,Laptop,2429.14,2429.14,14574.84,6,East,Low,Pending,2025-09-03
+563,1285.0,P5949,Sports,Football,2087.86,2087.86,4175.72,2,West,Medium,Processing,2025-06-16
+564,1197.0,P4411,Furniture,Wardrobe,1294.09,1294.09,3882.27,3,West,Medium,Cancelled,2025-09-04
+565,1294.0,P2873,Sports,Cricket Bat,948.12,948.12,1896.24,2,West,Medium,Completed,2025-12-31
+566,1307.0,P7208,Groceries,Milk,1609.38,1609.38,11265.66,7,East,Medium,Completed,2025-02-05
+567,,P3403,Electronics,Smartphone,4103.46,4103.46,41034.6,10,South,Medium,Cancelled,2025-11-22
+568,1349.0,P5910,Groceries,Oil,2931.86,2931.86,11727.44,4,East,Medium,Cancelled,2025-04-16
+569,1434.0,P5819,Electronics,Monitor,139.78,139.78,1258.02,9,North,Medium,Completed,2025-07-26
+570,1441.0,P1510,Electronics,Monitor,4121.69,4121.69,24730.14,6,South,Medium,Processing,2025-02-26
+571,1109.0,P8780,Clothing,Shoes,2089.56,2089.56,14626.92,7,South,High,Processing,2025-10-07
+572,1006.0,P1257,Clothing,Shoes,855.91,855.91,2567.73,3,South,Low,Processing,2025-03-10
+573,1458.0,P7974,Groceries,Milk,514.85,514.85,3603.95,7,South,Medium,Processing,2025-08-22
+574,1218.0,P9161,Sports,Yoga Mat,1985.1,1985.1,7940.4,4,South,Low,Cancelled,2025-04-06
+575,1291.0,P7038,Groceries,Oil,2924.13,2924.13,2924.13,1,North,Low,Processing,2025-01-20
+576,1239.0,P9574,Electronics,Smartphone,3677.91,3677.91,33101.19,9,North,High,Processing,2025-05-24
+577,1028.0,P9765,Electronics,Monitor,4010.68,4010.68,20053.4,5,North,Medium,Processing,2025-11-10
+578,1181.0,P5827,Sports,Yoga Mat,2912.43,2912.43,17474.58,6,East,High,Completed,2025-08-04
+579,1032.0,P3770,Sports,Tennis Racket,3662.16,3662.16,36621.6,10,North,Low,Cancelled,2025-05-14
+580,1259.0,P5552,Sports,Football,1505.4,1505.4,3010.8,2,East,High,Cancelled,2025-03-06
+581,1090.0,P3476,Clothing,Jacket,169.59,169.59,339.18,2,West,Medium,Pending,2025-11-06
+582,1176.0,P3376,Clothing,Jeans,2476.1,2476.1,22284.9,9,South,Medium,Processing,2025-01-17
+583,1296.0,P6653,Groceries,Milk,3337.27,3337.27,10011.81,3,North,Low,Cancelled,2025-04-18
+584,1155.0,P9724,Electronics,Laptop,921.24,921.24,6448.68,7,South,Medium,Processing,2025-09-01
+585,1148.0,P8353,Groceries,Bread,811.23,811.23,5678.61,7,West,Low,Cancelled,2025-01-07
+586,1182.0,P8074,Sports,Football,577.09,577.09,5193.81,9,East,Medium,Cancelled,2025-11-23
+587,1237.0,P4961,Clothing,T-Shirt,1351.19,1351.19,13511.9,10,South,Low,Cancelled,2025-07-20
+588,1007.0,P9605,Furniture,Sofa,2783.3,2783.3,2783.3,1,North,Low,Processing,2025-02-04
+589,,P2506,Clothing,Jeans,3653.73,3653.73,18268.65,5,North,Low,Pending,2025-04-09
+590,1439.0,P7159,Sports,Football,3569.57,3569.57,7139.14,2,South,High,Pending,2025-02-14
+591,1233.0,P5528,Clothing,Jacket,2388.08,2388.08,4776.16,2,West,Low,Cancelled,2025-11-24
+592,1196.0,P1984,Clothing,Jeans,3925.58,3925.58,19627.9,5,East,Medium,Pending,2025-02-01
+593,1202.0,P9061,Groceries,Rice,2509.44,2509.44,10037.76,4,North,High,Processing,2025-11-09
+594,1053.0,P2153,Furniture,Wardrobe,3252.36,3252.36,26018.88,8,East,Medium,Completed,2025-05-13
+595,1341.0,P3483,Groceries,Milk,3299.04,3299.04,3299.04,1,East,Medium,Completed,2025-01-20
+596,1277.0,P7298,Sports,Yoga Mat,2442.88,2442.88,17100.16,7,West,High,Cancelled,2025-02-05
+597,1274.0,P6571,Clothing,Jacket,2063.01,2063.01,4126.02,2,North,Medium,Cancelled,2025-07-07
+598,1098.0,P7391,Furniture,Table,2816.93,2816.93,19718.51,7,North,Low,Cancelled,2025-12-05
+599,1072.0,P1415,Groceries,Rice,4437.55,4437.55,35500.4,8,South,Medium,Processing,2025-04-08
+600,1495.0,P8361,Electronics,Monitor,3252.7,3252.7,26021.6,8,North,High,Cancelled,2025-10-01
+601,1061.0,P9570,Electronics,Tablet,3960.11,3960.11,3960.11,1,West,Low,Pending,2025-07-27
+602,1251.0,P8720,Sports,Cricket Bat,4631.6,4631.6,4631.6,1,North,High,Pending,2025-03-14
+603,1234.0,P2047,Electronics,Smartphone,3200.04,3200.04,16000.2,5,North,High,Processing,2025-02-19
+604,1173.0,P7586,Sports,Dumbbells,1180.81,1180.81,4723.24,4,East,High,Pending,2025-08-07
+605,1172.0,P5487,Clothing,Jeans,3844.72,3844.72,38447.2,10,South,Medium,Pending,2025-03-30
+606,1021.0,P7162,Clothing,Hoodie,908.53,908.53,3634.12,4,South,High,Processing,2025-10-25
+607,1334.0,P5648,Electronics,Laptop,135.4,135.4,270.8,2,West,Low,Processing,2025-12-28
+608,1231.0,P3859,Furniture,Table,801.13,801.13,4005.65,5,North,Low,Pending,2025-09-25
+609,,P4860,Groceries,Oil,4756.46,4756.46,23782.3,5,South,High,Completed,2025-06-28
+610,1113.0,P4409,Sports,Tennis Racket,4327.38,4327.38,38946.42,9,East,High,Pending,2025-09-17
+611,1091.0,P1706,Electronics,Smartphone,3457.69,3457.69,27661.52,8,North,Low,Cancelled,2025-09-12
+612,1413.0,P8424,Clothing,Jeans,2229.89,2229.89,13379.34,6,North,High,Completed,2025-11-12
+613,1264.0,P4855,Sports,Cricket Bat,874.42,874.42,874.42,1,West,Low,Cancelled,2025-09-06
+614,1399.0,P4731,Groceries,Milk,3760.73,3760.73,22564.38,6,North,High,Processing,2025-04-28
+615,1300.0,P8141,Furniture,Desk,4467.69,4467.69,8935.38,2,South,High,Processing,2025-08-30
+616,1324.0,P5418,Furniture,Desk,1930.08,1930.08,15440.64,8,South,Medium,Pending,2025-04-10
+617,1437.0,P7852,Electronics,Monitor,392.29,392.29,1176.87,3,South,Medium,Pending,2025-02-26
+618,1296.0,P4763,Clothing,Hoodie,868.26,868.26,8682.6,10,North,Medium,Processing,2025-03-29
+619,1008.0,P5041,Furniture,Wardrobe,2420.1,2420.1,19360.8,8,South,Medium,Processing,2025-05-23
+620,1468.0,P1083,Sports,Cricket Bat,4469.93,4469.93,44699.3,10,West,High,Completed,2025-03-18
+621,1246.0,P2605,Groceries,Oil,264.74,264.74,2382.66,9,West,Medium,Pending,2025-07-21
+622,1068.0,P4916,Electronics,Monitor,3790.09,3790.09,26530.63,7,North,High,Processing,2025-04-22
+623,1013.0,P8598,Clothing,Jeans,3546.19,3546.19,35461.9,10,South,Low,Processing,2025-10-26
+624,1037.0,P6454,Furniture,Sofa,3171.37,3171.37,3171.37,1,North,Medium,Processing,2025-11-18
+625,1042.0,P6500,Clothing,Hoodie,2757.93,2757.93,11031.72,4,North,Low,Cancelled,2025-12-17
+626,1021.0,P3871,Electronics,Laptop,1976.48,1976.48,15811.84,8,North,Low,Pending,2025-11-13
+627,1245.0,P4437,Furniture,Sofa,1269.3,1269.3,2538.6,2,South,Medium,Cancelled,2025-11-29
+628,1033.0,P8412,Clothing,Hoodie,3433.11,3433.11,17165.55,5,West,Low,Completed,2025-01-28
+629,1232.0,P2075,Groceries,Oil,3423.71,3423.71,30813.39,9,South,Medium,Completed,2025-05-30
+630,1056.0,P2835,Electronics,Headphones,4499.93,4499.93,22499.65,5,South,Medium,Pending,2025-02-09
+631,1214.0,P9870,Furniture,Wardrobe,4765.31,4765.31,4765.31,1,South,Medium,Cancelled,2025-05-31
+632,1097.0,P4806,Groceries,Eggs,3714.78,3714.78,3714.78,1,East,Medium,Cancelled,2025-05-30
+633,1228.0,P3161,Clothing,Shoes,3007.45,3007.45,27067.05,9,East,High,Cancelled,2025-10-08
+634,1076.0,P8469,Furniture,Desk,1922.32,1922.32,9611.6,5,South,Low,Pending,2025-01-25
+635,1355.0,P3514,Sports,Tennis Racket,993.17,993.17,2979.51,3,South,High,Completed,2025-12-29
+636,1190.0,P1568,Electronics,Tablet,2915.17,2915.17,23321.36,8,East,Medium,Pending,2025-05-14
+637,1155.0,P1408,Clothing,Shoes,2745.35,2745.35,8236.05,3,West,Medium,Pending,2025-10-01
+638,1170.0,P5842,Groceries,Bread,864.66,864.66,7781.94,9,West,Medium,Pending,2025-09-17
+639,1461.0,P2914,Sports,Yoga Mat,1759.55,1759.55,3519.1,2,East,High,Processing,2025-09-03
+640,1029.0,P4197,Sports,Cricket Bat,2285.27,2285.27,4570.54,2,South,Medium,Pending,2025-06-17
+641,1344.0,P9385,Electronics,Laptop,2738.22,2738.22,21905.76,8,West,High,Processing,2025-12-13
+642,1185.0,P8006,Clothing,Hoodie,3064.88,3064.88,3064.88,1,East,Medium,Cancelled,2025-12-08
+643,1448.0,P4533,Electronics,Tablet,1790.11,1790.11,8950.55,5,West,Low,Processing,2025-08-17
+644,1072.0,P2410,Groceries,Bread,902.57,902.57,6317.99,7,South,High,Cancelled,2025-08-01
+645,1388.0,P1108,Groceries,Oil,4934.53,4934.53,9869.06,2,West,Low,Cancelled,2025-10-30
+646,1103.0,P7254,Groceries,Milk,2823.49,2823.49,28234.9,10,East,Low,Processing,2025-03-12
+647,1287.0,P4678,Electronics,Tablet,4189.47,4189.47,20947.35,5,North,High,Pending,2025-09-10
+648,1335.0,P5713,Clothing,Jacket,4784.53,4784.53,38276.24,8,West,High,Processing,2025-03-05
+649,1497.0,P6927,Furniture,Chair,684.84,684.84,3424.2,5,West,Low,Processing,2025-09-10
+650,1263.0,P1287,Clothing,Shoes,4873.87,4873.87,9747.74,2,East,High,Completed,2025-07-11
+651,1084.0,P6917,Furniture,Sofa,2359.12,2359.12,7077.36,3,West,Low,Cancelled,2025-07-02
+652,1100.0,P4002,Electronics,Tablet,1529.15,1529.15,3058.3,2,North,Low,Pending,2025-09-21
+653,1351.0,P6939,Sports,Tennis Racket,4374.97,4374.97,21874.85,5,North,Low,Cancelled,2025-05-19
+654,1399.0,P6575,Furniture,Chair,771.05,771.05,3855.25,5,South,High,Pending,2025-07-10
+655,1315.0,P9612,Furniture,Wardrobe,1183.46,1183.46,4733.84,4,North,Medium,Processing,2025-10-14
+656,1179.0,P6940,Electronics,Laptop,4112.34,4112.34,4112.34,1,South,Medium,Cancelled,2025-09-03
+657,1066.0,P3332,Furniture,Sofa,240.92,240.92,481.84,2,South,Medium,Pending,2025-04-24
+658,1391.0,P2273,Furniture,Table,4907.44,4907.44,34352.08,7,North,Medium,Processing,2025-12-20
+659,1031.0,P5145,Electronics,Smartphone,628.31,628.31,5654.79,9,North,High,Cancelled,2025-10-31
+660,1301.0,P4027,Electronics,Laptop,3933.62,3933.62,39336.2,10,East,High,Completed,2025-04-16
+661,1083.0,P4962,Furniture,Sofa,4749.08,4749.08,28494.48,6,North,High,Completed,2025-06-30
+662,1462.0,P1070,Sports,Cricket Bat,3607.48,3607.48,18037.4,5,North,High,Processing,2025-03-29
+663,1428.0,P7219,Clothing,Hoodie,1007.12,1007.12,2014.24,2,West,High,Pending,2025-04-03
+664,1239.0,P3226,Groceries,Rice,3830.91,3830.91,22985.46,6,West,Medium,Cancelled,2025-03-05
+665,1198.0,P6111,Sports,Football,503.01,503.01,4024.08,8,West,High,Processing,2025-03-01
+666,1481.0,P3937,Clothing,Shoes,1025.05,1025.05,2050.1,2,North,Low,Processing,2025-09-01
+667,1074.0,P2666,Electronics,Headphones,2246.49,2246.49,4492.98,2,,High,Cancelled,2025-03-03
+668,1120.0,P9177,Furniture,Sofa,1081.29,1081.29,7569.03,7,East,Low,Cancelled,2025-03-04
+669,1249.0,P3414,Groceries,Bread,2431.55,2431.55,24315.5,10,West,High,Completed,2025-07-27
+670,1051.0,P2117,Clothing,Shoes,2536.64,2536.64,7609.92,3,West,Low,Completed,2025-01-16
+671,1156.0,P2578,Furniture,Desk,3062.46,3062.46,18374.76,6,North,Low,Processing,2025-03-20
+672,1259.0,P6629,Groceries,Milk,1538.46,1538.46,12307.68,8,North,High,Processing,2025-09-09
+673,1236.0,P3897,Electronics,Headphones,2305.57,2305.57,16138.99,7,East,Low,Pending,2025-08-15
+674,1392.0,P9037,Groceries,Eggs,758.99,758.99,5312.93,7,West,Medium,Pending,2025-09-07
+675,1498.0,P6779,Sports,Football,2017.79,2017.79,16142.32,8,East,Medium,Completed,2025-10-30
+676,1415.0,P1440,Electronics,Monitor,321.08,321.08,1926.48,6,East,Medium,Completed,2025-06-28
+677,1029.0,P5056,Groceries,Bread,4960.53,4960.53,34723.71,7,South,Low,Cancelled,2025-06-29
+678,1059.0,P1322,Sports,Football,4560.91,4560.91,9121.82,2,East,High,Processing,2025-06-06
+679,1011.0,P1364,Groceries,Oil,2622.32,2622.32,18356.24,7,East,Medium,Processing,2025-05-17
+680,1354.0,P6504,Clothing,Hoodie,578.86,578.86,4630.88,8,West,Low,Cancelled,2025-02-21
+681,1255.0,P2234,Furniture,Wardrobe,1567.65,1567.65,10973.55,7,South,Medium,Cancelled,2025-04-14
+682,1320.0,P2506,Electronics,Tablet,4981.52,4981.52,34870.64,7,North,Low,Cancelled,2025-04-26
+683,1219.0,P2256,Clothing,T-Shirt,2875.5,2875.5,25879.5,9,East,Low,Cancelled,2025-09-01
+684,1129.0,P8425,Groceries,Oil,1635.43,1635.43,11448.01,7,South,High,Pending,2025-07-25
+685,1480.0,P8106,Sports,Yoga Mat,1143.47,1143.47,9147.76,8,North,Low,Pending,2025-05-18
+686,1392.0,P8133,Clothing,Shoes,823.94,823.94,2471.82,3,West,Medium,Completed,2025-12-17
+687,1083.0,P4868,Furniture,Desk,1407.98,1407.98,7039.9,5,West,High,Completed,2025-11-27
+688,1249.0,P8145,Furniture,Table,235.75,235.75,1178.75,5,West,Low,Completed,2025-08-26
+689,1405.0,P3883,Furniture,Table,1436.29,1436.29,1436.29,1,North,Low,Processing,2025-05-13
+690,1309.0,P2041,Electronics,Laptop,4311.96,4311.96,8623.92,2,West,Medium,Completed,2025-06-10
+691,1478.0,P9605,Groceries,Milk,1256.6,1256.6,12566.0,10,East,Medium,Completed,2025-09-14
+692,1427.0,P7388,Furniture,Wardrobe,699.16,699.16,4194.96,6,South,Medium,Pending,2025-06-18
+693,1210.0,P1916,Furniture,Chair,958.26,958.26,4791.3,5,West,Low,Cancelled,2025-08-14
+694,1127.0,P3374,Electronics,Tablet,2774.15,2774.15,22193.2,8,East,Medium,Cancelled,2025-12-16
+695,1431.0,P1895,Clothing,T-Shirt,3262.45,3262.45,32624.5,10,South,Medium,Processing,2025-01-18
+696,1444.0,P8248,Clothing,Jacket,4525.47,4525.47,9050.94,2,West,High,Processing,2025-10-01
+697,1108.0,P3625,Clothing,Jacket,542.23,542.23,2168.92,4,West,Low,Cancelled,2025-06-02
+698,1242.0,P6451,Groceries,Rice,1442.78,1442.78,2885.56,2,West,High,Pending,2025-09-09
+699,1374.0,P6353,Clothing,Hoodie,425.2,425.2,2976.4,7,West,Low,Completed,2025-11-05
+700,1206.0,P6006,Electronics,Smartphone,3187.77,3187.77,9563.31,3,East,Low,Completed,2025-01-02
+701,1352.0,P6233,Electronics,Smartphone,1323.06,1323.06,3969.18,3,West,Medium,Pending,2025-11-01
+702,1102.0,P7022,Clothing,Jeans,3468.59,3468.59,20811.54,6,South,Medium,Processing,2025-05-25
+703,1332.0,P4747,Sports,Cricket Bat,201.6,201.6,201.6,1,North,Medium,Pending,2025-10-13
+704,1308.0,P2459,Clothing,Jeans,343.94,343.94,3439.4,10,East,High,Completed,2025-08-08
+705,1254.0,P4328,Electronics,Monitor,2232.28,2232.28,17858.24,8,South,Medium,Cancelled,2025-12-11
+706,1111.0,P5636,Groceries,Eggs,737.98,737.98,2951.92,4,South,Medium,Pending,2025-11-04
+707,1317.0,P5068,Groceries,Milk,240.99,240.99,1204.95,5,East,Low,Processing,2025-05-01
+708,1204.0,P7283,Electronics,Laptop,2397.52,2397.52,14385.12,6,West,Low,Cancelled,2025-12-21
+709,1477.0,P6804,Electronics,Laptop,2829.3,2829.3,2829.3,1,North,High,Cancelled,2025-06-20
+710,1190.0,P1673,Sports,Dumbbells,1966.59,1966.59,13766.13,7,South,Medium,Pending,2025-12-10
+711,1046.0,P9690,Sports,Yoga Mat,4658.6,4658.6,37268.8,8,West,High,Cancelled,2025-03-09
+712,1447.0,P5603,Electronics,Tablet,316.39,316.39,949.17,3,East,Medium,Cancelled,2025-09-13
+713,1161.0,P3703,Clothing,Hoodie,4164.99,4164.99,20824.95,5,East,Low,Processing,2025-09-22
+714,1097.0,P4766,Furniture,Wardrobe,4279.86,4279.86,34238.88,8,South,High,Processing,2025-01-28
+715,1459.0,P1668,Clothing,Jeans,3559.22,3559.22,24914.54,7,West,Medium,Processing,2025-03-01
+716,1179.0,P5654,Groceries,Eggs,651.21,651.21,1953.63,3,South,High,,2025-03-05
+717,1393.0,P7822,Sports,Dumbbells,1140.74,1140.74,1140.74,1,North,High,Processing,2025-09-27
+718,1192.0,P2737,Electronics,Tablet,227.21,227.21,454.42,2,East,High,Completed,2025-07-21
+719,1322.0,P1095,Electronics,Headphones,4170.43,4170.43,33363.44,8,East,High,Processing,2025-08-21
+720,1145.0,P1909,Clothing,Hoodie,733.67,733.67,733.67,1,North,Low,Processing,2025-11-26
+721,,P4411,Electronics,Headphones,1350.3,1350.3,5401.2,4,South,Medium,Processing,2025-07-24
+722,1377.0,P6080,Clothing,Jeans,690.95,690.95,5527.6,8,South,Medium,Completed,2025-08-10
+723,1244.0,P7931,Clothing,Hoodie,1079.37,1079.37,8634.96,8,North,Medium,Cancelled,2025-07-18
+724,1021.0,P8594,Sports,Cricket Bat,2227.12,2227.12,15589.84,7,South,Low,Pending,2025-02-17
+725,1149.0,P2297,Groceries,Oil,3184.84,3184.84,28663.56,9,West,Medium,Pending,2025-02-12
+726,1152.0,P2253,Furniture,Sofa,4223.54,4223.54,38011.86,9,North,Low,Completed,2025-08-07
+727,1369.0,P5151,Sports,Yoga Mat,2123.8,2123.8,16990.4,8,East,Medium,Completed,2025-12-05
+728,1403.0,P7438,Sports,Football,658.28,658.28,5266.24,8,North,High,Processing,2025-04-02
+729,1231.0,P5342,Clothing,Jacket,2977.32,2977.32,23818.56,8,East,High,Pending,2025-12-10
+730,1447.0,P8107,Furniture,Chair,3760.44,3760.44,37604.4,10,North,High,Processing,2025-05-13
+731,1355.0,P8974,Electronics,Laptop,941.5,941.5,7532.0,8,East,Low,Cancelled,2025-08-24
+732,1098.0,P1260,Groceries,Bread,529.41,529.41,1588.23,3,South,High,Pending,2025-01-08
+733,1440.0,P4127,Groceries,Milk,3283.73,3283.73,22986.11,7,North,Medium,Processing,2025-11-17
+734,1463.0,P8295,Furniture,Desk,2167.21,2167.21,4334.42,2,West,Medium,Completed,2025-03-27
+735,1425.0,P1834,Groceries,Oil,1288.89,1288.89,6444.45,5,East,High,Completed,2025-10-19
+736,1375.0,P5764,Groceries,Eggs,4258.22,4258.22,42582.2,10,North,Medium,Processing,2025-11-02
+737,1464.0,P8993,Groceries,Oil,2996.09,2996.09,29960.9,10,South,Low,Completed,2025-12-14
+738,1033.0,P7834,Sports,Football,2167.82,2167.82,13006.92,6,West,High,Processing,2025-10-11
+739,1083.0,P4149,Sports,Tennis Racket,2296.79,2296.79,16077.53,7,West,Medium,Processing,2025-01-11
+740,1437.0,P8675,Furniture,Wardrobe,1176.54,1176.54,7059.24,6,South,Medium,Processing,2025-11-05
+741,1107.0,P2412,Groceries,Bread,4000.27,4000.27,12000.81,3,West,High,Pending,2025-11-15
+742,1483.0,P5975,Furniture,Table,3068.17,3068.17,6136.34,2,South,High,Completed,2025-08-01
+743,1082.0,P9248,Electronics,Tablet,4416.44,4416.44,26498.64,6,North,High,Cancelled,2025-12-13
+744,1115.0,P6575,Groceries,Rice,3126.06,3126.06,6252.12,2,East,High,Cancelled,2025-10-15
+745,1026.0,P8173,Furniture,Wardrobe,3061.02,3061.02,6122.04,2,West,High,Completed,2025-12-28
+746,1022.0,P3736,Sports,Dumbbells,3932.57,3932.57,7865.14,2,North,High,Cancelled,2025-10-15
+747,1376.0,P3527,Furniture,Sofa,3570.0,3570.0,32130.0,9,East,Medium,Pending,2025-09-13
+748,1126.0,P8760,Electronics,Smartphone,2251.63,2251.63,15761.41,7,East,Medium,Pending,2025-01-04
+749,1323.0,P3483,Electronics,Tablet,1924.94,1924.94,13474.58,7,West,High,Pending,2025-07-04
+750,1407.0,P1487,Groceries,Eggs,4598.3,4598.3,36786.4,8,West,High,Completed,2025-09-22
+751,1396.0,P2007,Sports,Football,515.41,515.41,3092.46,6,West,High,Pending,2025-07-25
+752,1215.0,P5986,Sports,Football,4890.89,4890.89,44018.01,9,East,Medium,Completed,2025-06-01
+753,1207.0,P4360,Clothing,Hoodie,3090.97,3090.97,9272.91,3,West,Low,Cancelled,2025-12-25
+754,1276.0,P3064,Groceries,Milk,4416.78,4416.78,8833.56,2,East,High,Completed,2025-01-19
+755,,P9846,Sports,Dumbbells,1630.04,1630.04,9780.24,6,East,High,Cancelled,2025-11-22
+756,1133.0,P6807,Groceries,Oil,641.17,641.17,641.17,1,North,High,Completed,2025-07-10
+757,1174.0,P9737,Groceries,Bread,2904.93,2904.93,2904.93,1,South,Medium,Cancelled,2025-08-21
+758,1378.0,P6371,Clothing,Hoodie,3394.93,3394.93,23764.51,7,South,Medium,Processing,2025-09-24
+759,1048.0,P3130,Electronics,Smartphone,3587.04,3587.04,25109.28,7,West,High,Processing,2025-02-11
+760,1287.0,P7468,Electronics,Tablet,3416.43,3416.43,23915.01,7,East,Low,Processing,2025-10-29
+761,1422.0,P9286,Groceries,Eggs,3476.19,3476.19,27809.52,8,South,Medium,Processing,2025-08-02
+762,1109.0,P1534,Furniture,Wardrobe,4330.03,4330.03,8660.06,2,South,Low,Cancelled,2025-12-22
+763,1190.0,P1659,Electronics,Monitor,4276.36,4276.36,8552.72,2,South,High,Cancelled,2025-03-03
+764,1406.0,P7910,Clothing,Jacket,1585.97,1585.97,12687.76,8,North,Medium,Cancelled,2025-01-15
+765,1063.0,P2106,Furniture,Table,4113.71,4113.71,32909.68,8,North,Medium,Processing,2025-01-02
+766,1244.0,P3175,Sports,Tennis Racket,2872.24,2872.24,17233.44,6,South,Low,Processing,2025-07-13
+767,1410.0,P7711,Groceries,Eggs,830.01,830.01,4980.06,6,West,High,Processing,2025-02-15
+768,1331.0,P3713,Clothing,Hoodie,324.52,324.52,2596.16,8,North,Low,Cancelled,2025-05-23
+769,1490.0,P1866,Sports,Football,3255.18,3255.18,6510.36,2,South,Medium,Completed,2025-04-09
+770,1403.0,P8278,Electronics,Monitor,980.74,980.74,980.74,1,North,Low,Cancelled,2025-05-21
+771,1224.0,P1394,Groceries,Oil,320.42,320.42,320.42,1,East,Medium,Cancelled,2025-06-24
+772,1147.0,P5187,Electronics,Laptop,4900.95,4900.95,44108.55,9,North,High,Cancelled,2025-03-28
+773,1014.0,P5882,Groceries,Milk,388.68,388.68,2332.08,6,West,High,Cancelled,2025-04-03
+774,1483.0,P2981,Furniture,Desk,4475.75,4475.75,22378.75,5,North,High,Pending,2025-07-12
+775,1198.0,P5412,Sports,Dumbbells,1258.81,1258.81,11329.29,9,North,Medium,Processing,2025-09-16
+776,1325.0,P1305,Sports,Yoga Mat,420.75,420.75,420.75,1,East,Low,Completed,2025-07-28
+777,1291.0,P2374,Furniture,Wardrobe,3292.6,3292.6,9877.8,3,South,High,Cancelled,2025-06-05
+778,1493.0,P8401,Sports,Cricket Bat,3931.92,3931.92,35387.28,9,North,High,Processing,2025-08-05
+779,1031.0,P8900,Sports,Tennis Racket,3299.99,3299.99,9899.97,3,East,Low,Cancelled,2025-01-01
+780,1431.0,P1745,Groceries,Bread,4227.95,4227.95,16911.8,4,South,Low,Completed,2025-10-27
+781,1372.0,P5578,Clothing,T-Shirt,2036.99,2036.99,4073.98,2,West,High,Cancelled,2025-03-13
+782,1126.0,P6269,Clothing,Jacket,4900.24,4900.24,39201.92,8,East,High,Processing,2025-05-20
+783,,P8807,Sports,Tennis Racket,177.79,177.79,533.37,3,North,High,Pending,2025-11-27
+784,1276.0,P2270,Groceries,Oil,4486.81,4486.81,35894.48,8,North,Low,Processing,2025-07-21
+785,1184.0,P1138,Electronics,Tablet,4862.99,4862.99,34040.93,7,North,Medium,Cancelled,2025-11-04
+786,1349.0,P6862,Furniture,Desk,145.88,145.88,145.88,1,South,High,Cancelled,2025-05-24
+787,1144.0,P4425,Furniture,Table,4902.58,4902.58,29415.48,6,North,High,Processing,2025-01-19
+788,1283.0,P3875,Electronics,Tablet,2888.6,2888.6,23108.8,8,North,Low,Pending,2025-03-29
+789,1452.0,P5494,Electronics,Smartphone,1372.16,1372.16,13721.6,10,South,Low,Completed,2025-04-27
+790,1002.0,P1849,Sports,Dumbbells,1339.31,1339.31,12053.79,9,,Medium,Processing,2025-08-21
+791,1186.0,P1712,Clothing,T-Shirt,3432.85,3432.85,27462.8,8,South,High,Cancelled,2025-09-11
+792,1100.0,P1415,Groceries,Oil,2299.42,2299.42,2299.42,1,South,Low,Processing,2025-07-20
+793,1033.0,P2584,Electronics,Smartphone,1064.7,1064.7,6388.2,6,North,Medium,Processing,2025-06-09
+794,1127.0,P4905,Electronics,Monitor,4006.38,4006.38,24038.28,6,East,High,Cancelled,2025-05-09
+795,1225.0,P8314,Sports,Cricket Bat,4723.38,4723.38,47233.8,10,North,High,Completed,2025-11-14
+796,1032.0,P8240,Electronics,Headphones,1635.07,1635.07,3270.14,2,North,Medium,Processing,2025-03-07
+797,1151.0,P7581,Electronics,Laptop,3420.07,3420.07,30780.63,9,North,Low,Processing,2025-01-27
+798,1233.0,P8014,Furniture,Wardrobe,3958.63,3958.63,39586.3,10,North,Medium,Completed,2025-01-06
+799,,P2106,Groceries,Oil,1708.15,1708.15,6832.6,4,South,Low,Pending,2025-02-25
+800,1228.0,P3255,Sports,Tennis Racket,1841.42,1841.42,14731.36,8,North,High,Pending,2025-11-14
+801,1299.0,P3385,Clothing,Hoodie,2235.66,2235.66,13413.96,6,South,Medium,Cancelled,2025-06-09
+802,1301.0,P3369,Sports,Tennis Racket,1526.21,1526.21,1526.21,1,North,High,Completed,2025-09-23
+803,1466.0,P2120,Groceries,Bread,1057.49,1057.49,4229.96,4,East,High,Processing,2025-11-24
+804,1494.0,P5909,Groceries,Oil,3492.83,3492.83,34928.3,10,West,Medium,Pending,2025-10-17
+805,1113.0,P4654,Electronics,Headphones,4392.92,4392.92,4392.92,1,South,Medium,Pending,2025-09-11
+806,1106.0,P1110,Furniture,Desk,3699.47,3699.47,22196.82,6,East,High,Completed,2025-07-12
+807,1226.0,P6896,Clothing,T-Shirt,2817.99,2817.99,8453.97,3,North,High,Pending,2025-05-29
+808,1174.0,P5029,Furniture,Sofa,953.32,953.32,4766.6,5,South,High,Completed,2025-03-31
+809,1071.0,P2818,Furniture,Sofa,4562.18,4562.18,4562.18,1,East,High,Cancelled,2025-12-13
+810,1088.0,P8106,Groceries,Milk,1911.24,1911.24,11467.44,6,North,High,Pending,2025-12-05
+811,1192.0,P8037,Furniture,Table,1039.24,1039.24,7274.68,7,South,High,Pending,2025-12-22
+812,1028.0,P5588,Sports,Tennis Racket,3968.98,3968.98,23813.88,6,South,Low,Processing,2025-05-07
+813,1086.0,P9342,Furniture,Chair,3944.86,3944.86,39448.6,10,East,Medium,Processing,2025-02-03
+814,1248.0,P9106,Furniture,Sofa,3591.19,3591.19,32320.71,9,West,Medium,Processing,2025-12-22
+815,1442.0,P4581,Sports,Football,1115.28,1115.28,4461.12,4,East,Medium,Processing,2025-08-20
+816,1282.0,P2376,Sports,Cricket Bat,4683.94,4683.94,28103.64,6,East,Medium,Cancelled,2025-05-11
+817,1173.0,P8660,Furniture,Wardrobe,301.6,301.6,2714.4,9,West,Medium,Cancelled,2025-11-15
+818,1227.0,P2243,Groceries,Bread,1437.8,1437.8,1437.8,1,East,High,Cancelled,2025-04-02
+819,1475.0,P2942,Sports,Dumbbells,2778.59,2778.59,5557.18,2,North,Medium,Completed,2025-05-22
+820,1155.0,P5496,Sports,Cricket Bat,1735.41,1735.41,10412.46,6,South,Low,Pending,2025-05-09
+821,1422.0,P7616,Sports,Tennis Racket,141.82,141.82,709.1,5,West,Low,Completed,2025-05-25
+822,1117.0,P4438,Groceries,Oil,4947.45,4947.45,14842.35,3,West,High,Processing,2025-07-23
+823,1220.0,P7843,Groceries,Bread,3980.38,3980.38,23882.28,6,South,Medium,Processing,2025-04-07
+824,1157.0,P1158,Sports,Football,1936.03,1936.03,19360.3,10,West,Low,Cancelled,2025-03-07
+825,1276.0,P1380,Clothing,Jeans,2153.82,2153.82,15076.74,7,North,High,Pending,2025-12-20
+826,1294.0,P7247,Clothing,Hoodie,3186.21,3186.21,31862.1,10,South,Medium,Completed,2025-11-08
+827,1292.0,P5991,Sports,Yoga Mat,1022.86,1022.86,2045.72,2,North,High,Completed,2025-06-18
+828,1014.0,P2138,Sports,Cricket Bat,257.09,257.09,2570.9,10,West,Medium,Pending,2025-09-08
+829,1030.0,P1180,Furniture,Sofa,3331.89,3331.89,6663.78,2,South,Medium,Processing,2025-08-21
+830,1215.0,P2126,Groceries,Milk,4949.02,4949.02,14847.06,3,West,High,Pending,2025-10-02
+831,1310.0,P6084,Furniture,Sofa,2217.78,2217.78,17742.24,8,South,Low,Processing,2025-03-23
+832,1033.0,P5044,Clothing,Jeans,136.47,136.47,409.41,3,,Low,Processing,2025-08-17
+833,1331.0,P8476,Groceries,Eggs,2923.05,2923.05,5846.1,2,East,Low,Cancelled,2025-05-28
+834,1128.0,P8079,Groceries,Oil,4134.81,4134.81,12404.43,3,West,Medium,Pending,2025-08-01
+835,1454.0,P5485,Sports,Football,2028.4,2028.4,2028.4,1,East,Low,Completed,2025-05-03
+836,1189.0,P2723,Furniture,Desk,2115.26,2115.26,19037.34,9,East,Medium,Processing,2025-03-04
+837,1014.0,P8567,Furniture,Sofa,1116.12,1116.12,1116.12,1,West,Medium,Processing,2025-08-25
+838,1364.0,P6359,Furniture,Desk,285.1,285.1,1425.5,5,West,Medium,Processing,2025-02-28
+839,1487.0,P8713,Electronics,Laptop,2787.3,2787.3,11149.2,4,East,High,Pending,2026-01-01
+840,1274.0,P3759,Electronics,Monitor,592.52,592.52,2962.6,5,North,Low,Completed,2025-03-05
+841,1366.0,P9721,Clothing,Jeans,2259.22,2259.22,6777.66,3,South,Medium,Completed,2025-04-21
+842,1027.0,P1797,Sports,Football,2014.03,2014.03,10070.15,5,West,High,Pending,2025-08-16
+843,1015.0,P6523,Clothing,Jeans,1079.93,1079.93,1079.93,1,South,Low,Completed,2025-08-04
+844,1023.0,P2764,Furniture,Chair,4004.93,4004.93,12014.79,3,East,Medium,Pending,2025-03-27
+845,1062.0,P2734,Sports,Cricket Bat,4678.2,4678.2,32747.4,7,East,Medium,Pending,2025-08-08
+846,1109.0,P2081,Electronics,Headphones,3304.56,3304.56,3304.56,1,East,Low,Cancelled,2025-07-19
+847,1393.0,P2668,Electronics,Laptop,4438.75,4438.75,31071.25,7,South,Medium,Completed,2025-06-04
+848,1474.0,P3177,Sports,Tennis Racket,4908.94,4908.94,34362.58,7,East,High,Cancelled,2025-12-14
+849,1230.0,P4808,Groceries,Rice,1742.02,1742.02,17420.2,10,North,High,Completed,2025-10-27
+850,1318.0,P3253,Sports,Football,1613.36,1613.36,11293.52,7,East,Medium,Cancelled,2025-05-05
+851,1473.0,P8270,Furniture,Table,1941.16,1941.16,1941.16,1,East,High,Cancelled,2025-05-02
+852,1417.0,P1388,Clothing,T-Shirt,2652.28,2652.28,18565.96,7,South,Low,Cancelled,2025-11-28
+853,1128.0,P4644,Clothing,Jeans,1108.51,1108.51,1108.51,1,West,Low,Cancelled,2025-12-07
+854,1036.0,P1853,Furniture,Desk,3185.93,3185.93,6371.86,2,South,High,Pending,2025-09-09
+855,1260.0,P8652,Electronics,Smartphone,3003.89,3003.89,12015.56,4,East,High,Pending,2025-05-01
+856,1147.0,P4299,Furniture,Desk,964.53,964.53,3858.12,4,East,Medium,Completed,2025-06-05
+857,1217.0,P8101,Clothing,Shoes,1950.82,1950.82,15606.56,8,South,Medium,Completed,2025-08-14
+858,1276.0,P3878,Groceries,Eggs,4284.81,4284.81,21424.05,5,East,Medium,Processing,2025-11-01
+859,1247.0,P3238,Clothing,Shoes,1487.81,1487.81,13390.29,9,West,High,Pending,2025-11-07
+860,1252.0,P7812,Furniture,Chair,162.89,162.89,1466.01,9,West,Low,Cancelled,2025-07-11
+861,1210.0,P3039,Groceries,Eggs,1608.27,1608.27,16082.7,10,West,Low,Pending,2025-02-06
+862,1364.0,P7032,Furniture,Desk,4789.77,4789.77,28738.62,6,North,Low,Processing,2025-09-18
+863,1324.0,P1462,Groceries,Milk,1287.53,1287.53,1287.53,1,South,Medium,Processing,2025-07-05
+864,1431.0,P2912,Furniture,Sofa,1312.33,1312.33,13123.3,10,North,Low,Processing,2025-12-06
+865,1466.0,P7929,Groceries,Oil,4873.31,4873.31,9746.62,2,South,Medium,Cancelled,2025-09-23
+866,1158.0,P2456,Clothing,Hoodie,4841.65,4841.65,33891.55,7,North,Low,Cancelled,2025-10-28
+867,,P3759,Furniture,Sofa,3768.78,3768.78,26381.46,7,West,High,Completed,2025-12-24
+868,1088.0,P4053,Electronics,Headphones,2672.31,2672.31,13361.55,5,South,High,Processing,2025-08-09
+869,1417.0,P4292,Furniture,Wardrobe,4747.57,4747.57,37980.56,8,North,Low,Pending,2025-10-18
+870,1321.0,P2789,Furniture,Sofa,4916.44,4916.44,34415.08,7,South,High,Cancelled,2025-08-14
+871,1016.0,P8829,Electronics,Headphones,710.94,710.94,1421.88,2,West,Low,Completed,2025-06-25
+872,1299.0,P1685,Electronics,Laptop,1403.8,1403.8,1403.8,1,North,High,Completed,2025-12-07
+873,1243.0,P8036,Groceries,Oil,2648.36,2648.36,13241.8,5,East,Medium,Cancelled,2025-09-06
+874,1313.0,P6833,Clothing,Jeans,4710.86,4710.86,32976.02,7,East,High,Completed,2025-07-13
+875,1309.0,P9693,Groceries,Eggs,3653.58,3653.58,10960.74,3,East,Low,Pending,2025-01-14
+876,1212.0,P1051,Clothing,Shoes,3129.92,3129.92,25039.36,8,East,High,Cancelled,2025-09-21
+877,1249.0,P2333,Electronics,Tablet,3421.85,3421.85,13687.4,4,East,Medium,Processing,2025-11-07
+878,1074.0,P9267,Electronics,Headphones,1539.93,1539.93,6159.72,4,North,High,Processing,2025-12-31
+879,1087.0,P2895,Electronics,Tablet,4178.54,4178.54,37606.86,9,West,Low,Pending,2025-08-28
+880,1223.0,P1478,Furniture,Table,935.12,935.12,1870.24,2,South,Medium,Processing,2025-02-24
+881,1064.0,P9757,Clothing,Jeans,3623.96,3623.96,28991.68,8,West,High,Cancelled,2025-12-10
+882,1330.0,P7252,Furniture,Wardrobe,3855.05,3855.05,38550.5,10,West,High,Pending,2025-02-03
+883,1175.0,P4082,Clothing,T-Shirt,1525.78,1525.78,3051.56,2,North,Low,Cancelled,2025-02-15
+884,1160.0,P9775,Furniture,Sofa,4774.94,4774.94,47749.4,10,South,Medium,Processing,2025-01-01
+885,1340.0,P4639,Clothing,Jacket,4007.84,4007.84,12023.52,3,North,Medium,Completed,2025-09-24
+886,1256.0,P3415,Sports,Yoga Mat,1648.04,1648.04,8240.2,5,East,High,Completed,2025-04-23
+887,1435.0,P8836,Sports,Tennis Racket,1613.57,1613.57,3227.14,2,South,Medium,Cancelled,2025-05-21
+888,1424.0,P4687,Groceries,Rice,4907.6,4907.6,29445.6,6,North,High,Processing,2025-03-20
+889,1281.0,P7921,Groceries,Bread,4923.51,4923.51,14770.53,3,West,Medium,Processing,2025-01-12
+890,1357.0,P9978,Groceries,Rice,2686.44,2686.44,13432.2,5,West,High,Pending,2025-05-25
+891,1156.0,P3681,Clothing,Hoodie,4342.69,4342.69,4342.69,1,South,Medium,Processing,2025-12-30
+892,1005.0,P2670,Clothing,Jeans,1127.86,1127.86,4511.44,4,South,Medium,Processing,2025-11-30
+893,1484.0,P9444,Furniture,Chair,570.63,570.63,4565.04,8,East,Low,Processing,2025-04-02
+894,1204.0,P3826,Furniture,Desk,1300.5,1300.5,2601.0,2,West,Low,Completed,2025-05-04
+895,1006.0,P2353,Groceries,Eggs,1448.56,1448.56,11588.48,8,North,Medium,Pending,2025-07-08
+896,1141.0,P2549,Electronics,Monitor,2907.61,2907.61,29076.1,10,South,Medium,Processing,2025-09-03
+897,1033.0,P9806,Groceries,Bread,2899.97,2899.97,5799.94,2,South,Medium,Completed,2025-06-16
+898,1033.0,P9830,Groceries,Oil,4105.57,4105.57,36950.13,9,North,High,Completed,2025-09-08
+899,1229.0,P3015,Furniture,Wardrobe,3506.56,3506.56,3506.56,1,North,High,Pending,2025-10-12
+900,1064.0,P6956,Furniture,Chair,2856.23,2856.23,2856.23,1,South,Medium,Completed,2025-02-13
+901,1338.0,P3291,Furniture,Sofa,326.21,326.21,2935.89,9,West,Low,Cancelled,2025-05-31
+902,1353.0,P1732,Sports,Tennis Racket,3070.24,3070.24,27632.16,9,South,High,Pending,2025-04-18
+903,1309.0,P6882,Furniture,Sofa,4294.82,4294.82,17179.28,4,East,High,Processing,2025-03-10
+904,1463.0,P8472,Electronics,Monitor,1349.34,1349.34,9445.38,7,North,Medium,Processing,2025-11-29
+905,1357.0,P7097,Furniture,Wardrobe,1098.44,1098.44,5492.2,5,South,Medium,Pending,2025-11-21
+906,1040.0,P9707,Clothing,Shoes,1956.82,1956.82,19568.2,10,North,Low,Processing,2025-05-07
+907,1399.0,P4698,Electronics,Tablet,3236.87,3236.87,19421.22,6,East,High,Completed,2025-06-20
+908,1090.0,P6022,Groceries,Milk,1955.3,1955.3,3910.6,2,West,High,Cancelled,2025-03-05
+909,1460.0,P6210,Sports,Tennis Racket,2802.56,2802.56,28025.6,10,West,High,Cancelled,2025-02-20
+910,1304.0,P1155,Sports,Dumbbells,3013.62,3013.62,21095.34,7,South,Low,Pending,2025-09-02
+911,1471.0,P7064,Furniture,Desk,2881.05,2881.05,14405.25,5,South,Low,Processing,2025-01-28
+912,1258.0,P8008,Groceries,Milk,2250.9,2250.9,13505.4,6,South,Medium,Completed,2025-08-28
+913,1041.0,P4932,Clothing,Shoes,3875.83,3875.83,7751.66,2,North,High,Completed,2025-11-21
+914,1493.0,P9334,Electronics,Tablet,2815.38,2815.38,22523.04,8,South,Medium,Processing,2025-01-06
+915,1316.0,P1119,Sports,Dumbbells,3519.62,3519.62,24637.34,7,West,Low,Cancelled,2025-01-08
+916,1230.0,P9577,Furniture,Wardrobe,3451.98,3451.98,3451.98,1,South,High,Completed,2025-11-07
+917,1254.0,P7115,Clothing,Jeans,2617.05,2617.05,2617.05,1,North,Medium,Pending,2025-08-05
+918,1136.0,P7449,Sports,Football,1521.32,1521.32,12170.56,8,South,Medium,Completed,2025-05-31
+919,1004.0,P6382,Groceries,Oil,4256.92,4256.92,4256.92,1,East,Medium,Completed,2025-07-02
+920,,P8058,Electronics,Tablet,4461.96,4461.96,13385.88,3,West,High,Completed,2025-07-25
+921,1468.0,P3549,Sports,Dumbbells,4502.7,4502.7,31518.9,7,East,High,Processing,2025-03-05
+922,1275.0,P2780,Groceries,Bread,1566.5,1566.5,10965.5,7,West,Low,Processing,2025-04-04
+923,1184.0,P4251,Furniture,Table,1833.32,1833.32,12833.24,7,North,High,Cancelled,2025-01-03
+924,1083.0,P8852,Electronics,Smartphone,2033.28,2033.28,12199.68,6,East,High,Processing,2025-01-17
+925,1385.0,P7551,Groceries,Oil,2528.28,2528.28,7584.84,3,West,High,Completed,2025-06-16
+926,1007.0,P4874,Electronics,Laptop,718.01,718.01,4308.06,6,North,Low,Cancelled,2025-09-14
+927,1149.0,P2353,Groceries,Oil,3713.41,3713.41,25993.87,7,West,High,Pending,2025-09-03
+928,1359.0,P8031,Sports,Cricket Bat,1322.39,1322.39,2644.78,2,South,Medium,Completed,2025-05-15
+929,1325.0,P2973,Sports,Dumbbells,987.82,987.82,9878.2,10,South,Medium,Completed,2025-11-19
+930,1316.0,P1834,Clothing,Jeans,4652.58,4652.58,32568.06,7,West,Medium,Cancelled,2025-01-10
+931,1262.0,P1846,Furniture,Table,1747.27,1747.27,13978.16,8,East,High,Cancelled,2025-02-01
+932,1164.0,P3977,Clothing,Jacket,4720.69,4720.69,33044.83,7,North,High,Completed,2025-05-07
+933,1052.0,P5133,Clothing,Jeans,1498.05,1498.05,7490.25,5,West,Medium,Cancelled,2025-11-07
+934,1283.0,P3134,Clothing,T-Shirt,574.75,574.75,574.75,1,East,Medium,Cancelled,2025-12-16
+935,1142.0,P7292,Sports,Dumbbells,3063.1,3063.1,12252.4,4,North,High,Pending,2025-11-29
+936,1361.0,P2616,Sports,Football,301.09,301.09,1204.36,4,North,Low,Cancelled,2025-04-09
+937,1370.0,P3094,Clothing,Shoes,4949.26,4949.26,19797.04,4,South,Medium,Cancelled,2025-10-01
+938,1368.0,P8145,Sports,Tennis Racket,4485.07,4485.07,35880.56,8,North,Medium,Processing,2025-11-19
+939,1141.0,P3112,Sports,Dumbbells,3975.34,3975.34,11926.02,3,East,High,Completed,2025-11-03
+940,1498.0,P8172,Furniture,Desk,2525.63,2525.63,22730.67,9,West,Low,Processing,2025-09-20
+941,1082.0,P1145,Groceries,Oil,1430.32,1430.32,4290.96,3,West,Low,Cancelled,2025-01-02
+942,1061.0,P1747,Clothing,Jeans,1552.18,1552.18,7760.9,5,South,Medium,Completed,2025-10-10
+943,1329.0,P4440,Furniture,Sofa,4643.51,4643.51,23217.55,5,North,High,Cancelled,2025-01-27
+944,1370.0,P5831,Sports,Tennis Racket,1690.35,1690.35,15213.15,9,East,High,Completed,2025-05-16
+945,1132.0,P9804,Clothing,Jeans,3679.34,3679.34,18396.7,5,North,Low,,2025-04-01
+946,1167.0,P7479,Clothing,Hoodie,2799.3,2799.3,22394.4,8,South,Medium,Pending,2025-04-23
+947,1254.0,P4031,Groceries,Bread,826.84,826.84,6614.72,8,South,High,Processing,2025-02-17
+948,1419.0,P4077,Furniture,Sofa,203.13,203.13,609.39,3,North,High,Completed,2025-04-01
+949,1371.0,P1193,Groceries,Milk,2329.62,2329.62,16307.34,7,North,Medium,Processing,2025-02-21
+950,1128.0,P5385,Electronics,Laptop,4150.16,4150.16,4150.16,1,South,Low,Completed,2025-03-09
+951,1044.0,P8871,Electronics,Laptop,2757.61,2757.61,16545.66,6,West,High,Cancelled,2025-12-29
+952,1355.0,P9906,Clothing,Shoes,857.12,857.12,857.12,1,North,High,Completed,2025-10-06
+953,,P4675,Electronics,Monitor,1554.02,1554.02,13986.18,9,North,High,Processing,2025-08-01
+954,1472.0,P7303,Groceries,Milk,1831.22,1831.22,9156.1,5,North,Medium,Pending,2025-04-26
+955,1040.0,P2939,Electronics,Smartphone,598.51,598.51,2992.55,5,East,High,Completed,2025-07-02
+956,1308.0,P7967,Sports,Cricket Bat,972.53,972.53,8752.77,9,South,Low,Cancelled,2025-06-21
+957,1470.0,P7047,Sports,Tennis Racket,1807.09,1807.09,3614.18,2,East,Low,Completed,2025-05-19
+958,1076.0,P8838,Electronics,Smartphone,3911.14,3911.14,11733.42,3,North,High,Processing,2025-06-13
+959,1393.0,P6231,Clothing,Jeans,543.19,543.19,1629.57,3,West,Medium,Processing,2025-04-04
+960,1411.0,P5028,Groceries,Oil,3988.16,3988.16,23928.96,6,West,Medium,Processing,2025-03-12
+961,1197.0,P7911,Sports,Dumbbells,2513.75,2513.75,22623.75,9,South,Low,Completed,2025-04-28
+962,1286.0,P3188,Furniture,Sofa,114.04,114.04,114.04,1,North,High,Cancelled,2025-07-05
+963,1498.0,P7898,Clothing,Jeans,1544.02,1544.02,4632.06,3,South,High,Pending,2025-10-10
+964,,P7958,Electronics,Smartphone,674.46,674.46,2023.38,3,East,High,Completed,2025-07-13
+965,1016.0,P3314,Sports,Football,2436.45,2436.45,24364.5,10,North,High,Completed,2025-03-22
+966,1392.0,P3295,Electronics,Monitor,4172.23,4172.23,29205.61,7,East,Medium,Processing,2025-03-18
+967,1057.0,P1526,Clothing,Shoes,3928.84,3928.84,3928.84,1,South,Low,Pending,2025-05-27
+968,1365.0,P9222,Electronics,Headphones,4180.13,4180.13,33441.04,8,East,Low,Pending,2025-10-11
+969,1194.0,P3050,Groceries,Milk,1431.96,1431.96,2863.92,2,South,Medium,Completed,2025-09-25
+970,1431.0,P8674,Furniture,Desk,1000.1,1000.1,9000.9,9,West,Medium,Processing,2025-11-06
+971,1218.0,P2776,Groceries,Milk,367.89,367.89,2207.34,6,North,High,Cancelled,2025-11-28
+972,1278.0,P4471,Sports,Tennis Racket,237.44,237.44,1187.2,5,North,Medium,Pending,2025-03-25
+973,1138.0,P1735,Sports,Cricket Bat,3228.11,3228.11,3228.11,1,West,High,Completed,2025-05-04
+974,1385.0,P7523,Clothing,T-Shirt,4723.19,4723.19,4723.19,1,South,Medium,Processing,2025-07-02
+975,1209.0,P9250,Clothing,Jeans,3543.02,3543.02,7086.04,2,North,Low,Pending,2025-06-19
+976,1445.0,P5753,Electronics,Monitor,4000.74,4000.74,32005.92,8,South,High,Processing,2025-10-28
+977,1414.0,P3307,Electronics,Laptop,4768.81,4768.81,19075.24,4,,Low,Cancelled,2025-04-21
+978,1439.0,P1655,Groceries,Milk,1761.2,1761.2,10567.2,6,West,High,Pending,2025-11-16
+979,1322.0,P2595,Sports,Dumbbells,467.49,467.49,1402.47,3,North,High,Cancelled,2025-10-18
+980,1087.0,P3645,Sports,Football,2544.67,2544.67,20357.36,8,North,Medium,Cancelled,2025-06-10
+981,1243.0,P8242,Clothing,T-Shirt,448.56,448.56,3588.48,8,South,High,Processing,2025-05-13
+982,1439.0,P3113,Electronics,Tablet,4309.12,4309.12,30163.84,7,West,Medium,Cancelled,2025-07-29
+983,1135.0,P1699,Clothing,T-Shirt,3442.78,3442.78,30985.02,9,North,Low,Pending,2025-08-19
+984,1193.0,P7541,Sports,Football,857.35,857.35,1714.7,2,North,High,Processing,2025-05-29
+985,1274.0,P8616,Groceries,Rice,1809.8,1809.8,14478.4,8,North,High,Pending,2025-11-25
+986,1169.0,P6610,Electronics,Headphones,3864.26,3864.26,15457.04,4,West,High,Processing,2025-07-25
+987,1486.0,P4497,Electronics,Tablet,2327.44,2327.44,20946.96,9,East,Low,Completed,2025-03-21
+988,1243.0,P4465,Sports,Yoga Mat,405.76,405.76,2434.56,6,,Low,Processing,2025-08-09
+989,1036.0,P2338,Clothing,Jacket,3214.87,3214.87,6429.74,2,East,Low,Processing,2025-03-14
+990,1426.0,P8021,Groceries,Oil,1149.11,1149.11,5745.55,5,East,Medium,Pending,2025-04-05
+991,1275.0,P3632,Furniture,Sofa,4715.51,4715.51,37724.08,8,West,Medium,Processing,2025-09-01
+992,1040.0,P3369,Electronics,Monitor,3937.05,3937.05,39370.5,10,East,Low,Cancelled,2025-04-12
+993,1443.0,P7658,Electronics,Smartphone,4492.86,4492.86,13478.58,3,East,Low,Completed,2025-09-13
+994,1019.0,P4074,Groceries,Milk,3208.04,3208.04,32080.4,10,West,Low,Pending,2025-02-19
+995,1498.0,P1235,Sports,Yoga Mat,1159.07,1159.07,4636.28,4,East,Medium,Completed,2025-04-08
+996,1256.0,P8471,Clothing,Jacket,2560.22,2560.22,5120.44,2,West,Medium,Cancelled,2025-12-25
+997,1475.0,P8018,Clothing,Hoodie,2186.66,2186.66,13119.96,6,East,High,Pending,2025-02-28
+998,1146.0,P2625,Sports,Yoga Mat,1969.66,1969.66,13787.62,7,North,High,Completed,2025-11-21
+999,1384.0,P9924,Electronics,Monitor,4669.23,4669.23,9338.46,2,North,Low,Processing,2025-09-12
+1000,1109.0,P8448,Sports,Dumbbells,4048.77,4048.77,20243.85,5,West,High,Pending,2025-08-04
+1001,1465.0,P7484,Groceries,Rice,1818.01,1818.01,14544.08,8,North,Medium,Pending,2025-07-31
+1002,1430.0,P7794,Sports,Tennis Racket,1411.28,1411.28,7056.4,5,South,High,Processing,2025-06-07
+1003,1420.0,P6201,Electronics,Laptop,228.61,228.61,1371.66,6,East,High,Processing,2025-09-23
+1004,1330.0,P1845,Furniture,Wardrobe,4870.1,4870.1,19480.4,4,West,High,Processing,2025-11-12
+1005,1224.0,P3069,Furniture,Desk,4530.44,4530.44,40773.96,9,North,Low,Processing,2025-03-23
+1006,1048.0,P8166,Clothing,Hoodie,879.36,879.36,5276.16,6,North,Low,Pending,2025-04-15
+1007,,P3138,Electronics,Monitor,3567.12,3567.12,7134.24,2,West,Low,Cancelled,2025-10-20
+1008,1100.0,P5018,Furniture,Table,3297.36,3297.36,13189.44,4,West,Medium,Completed,2025-06-02
+1009,1297.0,P2817,Clothing,T-Shirt,4681.38,4681.38,4681.38,1,West,Low,Completed,2025-11-23
+1010,1040.0,P6921,Electronics,Smartphone,1484.07,1484.07,4452.21,3,,Medium,Completed,2025-02-17
+1011,1040.0,P7879,Groceries,Rice,2127.35,2127.35,17018.8,8,West,Medium,Processing,2025-11-17
+1012,1291.0,P1515,Furniture,Table,1563.9,1563.9,4691.7,3,North,Medium,Cancelled,2025-12-04
+1013,1268.0,P2992,Groceries,Oil,3039.97,3039.97,3039.97,1,South,Low,Completed,2025-03-23
+1014,1444.0,P4554,Sports,Football,2638.18,2638.18,7914.54,3,North,Medium,Pending,2025-04-21
+1015,1141.0,P2506,Furniture,Chair,3665.95,3665.95,10997.85,3,East,Low,Cancelled,2025-05-18
+1016,1129.0,P5605,Groceries,Eggs,2236.7,2236.7,15656.9,7,West,High,Cancelled,2025-04-09
+1017,1453.0,P5451,Furniture,Table,4773.43,4773.43,38187.44,8,East,Low,Completed,2025-08-10
+1018,1192.0,P2052,Sports,Yoga Mat,2203.63,2203.63,22036.3,10,West,High,Completed,2025-06-30
+1019,1424.0,P9691,Sports,Tennis Racket,2975.66,2975.66,14878.3,5,East,Medium,Completed,2025-11-06
+1020,1184.0,P4525,Electronics,Smartphone,4064.3,4064.3,28450.1,7,East,Medium,Pending,2025-04-06
+1021,1110.0,P6268,Clothing,T-Shirt,147.2,147.2,147.2,1,South,Low,Completed,2025-06-18
+1022,1053.0,P2225,Groceries,Bread,3048.83,3048.83,27439.47,9,West,Low,Processing,2025-04-22
+1023,1256.0,P5496,Clothing,Jacket,1070.94,1070.94,1070.94,1,West,High,Completed,2025-09-10
+1024,1122.0,P5670,Groceries,Milk,3047.01,3047.01,30470.1,10,North,Low,Completed,2025-07-16
+1025,1459.0,P9642,Groceries,Bread,742.18,742.18,5195.26,7,North,Medium,Completed,2025-01-19
+1026,1141.0,P6665,Electronics,Headphones,566.09,566.09,3962.63,7,West,High,Cancelled,2025-06-04
+1027,1233.0,P2989,Groceries,Oil,330.66,330.66,1653.3,5,East,Low,Completed,2025-12-23
+1028,1054.0,P8138,Electronics,Smartphone,334.39,334.39,334.39,1,South,High,Completed,2025-03-13
+1029,1479.0,P1860,Furniture,Sofa,4099.12,4099.12,36892.08,9,East,High,Completed,2025-01-03
+1030,1314.0,P7218,Electronics,Tablet,467.71,467.71,2806.26,6,East,Low,Pending,2025-12-19
+1031,1442.0,P7771,Furniture,Wardrobe,2357.4,2357.4,7072.2,3,West,Low,Completed,2025-06-13
+1032,1251.0,P6274,Sports,Dumbbells,1278.56,1278.56,10228.48,8,West,High,Completed,2025-12-05
+1033,1428.0,P4373,Clothing,Jacket,3585.77,3585.77,21514.62,6,North,High,Processing,2025-10-13
+1034,1420.0,P8989,Electronics,Smartphone,164.33,164.33,657.32,4,North,Medium,Pending,2025-08-28
+1035,1363.0,P3523,Sports,Dumbbells,2618.24,2618.24,15709.44,6,North,High,Pending,2025-06-09
+1036,1104.0,P4079,,Shoes,4877.82,4877.82,48778.2,10,North,Medium,Processing,2025-09-20
+1037,1053.0,P2755,Furniture,Sofa,4762.32,4762.32,47623.2,10,North,High,Completed,2025-11-28
+1038,1272.0,P5351,Groceries,Milk,1407.11,1407.11,11256.88,8,North,Low,Completed,2025-12-05
+1039,1221.0,P1870,Clothing,Shoes,1139.12,1139.12,7973.84,7,West,Medium,Cancelled,2025-09-15
+1040,1151.0,P3894,Electronics,Laptop,3278.25,3278.25,22947.75,7,East,Low,Processing,2025-04-10
+1041,1128.0,P4597,Sports,Yoga Mat,635.0,635.0,635.0,1,North,High,,2025-11-27
+1042,1142.0,P7628,Sports,Tennis Racket,1269.96,1269.96,11429.64,9,West,Medium,Completed,2025-02-21
+1043,1178.0,P5718,Furniture,Sofa,2526.34,2526.34,7579.02,3,North,High,Pending,2025-04-15
+1044,1123.0,P2137,Sports,Dumbbells,2436.12,2436.12,12180.6,5,South,High,Cancelled,2025-12-19
+1045,,P5322,Groceries,Milk,4814.99,4814.99,38519.92,8,North,High,Completed,2025-08-08
+1046,1251.0,P8742,Sports,Tennis Racket,4850.75,4850.75,48507.5,10,North,High,Completed,2025-01-01
+1047,1086.0,P2538,Sports,Tennis Racket,4193.26,4193.26,37739.34,9,North,Medium,Cancelled,2025-09-15
+1048,1340.0,P6968,Groceries,Eggs,3700.59,3700.59,33305.31,9,West,High,Cancelled,2025-05-12
+1049,1058.0,P9508,Clothing,Jacket,4467.72,4467.72,44677.2,10,North,High,Processing,2025-09-05
+1050,1296.0,P8056,Furniture,Table,1850.25,1850.25,1850.25,1,East,High,Completed,2025-05-06
+1051,1348.0,P8360,Furniture,Desk,3229.8,3229.8,16149.0,5,South,Medium,Cancelled,2025-11-17
+1052,1098.0,P9520,Clothing,Shoes,2986.82,2986.82,14934.1,5,East,Low,Completed,2025-06-08
+1053,1057.0,P9174,Groceries,Eggs,2876.65,2876.65,17259.9,6,South,Medium,Pending,2025-05-28
+1054,1250.0,P5828,Sports,Tennis Racket,3156.6,3156.6,9469.8,3,North,Medium,Completed,2025-06-05
+1055,1251.0,P8050,Furniture,Sofa,4144.81,4144.81,8289.62,2,East,Low,Completed,2025-01-28
+1056,1341.0,P3540,Electronics,Tablet,774.82,774.82,3874.1,5,North,Low,Cancelled,2025-09-15
+1057,1113.0,P6810,Furniture,Table,2217.05,2217.05,4434.1,2,South,Low,Processing,2025-05-29
+1058,1472.0,P6091,Groceries,Eggs,4837.84,4837.84,9675.68,2,South,Low,Processing,2025-05-14
+1059,1070.0,P4268,Clothing,Hoodie,781.96,781.96,3127.84,4,East,Medium,Completed,2025-05-09
+1060,1094.0,P8158,Clothing,Hoodie,4642.88,4642.88,37143.04,8,North,High,Processing,2025-10-07
+1061,1182.0,P7889,Clothing,Hoodie,4680.91,4680.91,28085.46,6,West,Medium,Completed,2025-08-28
+1062,1387.0,P5954,Sports,Football,4791.71,4791.71,33541.97,7,South,Low,Cancelled,2025-02-15
+1063,1028.0,P7433,Furniture,Wardrobe,2762.02,2762.02,27620.2,10,South,Medium,Completed,2025-05-31
+1064,1029.0,P2753,Groceries,Oil,2355.08,2355.08,2355.08,1,East,Low,Completed,2025-02-13
+1065,1063.0,P9369,Clothing,Hoodie,2459.19,2459.19,14755.14,6,North,Low,Pending,2025-02-01
+1066,1115.0,P3535,Sports,Cricket Bat,2854.04,2854.04,22832.32,8,East,Low,Cancelled,2025-03-11
+1067,,P2983,Electronics,Headphones,3155.95,3155.95,12623.8,4,North,High,Pending,2025-02-28
+1068,1201.0,P2995,Electronics,Headphones,220.82,220.82,1987.38,9,East,Medium,Processing,2025-08-16
+1069,1421.0,P8194,Furniture,Table,4224.43,4224.43,38019.87,9,North,Medium,Pending,2025-05-14
+1070,1262.0,P9956,Electronics,Smartphone,794.26,794.26,3177.04,4,South,Medium,Processing,2025-03-29
+1071,1189.0,P7409,Clothing,Jacket,3370.92,3370.92,33709.2,10,West,Low,Completed,2025-09-10
+1072,1146.0,P7380,Groceries,Eggs,4086.12,4086.12,12258.36,3,North,Low,Cancelled,2025-01-15
+1073,1240.0,P8509,Electronics,Monitor,2277.95,2277.95,13667.7,6,East,High,Pending,2025-03-13
+1074,1179.0,P9602,Clothing,Hoodie,4293.61,4293.61,38642.49,9,West,Low,Completed,2025-04-18
+1075,1236.0,P3294,Furniture,Table,1824.15,1824.15,18241.5,10,East,Low,Cancelled,2025-06-23
+1076,1493.0,P3955,Groceries,Rice,4589.18,4589.18,36713.44,8,East,High,Cancelled,2025-07-12
+1077,1035.0,P3607,Sports,Dumbbells,1805.67,1805.67,18056.7,10,South,High,Completed,2025-07-26
+1078,1054.0,P3850,Groceries,Eggs,1685.93,1685.93,6743.72,4,West,Medium,Completed,2025-05-02
+1079,1227.0,P1482,Electronics,Monitor,1327.37,1327.37,1327.37,1,South,Medium,Completed,2025-02-07
+1080,1103.0,P9046,Groceries,Eggs,752.76,752.76,7527.6,10,West,Low,Cancelled,2025-10-12
+1081,1415.0,P2409,Furniture,Table,3736.55,3736.55,26155.85,7,North,Low,Completed,2025-09-28
+1082,1397.0,P9955,Furniture,Chair,4069.04,4069.04,4069.04,1,North,Medium,Pending,2025-07-04
+1083,1424.0,P6768,Sports,Yoga Mat,1031.67,1031.67,4126.68,4,East,Low,,2025-10-20
+1084,1292.0,P9474,Electronics,Headphones,2194.81,2194.81,15363.67,7,East,High,Completed,2025-02-06
+1085,1012.0,P5749,Groceries,Milk,352.25,352.25,3170.25,9,East,Medium,Cancelled,2025-06-19
+1086,1295.0,P9482,Electronics,Smartphone,4843.76,4843.76,9687.52,2,East,Medium,Completed,2025-10-01
+1087,1016.0,P7904,Sports,Football,2955.59,2955.59,14777.95,5,East,High,Cancelled,2025-12-01
+1088,1468.0,P4860,Electronics,Smartphone,1100.74,1100.74,6604.44,6,West,High,Completed,2025-12-06
+1089,1476.0,P8844,Clothing,T-Shirt,4754.55,4754.55,47545.5,10,South,Medium,Completed,2025-11-10
+1090,1180.0,P5971,Electronics,Laptop,2533.32,2533.32,10133.28,4,South,High,Completed,2025-11-29
+1091,1351.0,P8899,Electronics,Smartphone,2717.51,2717.51,19022.57,7,North,Medium,Processing,2025-12-16
+1092,1060.0,P7024,Furniture,Desk,3536.56,3536.56,31829.04,9,East,High,Cancelled,2025-03-12
+1093,1006.0,P9785,Groceries,Rice,1267.03,1267.03,2534.06,2,North,High,Pending,2025-10-29
+1094,1145.0,P6728,Electronics,Laptop,377.61,377.61,3020.88,8,South,Medium,Pending,2025-04-03
+1095,1040.0,P9907,Sports,Yoga Mat,2445.64,2445.64,4891.28,2,South,Medium,Cancelled,2025-12-03
+1096,1150.0,P5001,Furniture,Desk,3594.36,3594.36,21566.16,6,East,Medium,Completed,2025-10-10
+1097,1144.0,P3246,Electronics,Tablet,4512.08,4512.08,45120.8,10,South,Medium,Pending,2025-09-06
+1098,1121.0,P8434,Electronics,Tablet,3652.06,3652.06,10956.18,3,North,High,Processing,2025-01-19
+1099,1424.0,P1978,Electronics,Tablet,1462.04,1462.04,10234.28,7,East,Low,Processing,2025-06-03
+1100,1023.0,P7214,Groceries,Rice,4327.59,4327.59,30293.13,7,South,Low,Processing,2025-08-16
+1101,1391.0,P1425,Sports,Football,3335.97,3335.97,3335.97,1,East,Medium,Pending,2025-10-05
+1102,1444.0,P1935,Electronics,Tablet,3656.35,3656.35,36563.5,10,North,Low,Processing,2025-08-11
+1103,1394.0,P3663,Clothing,Hoodie,2371.16,2371.16,23711.6,10,West,Medium,Pending,2025-10-18
+1104,1128.0,P5846,Furniture,Chair,1475.43,1475.43,7377.15,5,East,Low,Processing,2025-02-13
+1105,1129.0,P1202,Electronics,Monitor,1443.92,1443.92,7219.6,5,North,Medium,Cancelled,2025-12-04
+1106,1005.0,P6877,Clothing,Jeans,2274.66,2274.66,2274.66,1,West,Low,Pending,2025-08-14
+1107,1460.0,P6145,Groceries,Rice,2939.89,2939.89,5879.78,2,North,Medium,Pending,2025-05-22
+1108,1117.0,P3406,,Jacket,1371.75,1371.75,10974.0,8,North,High,Completed,2025-03-07
+1109,1163.0,P4734,Electronics,Smartphone,3453.76,3453.76,27630.08,8,North,Low,Cancelled,2025-10-24
+1110,1368.0,P4845,Clothing,T-Shirt,3424.1,3424.1,20544.6,6,East,High,Completed,2025-10-04
+1111,1105.0,P7084,Sports,Yoga Mat,654.59,654.59,1309.18,2,West,High,Processing,2025-05-02
+1112,1172.0,P7139,Clothing,Jeans,221.0,221.0,2210.0,10,West,Medium,Completed,2025-07-04
+1113,1014.0,P4464,Furniture,Sofa,318.59,318.59,955.77,3,East,Low,Cancelled,2025-10-30
+1114,1372.0,P2285,Furniture,Desk,4170.56,4170.56,4170.56,1,North,High,Processing,2025-12-03
+1115,1311.0,P9592,Sports,Football,4253.22,4253.22,38278.98,9,West,Medium,Cancelled,2025-01-27
+1116,1125.0,P6930,Furniture,Wardrobe,1536.02,1536.02,6144.08,4,South,Medium,Cancelled,2025-06-18
+1117,1041.0,P9284,Electronics,Smartphone,2280.54,2280.54,15963.78,7,North,Medium,Processing,2025-07-05
+1118,1292.0,P3052,Sports,Cricket Bat,2299.94,2299.94,16099.58,7,South,Medium,Pending,2025-04-28
+1119,1061.0,P7898,Sports,Tennis Racket,3999.69,3999.69,23998.14,6,South,Low,Processing,2025-06-10
+1120,1062.0,P8698,Furniture,Table,4394.39,4394.39,4394.39,1,North,High,Completed,2025-03-27
+1121,1264.0,P7358,Groceries,Rice,3481.23,3481.23,6962.46,2,West,Medium,Pending,2025-03-09
+1122,1173.0,P6515,Groceries,Oil,1283.03,1283.03,6415.15,5,North,Low,Completed,2025-03-02
+1123,1231.0,P8138,Electronics,Tablet,4754.6,4754.6,33282.2,7,East,Medium,Pending,2025-11-19
+1124,1078.0,P7060,Furniture,Wardrobe,4590.08,4590.08,41310.72,9,West,Medium,Cancelled,2025-02-12
+1125,1484.0,P4805,Groceries,Milk,2592.47,2592.47,25924.7,10,East,Medium,Cancelled,2025-05-24
+1126,1261.0,P7990,Electronics,Monitor,2636.62,2636.62,23729.58,9,East,Medium,Processing,2025-10-24
+1127,1221.0,P6150,Clothing,Jeans,4772.22,4772.22,4772.22,1,North,Medium,Cancelled,2025-04-18
+1128,1115.0,P5726,Furniture,Chair,1510.43,1510.43,12083.44,8,East,Low,Completed,2025-08-13
+1129,1430.0,P3766,Furniture,Sofa,790.92,790.92,3163.68,4,North,Low,Completed,2025-10-10
+1130,1427.0,P7054,Sports,Dumbbells,4015.06,4015.06,4015.06,1,South,Medium,Processing,2025-09-08
+1131,1471.0,P2965,Groceries,Oil,718.28,718.28,5746.24,8,West,Medium,Processing,2025-06-01
+1132,1060.0,P2295,Clothing,T-Shirt,4336.06,4336.06,21680.3,5,South,Low,Completed,2025-12-09
+1133,1323.0,P2213,Clothing,Jeans,2584.59,2584.59,12922.95,5,East,High,Processing,2025-08-21
+1134,1429.0,P1583,Electronics,Monitor,1655.88,1655.88,14902.92,9,North,High,Pending,2025-12-05
+1135,1101.0,P3481,Sports,Yoga Mat,4373.36,4373.36,17493.44,4,West,High,Processing,2025-12-11
+1136,1439.0,P4509,Clothing,Jeans,1073.01,1073.01,2146.02,2,North,Medium,Completed,2025-09-22
+1137,1215.0,P7230,Groceries,Oil,3094.96,3094.96,9284.88,3,South,Low,Cancelled,2025-01-20
+1138,1431.0,P5786,Groceries,Oil,3319.01,3319.01,9957.03,3,West,Medium,Processing,2025-06-03
+1139,1113.0,P5706,Sports,Tennis Racket,2762.73,2762.73,13813.65,5,West,Medium,Cancelled,2025-02-19
+1140,1339.0,P7522,Furniture,Desk,667.51,667.51,5340.08,8,South,Medium,Processing,2025-06-13
+1141,1138.0,P7701,Sports,Yoga Mat,3467.39,3467.39,3467.39,1,North,Low,Cancelled,2025-05-29
+1142,1205.0,P1895,Clothing,Jacket,2115.02,2115.02,16920.16,8,East,Medium,Pending,2025-08-06
+1143,1294.0,P9782,Clothing,T-Shirt,1611.7,1611.7,11281.9,7,South,Low,Completed,2025-04-24
+1144,1011.0,P1345,Sports,Dumbbells,1715.45,1715.45,17154.5,10,West,High,Cancelled,2025-10-04
+1145,1108.0,P4251,Clothing,Hoodie,410.98,410.98,410.98,1,South,Low,Processing,2025-09-23
+1146,1212.0,P5074,Furniture,Sofa,4026.3,4026.3,24157.8,6,North,High,Completed,2025-06-19
+1147,1081.0,P1397,Sports,Football,2557.35,2557.35,20458.8,8,South,Low,Pending,2025-01-22
+1148,1206.0,P5423,Electronics,Tablet,3774.59,3774.59,26422.13,7,North,High,Completed,2025-12-02
+1149,1471.0,P7408,Sports,Yoga Mat,198.76,198.76,1788.84,9,South,Low,Cancelled,2025-11-06
+1150,1141.0,P2633,Clothing,Shoes,2610.54,2610.54,2610.54,1,East,Low,Processing,2025-06-04
+1151,1288.0,P5659,Groceries,Bread,2204.72,2204.72,8818.88,4,South,Medium,Completed,2025-07-28
+1152,1056.0,P1407,Groceries,Eggs,4762.14,4762.14,42859.26,9,West,High,Processing,2026-01-01
+1153,1074.0,P2370,Clothing,Shoes,2859.45,2859.45,14297.25,5,North,Low,Pending,2025-06-20
+1154,1207.0,P8758,Furniture,Desk,3007.71,3007.71,6015.42,2,South,High,Processing,2025-03-14
+1155,1019.0,P7660,Clothing,Shoes,1626.13,1626.13,9756.78,6,North,Medium,Pending,2025-03-19
+1156,1121.0,P8913,Sports,Yoga Mat,2773.38,2773.38,16640.28,6,North,High,Processing,2025-11-30
+1157,1267.0,P3722,Electronics,Headphones,723.68,723.68,723.68,1,South,Medium,Completed,2025-03-24
+1158,1072.0,P9963,Electronics,Headphones,2526.4,2526.4,22737.6,9,West,Medium,Completed,2025-09-07
+1159,1139.0,P7088,Clothing,T-Shirt,2233.85,2233.85,11169.25,5,South,High,Cancelled,2025-12-13
+1160,1310.0,P8583,Sports,Cricket Bat,4033.79,4033.79,24202.74,6,South,Medium,Pending,2025-09-23
+1161,1163.0,P3463,Furniture,Wardrobe,3603.9,3603.9,28831.2,8,West,High,Completed,2025-01-06
+1162,1235.0,P2001,Clothing,Jeans,1076.41,1076.41,2152.82,2,West,Low,Pending,2025-10-03
+1163,,P4156,Electronics,Tablet,3218.08,3218.08,12872.32,4,East,Medium,Processing,2025-06-26
+1164,1288.0,P4319,Sports,Tennis Racket,1899.65,1899.65,13297.55,7,North,Low,Pending,2025-05-11
+1165,1053.0,P9557,Electronics,Smartphone,1471.93,1471.93,7359.65,5,West,Medium,Cancelled,2025-10-16
+1166,1111.0,P3400,Sports,Yoga Mat,1125.6,1125.6,1125.6,1,South,High,Processing,2025-04-29
+1167,1262.0,P7969,Electronics,Tablet,481.16,481.16,481.16,1,West,Medium,Cancelled,2025-03-12
+1168,1397.0,P8773,Sports,Football,1279.79,1279.79,8958.53,7,East,Medium,Cancelled,2025-07-13
+1169,1485.0,P5550,Sports,Football,4428.1,4428.1,17712.4,4,South,Medium,Processing,2025-03-27
+1170,1334.0,P1414,Groceries,Bread,3458.3,3458.3,31124.7,9,East,Medium,Cancelled,2025-08-11
+1171,1192.0,P1174,Groceries,Milk,3123.17,3123.17,12492.68,4,South,Medium,Cancelled,2025-07-15
+1172,1049.0,P5157,Sports,Cricket Bat,127.51,127.51,637.55,5,North,Low,Cancelled,2025-06-18
+1173,1357.0,P5492,Electronics,Tablet,3244.2,3244.2,22709.4,7,North,Low,Completed,2025-01-23
+1174,1243.0,P9938,Groceries,Oil,3197.98,3197.98,25583.84,8,North,High,Cancelled,2025-03-30
+1175,1377.0,P3156,Electronics,Monitor,4481.9,4481.9,13445.7,3,North,Medium,Completed,2025-12-28
+1176,1050.0,P5546,Electronics,Headphones,3223.64,3223.64,3223.64,1,South,Low,Completed,2025-06-10
+1177,1370.0,P9459,Clothing,Jacket,4498.91,4498.91,13496.73,3,North,Low,Processing,2025-10-28
+1178,1374.0,P3827,Groceries,Rice,418.28,418.28,3764.52,9,West,High,Cancelled,2025-03-17
+1179,1326.0,P1052,Sports,Cricket Bat,3474.71,3474.71,24322.97,7,East,Medium,Cancelled,2025-03-30
+1180,1477.0,P2904,Electronics,Tablet,2384.64,2384.64,4769.28,2,North,High,Completed,2025-10-17
+1181,,P7136,Furniture,Sofa,2996.63,2996.63,2996.63,1,West,High,Pending,2025-03-28
+1182,1028.0,P5703,Clothing,Jeans,3762.3,3762.3,11286.9,3,South,Medium,Pending,2025-06-08
+1183,1453.0,P5832,Sports,Tennis Racket,2128.52,2128.52,8514.08,4,East,Low,Processing,2025-05-20
+1184,1179.0,P9569,Clothing,T-Shirt,2500.44,2500.44,25004.4,10,West,Low,Pending,2025-07-06
+1185,1108.0,P8108,Electronics,Monitor,1989.84,1989.84,17908.56,9,East,Low,Cancelled,2025-10-19
+1186,1425.0,P5406,Furniture,Sofa,3528.3,3528.3,31754.7,9,North,Low,Pending,2025-10-10
+1187,1265.0,P4054,Clothing,Jeans,2391.67,2391.67,2391.67,1,West,High,Processing,2025-03-01
+1188,1302.0,P6281,Sports,Tennis Racket,1924.19,1924.19,13469.33,7,North,Low,Cancelled,2025-12-04
+1189,1332.0,P4065,Electronics,Smartphone,2164.9,2164.9,12989.4,6,East,Medium,Pending,2025-06-22
+1190,1415.0,P8126,Groceries,Oil,1012.19,1012.19,1012.19,1,West,Medium,Pending,2025-08-13
+1191,1206.0,P4838,Clothing,Jacket,3044.62,3044.62,24356.96,8,North,Medium,Processing,2025-12-14
+1192,1263.0,P5924,Clothing,Hoodie,2063.68,2063.68,2063.68,1,South,Low,Pending,2025-03-25
+1193,1159.0,P3317,Furniture,Sofa,3963.99,3963.99,3963.99,1,East,Medium,Processing,2025-02-16
+1194,1453.0,P6038,Furniture,Desk,104.13,104.13,312.39,3,North,High,Pending,2025-04-13
+1195,1351.0,P7131,Furniture,Desk,541.82,541.82,2167.28,4,North,Medium,Pending,2025-03-20
+1196,1109.0,P7165,Clothing,T-Shirt,2406.92,2406.92,16848.44,7,West,Low,Pending,2025-12-24
+1197,1396.0,P5639,Electronics,Headphones,729.66,729.66,2188.98,3,West,Low,Processing,2025-07-24
+1198,1114.0,P3918,Sports,Football,1799.65,1799.65,17996.5,10,South,Medium,Cancelled,2025-01-14
+1199,1385.0,P2265,Clothing,Hoodie,4133.87,4133.87,41338.7,10,South,High,Processing,2025-11-03
+1200,1174.0,P3947,Furniture,Chair,1135.04,1135.04,7945.28,7,West,High,Cancelled,2025-02-17
+1201,1134.0,P7909,Clothing,Shoes,3408.84,3408.84,27270.72,8,South,High,Processing,2025-01-18
+1202,1352.0,P7626,Sports,Football,2378.12,2378.12,4756.24,2,North,High,Cancelled,2025-06-27
+1203,1249.0,P7581,Furniture,Wardrobe,2584.16,2584.16,20673.28,8,West,High,Cancelled,2025-01-06
+1204,1414.0,P8377,Groceries,Bread,3736.12,3736.12,7472.24,2,East,Medium,Cancelled,2025-11-06
+1205,1273.0,P2310,Sports,Tennis Racket,647.19,647.19,1941.57,3,South,High,Cancelled,2025-08-06
+1206,1223.0,P5615,Sports,Tennis Racket,1068.3,1068.3,10683.0,10,North,High,Processing,2025-08-21
+1207,1190.0,P6528,Groceries,Bread,345.36,345.36,3453.6,10,East,High,Cancelled,2025-12-18
+1208,1167.0,P1583,Furniture,Sofa,1848.74,1848.74,1848.74,1,North,Medium,Completed,2025-08-17
+1209,1049.0,P3369,Sports,Yoga Mat,1318.27,1318.27,2636.54,2,West,Medium,Cancelled,2025-10-01
+1210,1292.0,P2253,Clothing,Shoes,3476.06,3476.06,13904.24,4,East,Medium,Completed,2025-09-26
+1211,1263.0,P2290,Furniture,Wardrobe,4886.53,4886.53,9773.06,2,East,Low,Cancelled,2025-07-15
+1212,1381.0,P8101,Groceries,Eggs,209.68,209.68,1048.4,5,North,High,Cancelled,2025-12-01
+1213,1410.0,P8748,Clothing,Hoodie,2618.79,2618.79,10475.16,4,South,Medium,Cancelled,2025-12-22
+1214,1205.0,P5668,Furniture,Sofa,2557.66,2557.66,2557.66,1,East,High,Processing,2025-11-06
+1215,1137.0,P6212,Furniture,Chair,3932.05,3932.05,11796.15,3,North,High,Pending,2025-05-21
+1216,1373.0,P8547,Electronics,Tablet,1183.18,1183.18,11831.8,10,West,Low,Cancelled,2025-05-28
+1217,1176.0,P6674,Sports,Yoga Mat,2430.45,2430.45,21874.05,9,West,High,Processing,2025-01-07
+1218,1200.0,P1528,Groceries,Milk,2707.98,2707.98,8123.94,3,North,Low,Processing,2025-12-11
+1219,1156.0,P6166,Sports,Tennis Racket,507.15,507.15,4564.35,9,West,Low,Processing,2025-07-09
+1220,1181.0,P7805,Electronics,Smartphone,3161.83,3161.83,9485.49,3,North,Medium,Processing,2025-11-16
+1221,1311.0,P3023,Furniture,Desk,4613.76,4613.76,13841.28,3,North,Medium,Pending,2025-07-13
+1222,1393.0,P7571,Furniture,Chair,2896.65,2896.65,8689.95,3,West,Medium,Pending,2025-03-23
+1223,1055.0,P6206,Groceries,Oil,1466.51,1466.51,8799.06,6,West,High,Processing,2025-11-19
+1224,1474.0,P7554,Groceries,Eggs,1502.79,1502.79,12022.32,8,East,High,Cancelled,2025-03-22
+1225,1298.0,P7852,Groceries,Milk,3448.42,3448.42,6896.84,2,West,High,Completed,2025-07-16
+1226,1042.0,P7697,Sports,Cricket Bat,779.0,779.0,7790.0,10,North,Medium,Pending,2025-09-15
+1227,1012.0,P7378,Furniture,Wardrobe,3164.93,3164.93,6329.86,2,South,High,Processing,2025-07-09
+1228,1068.0,P1506,Clothing,Jeans,958.53,958.53,3834.12,4,South,Low,Processing,2025-06-15
+1229,1408.0,P8559,Groceries,Milk,3449.99,3449.99,27599.92,8,North,Low,,2025-05-04
+1230,1384.0,P7657,Furniture,Table,2364.84,2364.84,4729.68,2,West,Medium,Completed,2025-01-04
+1231,1367.0,P9751,Groceries,Bread,4428.45,4428.45,39856.05,9,North,Medium,Processing,2025-03-03
+1232,1205.0,P9381,Electronics,Tablet,4077.15,4077.15,4077.15,1,West,Medium,Completed,2025-07-06
+1233,1370.0,P7764,Electronics,Smartphone,4250.64,4250.64,42506.4,10,East,High,Pending,2025-02-27
+1234,1356.0,P9053,Groceries,Milk,1396.09,1396.09,8376.54,6,South,Medium,Cancelled,2025-11-25
+1235,1133.0,P1585,Clothing,Shoes,1720.24,1720.24,13761.92,8,South,High,Cancelled,2025-12-25
+1236,1366.0,P3593,Electronics,Smartphone,4412.84,4412.84,44128.4,10,East,Medium,Processing,2025-07-05
+1237,1312.0,P7295,Clothing,Jeans,3744.29,3744.29,11232.87,3,East,Low,Pending,2025-03-17
+1238,1007.0,P9332,Electronics,Smartphone,2957.83,2957.83,8873.49,3,West,Medium,Pending,2025-10-27
+1239,1268.0,P8950,Clothing,Jeans,2976.96,2976.96,26792.64,9,South,Low,Processing,2025-06-10
+1240,1485.0,P4683,Furniture,Desk,4495.95,4495.95,4495.95,1,East,High,Pending,2025-12-09
+1241,1101.0,P8525,Furniture,Sofa,3082.34,3082.34,6164.68,2,North,Low,Pending,2025-11-29
+1242,1051.0,P9313,Furniture,Sofa,3354.8,3354.8,23483.6,7,North,Medium,Completed,2025-11-17
+1243,1132.0,P3993,Electronics,Headphones,2876.84,2876.84,11507.36,4,South,High,Processing,2025-05-06
+1244,1143.0,P4113,Furniture,Chair,4898.95,4898.95,24494.75,5,North,High,Cancelled,2025-10-10
+1245,1245.0,P9797,Electronics,Smartphone,1215.17,1215.17,12151.7,10,North,Medium,Completed,2025-10-25
+1246,1102.0,P4522,Furniture,Desk,670.39,670.39,1340.78,2,West,Medium,Completed,2025-09-01
+1247,1399.0,P8475,,Yoga Mat,4319.58,4319.58,8639.16,2,North,Medium,Processing,2025-08-15
+1248,1260.0,P5649,Sports,Tennis Racket,2513.77,2513.77,7541.31,3,East,Medium,Pending,2025-06-18
+1249,1321.0,P3984,Clothing,Jacket,3421.43,3421.43,30792.87,9,West,High,Cancelled,2025-06-08
+1250,1390.0,P5991,Sports,Yoga Mat,2529.36,2529.36,7588.08,3,North,Medium,Cancelled,2025-02-03
+1251,1110.0,P6003,Sports,Cricket Bat,1048.62,1048.62,2097.24,2,East,Low,Processing,2025-04-29
+1252,1345.0,P3562,Electronics,Tablet,4645.0,4645.0,18580.0,4,South,Medium,Pending,2025-10-20
+1253,1243.0,P7830,Furniture,Wardrobe,3346.69,3346.69,20080.14,6,East,High,Cancelled,2025-09-22
+1254,1373.0,P6166,Groceries,Bread,1916.88,1916.88,9584.4,5,West,Medium,Processing,2025-06-20
+1255,1029.0,P6793,Sports,Yoga Mat,3837.21,3837.21,3837.21,1,South,Medium,Cancelled,2025-07-26
+1256,1427.0,P6273,Electronics,Smartphone,1122.18,1122.18,5610.9,5,West,Medium,Cancelled,2025-05-31
+1257,1258.0,P5488,Sports,Dumbbells,3721.18,3721.18,14884.72,4,North,High,Pending,2025-11-13
+1258,1488.0,P1753,Furniture,Sofa,3641.96,3641.96,36419.6,10,West,Low,Processing,2025-08-29
+1259,1031.0,P6614,Furniture,Sofa,4935.95,4935.95,49359.5,10,East,Low,Cancelled,2025-07-12
+1260,1167.0,P7779,Groceries,Bread,644.05,644.05,1932.15,3,South,High,Cancelled,2025-02-07
+1261,1168.0,P5271,Sports,Cricket Bat,2853.0,2853.0,22824.0,8,East,Low,Completed,2025-05-06
+1262,1464.0,P4519,Furniture,Chair,4366.55,4366.55,26199.3,6,South,Medium,Processing,2025-07-04
+1263,1498.0,P5183,Furniture,Desk,1874.8,1874.8,7499.2,4,North,High,Completed,2025-12-13
+1264,1426.0,P9392,Groceries,Eggs,2041.91,2041.91,16335.28,8,East,High,Processing,2025-01-25
+1265,1252.0,P6468,Electronics,Monitor,4378.1,4378.1,26268.6,6,North,Low,Completed,2025-10-03
+1266,1082.0,P2437,Sports,Football,4873.71,4873.71,9747.42,2,West,Low,Pending,2025-09-30
+1267,1456.0,P3493,Electronics,Headphones,4107.0,4107.0,32856.0,8,East,High,Pending,2025-08-20
+1268,1206.0,P1104,Sports,Tennis Racket,2324.83,2324.83,16273.81,7,West,High,Completed,2025-01-11
+1269,1300.0,P6351,Furniture,Sofa,2193.03,2193.03,10965.15,5,West,Low,Pending,2025-04-25
+1270,1097.0,P4377,Sports,Tennis Racket,4476.89,4476.89,44768.9,10,East,High,Completed,2025-03-20
+1271,1277.0,P2134,Electronics,Monitor,3049.42,3049.42,3049.42,1,East,Medium,Pending,2025-03-07
+1272,1120.0,P4559,Furniture,Table,1584.35,1584.35,11090.45,7,East,High,Pending,2025-05-19
+1273,1228.0,P4417,Groceries,Rice,4187.37,4187.37,29311.59,7,West,High,Processing,2025-01-14
+1274,1418.0,P3868,Groceries,Eggs,1073.32,1073.32,7513.24,7,North,High,Pending,2025-10-30
+1275,1213.0,P2487,Electronics,Headphones,3729.15,3729.15,22374.9,6,East,Medium,Cancelled,2025-06-12
+1276,1195.0,P7558,Sports,Football,4729.99,4729.99,4729.99,1,North,Medium,Cancelled,2025-01-04
+1277,1360.0,P7384,Clothing,T-Shirt,2227.33,2227.33,11136.65,5,West,High,Cancelled,2025-04-28
+1278,,P9497,Clothing,T-Shirt,789.61,789.61,3158.44,4,South,High,Processing,2025-04-01
+1279,1151.0,P7797,Electronics,Laptop,3021.4,3021.4,12085.6,4,South,Medium,Pending,2025-12-05
+1280,1451.0,P3660,Furniture,Wardrobe,4829.97,4829.97,14489.91,3,North,Medium,Pending,2025-07-06
+1281,,P1423,Clothing,Shoes,3164.03,3164.03,15820.15,5,East,High,Processing,2025-11-15
+1282,1194.0,P9604,Electronics,Smartphone,4576.53,4576.53,4576.53,1,South,High,Completed,2025-10-04
+1283,1034.0,P8793,Electronics,Tablet,4496.22,4496.22,8992.44,2,West,Medium,Processing,2025-08-03
+1284,1244.0,P5208,Furniture,Wardrobe,4066.18,4066.18,4066.18,1,South,Medium,Cancelled,2025-06-09
+1285,1065.0,P3126,Sports,Football,2441.17,2441.17,24411.7,10,South,High,Completed,2025-04-11
+1286,1128.0,P4024,Electronics,Headphones,1483.27,1483.27,14832.7,10,East,Medium,Processing,2025-02-23
+1287,1168.0,P3379,Sports,Dumbbells,2632.83,2632.83,13164.15,5,North,Low,Processing,2025-03-09
+1288,1325.0,P4896,Electronics,Smartphone,4899.7,4899.7,4899.7,1,South,Medium,Cancelled,2025-03-15
+1289,1322.0,P7646,Electronics,Monitor,2455.8,2455.8,14734.8,6,West,High,Processing,2025-04-07
+1290,1336.0,P6527,Sports,Tennis Racket,2774.81,2774.81,5549.62,2,East,High,Cancelled,2025-05-24
+1291,1050.0,P6609,Clothing,Shoes,3882.84,3882.84,31062.72,8,East,High,Cancelled,2025-12-06
+1292,1117.0,P2820,Groceries,Rice,4827.29,4827.29,14481.87,3,North,Low,Cancelled,2025-02-18
+1293,1482.0,P9269,Furniture,Sofa,1604.45,1604.45,11231.15,7,South,Medium,Pending,2025-10-11
+1294,1270.0,P3486,Furniture,Table,3901.97,3901.97,15607.88,4,North,Low,Cancelled,2025-07-01
+1295,1192.0,P3713,Sports,Cricket Bat,3499.1,3499.1,31491.9,9,South,Low,Pending,2025-03-27
+1296,1026.0,P7567,Sports,Dumbbells,2177.68,2177.68,8710.72,4,East,Medium,Processing,2025-05-23
+1297,1039.0,P6105,Groceries,Eggs,1677.41,1677.41,8387.05,5,South,Low,Completed,2025-01-01
+1298,1392.0,P4972,Electronics,Headphones,787.49,787.49,6299.92,8,West,High,Processing,2025-03-24
+1299,1116.0,P5525,Groceries,Oil,1047.52,1047.52,6285.12,6,South,Medium,Completed,2025-02-06
+1300,1142.0,P1176,Sports,Cricket Bat,1108.57,1108.57,3325.71,3,North,Low,Cancelled,2025-12-11
+1301,1119.0,P5895,Sports,Football,3881.12,3881.12,38811.2,10,North,Low,Processing,2025-08-30
+1302,1487.0,P7250,Furniture,Chair,4413.11,4413.11,26478.66,6,East,High,Processing,2025-05-20
+1303,1116.0,P2451,Groceries,Oil,925.43,925.43,7403.44,8,East,High,Processing,2025-05-30
+1304,1432.0,P5519,Groceries,Eggs,377.6,377.6,755.2,2,East,Low,Cancelled,2025-05-24
+1305,1052.0,P8955,Groceries,Bread,4917.12,4917.12,9834.24,2,South,Low,Processing,2025-01-07
+1306,1400.0,P8993,Furniture,Wardrobe,2225.46,2225.46,11127.3,5,West,Low,Processing,2025-02-23
+1307,1049.0,P4909,Electronics,Monitor,628.21,628.21,1256.42,2,East,Low,Processing,2025-10-22
+1308,1294.0,P1610,Groceries,Rice,1801.79,1801.79,14414.32,8,West,Low,Processing,2025-08-24
+1309,1485.0,P5788,Electronics,Smartphone,2877.96,2877.96,2877.96,1,West,High,Processing,2025-11-19
+1310,1499.0,P5532,Clothing,Jacket,4110.01,4110.01,24660.06,6,West,High,Cancelled,2025-06-30
+1311,1286.0,P9966,Groceries,Bread,3866.19,3866.19,11598.57,3,East,Low,Processing,2025-04-18
+1312,1181.0,P4728,Clothing,Jeans,4239.13,4239.13,8478.26,2,East,Medium,Completed,2025-06-20
+1313,1096.0,P4312,Electronics,Headphones,1633.33,1633.33,13066.64,8,East,Low,Processing,2025-11-24
+1314,1492.0,P1260,Clothing,Jacket,4048.9,4048.9,24293.4,6,North,High,Cancelled,2025-03-23
+1315,1092.0,P2244,Sports,Dumbbells,1551.4,1551.4,13962.6,9,South,High,Completed,2025-10-03
+1316,1273.0,P3179,Sports,Yoga Mat,4275.82,4275.82,12827.46,3,West,High,Cancelled,2025-06-24
+1317,1227.0,P5028,Sports,Dumbbells,4856.65,4856.65,29139.9,6,South,Low,Cancelled,2025-04-26
+1318,1449.0,P4538,Electronics,Headphones,1199.9,1199.9,4799.6,4,South,High,Cancelled,2025-05-06
+1319,1213.0,P4149,Furniture,Chair,4301.9,4301.9,34415.2,8,West,High,Processing,2025-08-13
+1320,1221.0,P4845,Sports,Yoga Mat,3759.28,3759.28,22555.68,6,East,Low,Cancelled,2025-05-15
+1321,1297.0,P9314,Electronics,Smartphone,1676.15,1676.15,6704.6,4,West,Low,Cancelled,2025-10-03
+1322,1331.0,P4669,Electronics,Monitor,1216.34,1216.34,7298.04,6,West,Medium,Completed,2025-12-26
+1323,1034.0,P3807,Groceries,Oil,2245.57,2245.57,22455.7,10,North,Low,Processing,2025-08-12
+1324,1076.0,P6806,Sports,Football,4489.62,4489.62,35916.96,8,North,Low,Cancelled,2025-12-28
+1325,1307.0,P3184,Sports,Tennis Racket,4742.02,4742.02,4742.02,1,West,High,Processing,2026-01-01
+1326,1120.0,P9322,Clothing,Hoodie,3516.31,3516.31,17581.55,5,West,High,Cancelled,2025-06-19
+1327,1062.0,P2163,Electronics,Monitor,359.56,359.56,2157.36,6,North,Low,Processing,2025-10-28
+1328,1428.0,P9109,Furniture,Table,1319.12,1319.12,13191.2,10,North,Medium,Completed,2025-04-02
+1329,1196.0,P3269,Electronics,Headphones,2912.61,2912.61,20388.27,7,East,High,Completed,2025-07-28
+1330,1256.0,P5268,Clothing,Jacket,969.31,969.31,6785.17,7,West,High,Pending,2025-05-10
+1331,,P1997,Clothing,T-Shirt,1764.63,1764.63,3529.26,2,North,Low,Cancelled,2025-09-26
+1332,1003.0,P6017,Electronics,Smartphone,108.47,108.47,976.23,9,North,Low,Cancelled,2025-01-07
+1333,1094.0,P6656,Electronics,Smartphone,1023.56,1023.56,10235.6,10,North,Low,Pending,2025-09-13
+1334,1434.0,P3908,Sports,Tennis Racket,2912.53,2912.53,23300.24,8,South,Medium,Completed,2025-12-28
+1335,1479.0,P6718,Sports,Football,4682.94,4682.94,9365.88,2,South,Low,Pending,2025-06-09
+1336,1472.0,P8449,Electronics,Headphones,1046.48,1046.48,3139.44,3,West,Medium,Completed,2025-11-10
+1337,1123.0,P9040,Sports,Football,1757.89,1757.89,10547.34,6,South,Medium,Completed,2025-03-14
+1338,1363.0,P2618,Clothing,T-Shirt,4591.39,4591.39,36731.12,8,North,Low,Cancelled,2025-12-04
+1339,1202.0,P4292,Sports,Dumbbells,2917.93,2917.93,26261.37,9,East,Medium,Pending,2025-09-25
+1340,1223.0,P9035,Groceries,Milk,1535.5,1535.5,10748.5,7,North,Medium,Completed,2025-07-26
+1341,1255.0,P5705,Clothing,Hoodie,2472.11,2472.11,17304.77,7,North,Low,Completed,2025-06-06
+1342,1278.0,P6138,Furniture,Chair,1604.89,1604.89,16048.9,10,North,Low,Completed,2025-10-20
+1343,1027.0,P8107,Electronics,Tablet,1986.02,1986.02,11916.12,6,South,Low,Cancelled,2025-10-03
+1344,1365.0,P4335,Electronics,Smartphone,583.39,583.39,1750.17,3,West,High,Completed,2025-04-24
+1345,1003.0,P6419,Electronics,Headphones,1109.55,1109.55,2219.1,2,South,Medium,Pending,2025-05-29
+1346,1127.0,P5230,Clothing,Shoes,319.31,319.31,957.93,3,West,Low,Cancelled,2025-11-03
+1347,1422.0,P5556,Furniture,Sofa,2105.1,2105.1,2105.1,1,South,Medium,Cancelled,2025-08-01
+1348,1357.0,P3111,Sports,Football,3170.03,3170.03,22190.21,7,South,High,Completed,2025-01-22
+1349,1094.0,P3742,Electronics,Smartphone,4520.86,4520.86,36166.88,8,East,Low,Processing,2025-02-04
+1350,1056.0,P7470,Clothing,Hoodie,1503.55,1503.55,15035.5,10,South,High,Processing,2025-05-14
+1351,1246.0,P4746,Furniture,Table,2639.31,2639.31,2639.31,1,North,Medium,Pending,2025-08-29
+1352,1225.0,P8242,Electronics,Laptop,1284.58,1284.58,12845.8,10,North,Low,Pending,2025-07-09
+1353,1175.0,P5109,Furniture,Sofa,314.41,314.41,314.41,1,South,Medium,Processing,2025-03-20
+1354,1259.0,P4014,Furniture,Chair,2017.43,2017.43,6052.29,3,South,Medium,Processing,2025-05-30
+1355,1271.0,P3639,Electronics,Headphones,439.98,439.98,1759.92,4,South,Low,Cancelled,2025-11-05
+1356,,P3783,Electronics,Laptop,3455.34,3455.34,24187.38,7,East,Medium,Completed,2025-09-23
+1357,1002.0,P7349,Furniture,Chair,3453.15,3453.15,3453.15,1,North,High,Completed,2025-07-15
+1358,1331.0,P7336,Sports,Dumbbells,462.23,462.23,3697.84,8,West,Low,Pending,2025-10-20
+1359,1471.0,P8441,Groceries,Oil,1325.21,1325.21,10601.68,8,East,High,Pending,2025-09-03
+1360,1452.0,P1343,,Jeans,4818.89,4818.89,33732.23,7,West,Medium,Pending,2025-05-12
+1361,1206.0,P6782,Electronics,Headphones,2110.82,2110.82,18997.38,9,South,Medium,Processing,2025-04-27
+1362,1238.0,P6341,Groceries,Eggs,3693.9,3693.9,29551.2,8,West,High,Pending,2025-07-18
+1363,1486.0,P6954,Furniture,Table,3591.69,3591.69,35916.9,10,West,Low,Processing,2025-04-10
+1364,1056.0,P8410,Clothing,Jacket,1146.22,1146.22,3438.66,3,East,Low,Processing,2025-08-29
+1365,1338.0,P9478,Electronics,Smartphone,1164.17,1164.17,10477.53,9,West,High,Processing,2025-03-22
+1366,1382.0,P3553,Electronics,Smartphone,1991.26,1991.26,5973.78,3,West,Low,Pending,2025-05-20
+1367,1391.0,P6180,Furniture,Desk,1650.8,1650.8,6603.2,4,North,Low,Completed,2025-03-08
+1368,1437.0,P6844,Electronics,Laptop,205.18,205.18,205.18,1,South,Low,Pending,2025-06-19
+1369,1466.0,P8317,Furniture,Sofa,4219.32,4219.32,25315.92,6,West,Medium,Pending,2025-11-16
+1370,1462.0,P3674,Clothing,Jacket,597.35,597.35,5376.15,9,West,High,Processing,2025-03-23
+1371,1144.0,P5086,Furniture,Wardrobe,2806.37,2806.37,22450.96,8,North,Low,Pending,2025-12-25
+1372,1243.0,P3792,Groceries,Rice,3802.8,3802.8,11408.4,3,North,Low,Cancelled,2025-07-15
+1373,1497.0,P6633,Groceries,Oil,2902.36,2902.36,23218.88,8,East,High,Cancelled,2025-01-11
+1374,1202.0,P2818,Electronics,Smartphone,761.22,761.22,3806.1,5,South,Low,Cancelled,2025-12-13
+1375,1319.0,P7844,Clothing,T-Shirt,1838.09,1838.09,14704.72,8,South,Medium,Cancelled,2025-01-09
+1376,1251.0,P3734,Furniture,Wardrobe,1473.2,1473.2,13258.8,9,North,Low,Pending,2025-01-13
+1377,1021.0,P8505,Clothing,Jacket,2299.76,2299.76,16098.32,7,North,Medium,Completed,2025-06-22
+1378,1155.0,P8702,Furniture,Wardrobe,152.32,152.32,1523.2,10,West,Medium,Completed,2025-01-10
+1379,1209.0,P3168,,Shoes,1744.61,1744.61,15701.49,9,East,Low,Cancelled,2025-08-06
+1380,1468.0,P2389,Sports,Cricket Bat,2495.27,2495.27,12476.35,5,East,Low,Completed,2025-02-12
+1381,1039.0,P2064,Electronics,Smartphone,4050.51,4050.51,8101.02,2,South,Low,Pending,2025-05-05
+1382,1446.0,P2153,Electronics,Laptop,147.26,147.26,147.26,1,South,Low,Processing,2025-06-24
+1383,1072.0,P2329,Clothing,T-Shirt,3101.57,3101.57,3101.57,1,South,High,Completed,2025-12-27
+1384,1026.0,P7338,Electronics,Headphones,3978.8,3978.8,15915.2,4,East,Low,Pending,2025-04-18
+1385,1362.0,P5719,Groceries,Milk,3570.36,3570.36,28562.88,8,North,Medium,Pending,2025-11-06
+1386,1074.0,P4102,Sports,Football,489.84,489.84,1959.36,4,North,Low,Completed,2025-05-15
+1387,1203.0,P5861,Furniture,Table,4258.22,4258.22,17032.88,4,West,Low,Cancelled,2025-03-25
+1388,,P5123,Furniture,Desk,1329.65,1329.65,7977.9,6,East,High,Completed,2025-05-04
+1389,1387.0,P2309,Electronics,Laptop,2520.22,2520.22,2520.22,1,West,High,Completed,2025-11-14
+1390,1349.0,P2079,Clothing,Hoodie,3879.79,3879.79,23278.74,6,East,Low,Cancelled,2025-12-24
+1391,1256.0,P9013,Groceries,Bread,3736.74,3736.74,29893.92,8,East,Low,Pending,2025-07-09
+1392,1239.0,P6314,Furniture,Wardrobe,935.71,935.71,5614.26,6,West,Medium,Processing,2025-07-29
+1393,,P3284,Groceries,Milk,796.21,796.21,5573.47,7,East,Medium,Pending,2025-08-03
+1394,1304.0,P4555,Groceries,Bread,168.36,168.36,505.08,3,North,High,Processing,2025-03-19
+1395,1255.0,P5972,Groceries,Milk,1427.36,1427.36,5709.44,4,East,High,Pending,2025-01-12
+1396,1486.0,P8984,Groceries,Oil,3646.27,3646.27,25523.89,7,North,Medium,Completed,2025-08-11
+1397,1073.0,P9097,Electronics,Tablet,3559.52,3559.52,35595.2,10,South,Medium,Processing,2025-05-29
+1398,1160.0,P8028,Electronics,Tablet,3194.39,3194.39,19166.34,6,North,Low,Pending,2025-11-19
+1399,1443.0,P8758,Sports,Tennis Racket,1771.38,1771.38,10628.28,6,North,High,Processing,2025-12-19
+1400,1120.0,P6120,Clothing,Shoes,1305.94,1305.94,7835.64,6,West,Medium,Cancelled,2025-12-19
+1401,1401.0,P4750,Sports,Tennis Racket,3521.81,3521.81,10565.43,3,South,High,Processing,2025-06-14
+1402,1451.0,P3430,Sports,Yoga Mat,4463.73,4463.73,26782.38,6,East,High,Processing,2025-09-19
+1403,1231.0,P4165,Groceries,Oil,4512.11,4512.11,22560.55,5,East,Low,Pending,2025-02-04
+1404,1002.0,P8906,Clothing,T-Shirt,2421.36,2421.36,9685.44,4,South,Medium,Cancelled,2025-11-21
+1405,1422.0,P4083,Groceries,Bread,3063.38,3063.38,27570.42,9,North,Medium,Completed,2025-04-13
+1406,1405.0,P1178,Furniture,Wardrobe,4014.36,4014.36,20071.8,5,East,Medium,Pending,2025-05-08
+1407,1189.0,P3418,Furniture,Sofa,223.89,223.89,1567.23,7,West,Low,Processing,2025-02-10
+1408,1480.0,P5521,Sports,Cricket Bat,3009.84,3009.84,18059.04,6,South,Low,Processing,2025-02-25
+1409,1064.0,P6349,Clothing,Jeans,2973.75,2973.75,17842.5,6,West,Medium,Pending,2025-01-09
+1410,1166.0,P6351,Clothing,Shoes,2795.62,2795.62,19569.34,7,North,Low,Cancelled,2025-11-27
+1411,1029.0,P3160,Clothing,Hoodie,3806.81,3806.81,3806.81,1,West,High,Completed,2025-09-19
+1412,1121.0,P6903,Furniture,Table,601.04,601.04,1803.12,3,East,Medium,Completed,2026-01-01
+1413,1280.0,P7821,Groceries,Bread,3779.17,3779.17,30233.36,8,West,Low,Pending,2025-07-25
+1414,1060.0,P5272,Sports,Football,4090.38,4090.38,32723.04,8,South,High,Completed,2025-03-23
+1415,1022.0,P4811,Sports,Football,357.17,357.17,1428.68,4,South,High,Cancelled,2025-09-03
+1416,1262.0,P9064,Clothing,Shoes,3804.22,3804.22,26629.54,7,North,Low,Processing,2025-01-10
+1417,1107.0,P9052,Sports,Football,296.64,296.64,2966.4,10,North,Medium,Completed,2025-01-19
+1418,1109.0,P1120,Sports,Tennis Racket,2594.83,2594.83,7784.49,3,East,Medium,Cancelled,2025-07-23
+1419,1132.0,P6358,Sports,Yoga Mat,883.33,883.33,3533.32,4,East,Medium,Completed,2025-11-08
+1420,1344.0,P7646,Clothing,Shoes,241.21,241.21,2412.1,10,South,High,Completed,2025-11-30
+1421,1389.0,P5892,Electronics,Headphones,4042.72,4042.72,16170.88,4,South,Low,Cancelled,2025-04-13
+1422,1456.0,P5134,Clothing,Shoes,366.4,366.4,1465.6,4,South,Low,Completed,2025-10-18
+1423,1106.0,P7366,Clothing,T-Shirt,1160.48,1160.48,3481.44,3,East,Medium,Processing,2025-06-20
+1424,1306.0,P5071,Sports,Cricket Bat,4612.01,4612.01,36896.08,8,North,Low,Completed,2025-10-15
+1425,,P8291,Electronics,Laptop,3134.46,3134.46,3134.46,1,West,Low,Pending,2025-05-21
+1426,1380.0,P2246,Electronics,Laptop,1903.44,1903.44,7613.76,4,East,Medium,Completed,2025-08-05
+1427,1135.0,P4353,Clothing,T-Shirt,4502.76,4502.76,22513.8,5,North,Low,Completed,2025-03-14
+1428,1234.0,P5475,Groceries,Milk,170.29,170.29,340.58,2,East,High,Processing,2025-05-01
+1429,,P9149,Electronics,Smartphone,1155.83,1155.83,8090.81,7,West,Medium,Processing,2025-12-14
+1430,1033.0,P5601,Furniture,Chair,2926.13,2926.13,2926.13,1,East,Low,Processing,2025-12-03
+1431,1121.0,P1031,Furniture,Sofa,219.62,219.62,1098.1,5,North,Low,Processing,2025-04-07
+1432,1187.0,P7017,Sports,Yoga Mat,3980.62,3980.62,3980.62,1,West,Medium,Pending,2025-05-27
+1433,1165.0,P6681,Clothing,Jacket,3658.37,3658.37,32925.33,9,West,High,Processing,2025-03-16
+1434,1417.0,P9102,Clothing,Shoes,4919.21,4919.21,24596.05,5,West,Medium,Processing,2025-03-17
+1435,1474.0,P8644,Electronics,Monitor,1340.68,1340.68,4022.04,3,,Low,Pending,2025-06-20
+1436,1175.0,P3612,Electronics,Tablet,2581.13,2581.13,7743.39,3,South,High,Processing,2025-11-03
+1437,1022.0,P1066,Electronics,Headphones,4415.54,4415.54,39739.86,9,East,Low,Pending,2025-10-06
+1438,1281.0,P9570,Furniture,Sofa,2496.98,2496.98,14981.88,6,West,High,Cancelled,2025-07-11
+1439,1428.0,P4085,Groceries,Rice,1206.49,1206.49,9651.92,8,North,Low,Completed,2025-03-21
+1440,1387.0,P4428,Groceries,Milk,4587.63,4587.63,22938.15,5,North,High,Completed,2025-05-04
+1441,1424.0,P2168,Electronics,Laptop,1549.34,1549.34,6197.36,4,North,Medium,Processing,2025-04-06
+1442,1358.0,P6622,Electronics,Headphones,4729.89,4729.89,33109.23,7,West,Medium,Pending,2025-01-06
+1443,1315.0,P9050,Clothing,Shoes,3134.36,3134.36,25074.88,8,North,Medium,Cancelled,2025-11-22
+1444,1386.0,P2605,Clothing,T-Shirt,1353.33,1353.33,10826.64,8,West,Low,Cancelled,2025-07-16
+1445,1244.0,P2508,Groceries,Rice,1961.84,1961.84,15694.72,8,North,High,Completed,2025-02-14
+1446,1241.0,P6075,Groceries,Eggs,3770.36,3770.36,15081.44,4,West,High,Processing,2025-11-06
+1447,,P9295,Electronics,Laptop,3450.74,3450.74,34507.4,10,West,High,Pending,2025-12-12
+1448,1335.0,P5148,Groceries,Bread,3515.94,3515.94,24611.58,7,North,Low,Processing,2025-10-02
+1449,1149.0,P7991,Furniture,Desk,1537.61,1537.61,4612.83,3,North,Low,Pending,2025-01-21
+1450,1199.0,P3893,Electronics,Smartphone,2462.52,2462.52,9850.08,4,West,High,Cancelled,2025-01-03
+1451,1118.0,P2902,Furniture,Table,1766.35,1766.35,17663.5,10,,High,Pending,2025-09-10
+1452,1188.0,P8044,Furniture,Wardrobe,2857.58,2857.58,22860.64,8,North,Low,Cancelled,2025-09-12
+1453,1224.0,P7918,Sports,Football,2151.26,2151.26,2151.26,1,North,High,Completed,2025-05-23
+1454,1465.0,P3253,Clothing,Jacket,2425.67,2425.67,21831.03,9,North,High,Pending,2025-05-05
+1455,1338.0,P7116,Electronics,Monitor,1015.27,1015.27,4061.08,4,East,Medium,Completed,2025-08-17
+1456,1119.0,P5920,Furniture,Wardrobe,2124.95,2124.95,19124.55,9,South,Low,Processing,2025-01-21
+1457,1269.0,P9692,Electronics,Tablet,393.97,393.97,393.97,1,North,Medium,Pending,2025-02-27
+1458,1340.0,P8843,Clothing,Jeans,4316.87,4316.87,17267.48,4,South,High,Pending,2025-04-07
+1459,1075.0,P9353,Groceries,Oil,3203.64,3203.64,28832.76,9,South,High,Processing,2025-02-06
+1460,1386.0,P6926,Sports,Football,2874.17,2874.17,11496.68,4,South,Medium,Processing,2025-11-17
+1461,1015.0,P7122,Electronics,Headphones,310.25,310.25,1861.5,6,West,Medium,Pending,2025-07-22
+1462,1331.0,P3576,Furniture,Desk,3112.99,3112.99,28016.91,9,South,Low,Cancelled,2025-07-28
+1463,1034.0,P3384,Groceries,Rice,2220.43,2220.43,2220.43,1,North,Medium,Cancelled,2025-08-02
+1464,1429.0,P6359,Groceries,Bread,2376.08,2376.08,14256.48,6,East,Medium,Processing,2025-06-05
+1465,1339.0,P3248,Groceries,Oil,3506.72,3506.72,35067.2,10,West,Medium,Completed,2025-11-03
+1466,1033.0,P5394,Groceries,Bread,2710.42,2710.42,27104.2,10,East,Medium,Pending,2025-11-20
+1467,1179.0,P4143,Clothing,Jacket,4545.37,4545.37,45453.7,10,East,Low,Processing,2025-04-08
+1468,1456.0,P5833,Clothing,Jacket,3029.03,3029.03,12116.12,4,South,Low,Cancelled,2025-11-10
+1469,1267.0,P5775,,Dumbbells,1673.6,1673.6,13388.8,8,South,High,Cancelled,2025-10-25
+1470,1368.0,P8521,Furniture,Desk,1937.49,1937.49,13562.43,7,East,High,Cancelled,2025-09-05
+1471,,P4095,Sports,Football,1337.42,1337.42,9361.94,7,East,Medium,Processing,2025-10-09
+1472,1216.0,P1835,Sports,Dumbbells,4123.68,4123.68,37113.12,9,West,Low,Processing,2025-10-18
+1473,1062.0,P3013,Sports,Football,2434.2,2434.2,17039.4,7,East,High,Completed,2025-06-10
+1474,1066.0,P7934,Electronics,Tablet,626.56,626.56,5639.04,9,South,High,Completed,2025-05-18
+1475,1146.0,P4776,Electronics,Laptop,1754.27,1754.27,17542.7,10,South,Low,Cancelled,2025-05-22
+1476,1284.0,P4602,Sports,Tennis Racket,4219.76,4219.76,12659.28,3,South,Medium,Pending,2025-01-12
+1477,1293.0,P5419,Sports,Dumbbells,185.46,185.46,556.38,3,West,High,Completed,2025-02-16
+1478,1085.0,P4610,Furniture,Desk,1182.77,1182.77,9462.16,8,East,High,Completed,2025-11-09
+1479,1229.0,P2644,Furniture,Sofa,2232.45,2232.45,22324.5,10,North,Medium,Processing,2025-07-17
+1480,1385.0,P9868,Groceries,Milk,3721.91,3721.91,26053.37,7,East,High,Processing,2025-11-11
+1481,1260.0,P8244,Groceries,Oil,1777.21,1777.21,1777.21,1,South,Medium,Pending,2025-09-13
+1482,1404.0,P4570,Electronics,Monitor,4201.0,4201.0,29407.0,7,East,Medium,Processing,2025-03-28
+1483,1308.0,P1397,Clothing,Jeans,3603.18,3603.18,14412.72,4,South,Low,Completed,2025-07-14
+1484,,P8148,Groceries,Rice,2005.46,2005.46,12032.76,6,West,Medium,Completed,2025-07-04
+1485,1467.0,P8840,Groceries,Bread,1806.33,1806.33,9031.65,5,South,High,Pending,2025-07-07
+1486,1196.0,P4745,Sports,Dumbbells,3035.62,3035.62,12142.48,4,North,Low,Pending,2025-01-19
+1487,1041.0,P5180,Electronics,Monitor,3507.03,3507.03,3507.03,1,West,High,Cancelled,2025-05-09
+1488,1210.0,P9528,Furniture,Desk,1464.72,1464.72,4394.16,3,North,High,Completed,2025-04-28
+1489,1281.0,P7934,Sports,Football,2905.78,2905.78,8717.34,3,South,High,Completed,2025-05-28
+1490,1138.0,P3928,Furniture,Wardrobe,3591.39,3591.39,7182.78,2,North,Medium,Cancelled,2025-02-21
+1491,,P3814,Furniture,Table,2714.92,2714.92,8144.76,3,East,Low,Completed,2025-05-06
+1492,1086.0,P3554,Sports,Dumbbells,4484.71,4484.71,31392.97,7,South,High,,2025-03-11
+1493,1364.0,P5066,Sports,Tennis Racket,2365.79,2365.79,18926.32,8,South,Low,Completed,2025-03-31
+1494,1271.0,P7471,Electronics,Headphones,765.93,765.93,3829.65,5,West,Low,Processing,2025-08-24
+1495,1385.0,P7679,Sports,Tennis Racket,3953.29,3953.29,39532.9,10,South,Low,Processing,2025-07-27
+1496,1432.0,P7756,Furniture,Chair,1113.78,1113.78,11137.8,10,West,Medium,Cancelled,2025-07-08
+1497,1111.0,P3411,Clothing,T-Shirt,1641.27,1641.27,6565.08,4,West,Low,Pending,2025-01-09
+1498,1463.0,P8975,Clothing,Shoes,1298.01,1298.01,1298.01,1,West,Medium,,2025-04-27
+1499,1126.0,P2659,Clothing,Jeans,2370.17,2370.17,16591.19,7,East,Medium,Completed,2025-01-27
+1500,1307.0,P9397,Clothing,Shoes,4556.02,4556.02,31892.14,7,West,High,Processing,2025-02-09
+1501,,P2659,Electronics,Tablet,1724.12,1724.12,8620.6,5,South,Low,Cancelled,2025-09-17
+1502,1013.0,P6472,Electronics,Laptop,2596.58,2596.58,23369.22,9,West,Medium,Cancelled,2025-07-10
+1503,1064.0,P8987,Clothing,Jacket,349.49,349.49,3145.41,9,West,Low,Completed,2025-10-27
+1504,1170.0,P8206,Sports,Dumbbells,2579.14,2579.14,7737.42,3,East,High,Pending,2025-07-13
+1505,1113.0,P5962,Furniture,Chair,3122.68,3122.68,15613.4,5,North,High,Pending,2025-07-21
+1506,1281.0,P4450,Groceries,Oil,1048.95,1048.95,3146.85,3,North,High,Pending,2025-08-07
+1507,1240.0,P3713,Electronics,Tablet,3663.47,3663.47,7326.94,2,West,High,Completed,2025-04-23
+1508,1490.0,P9977,Groceries,Bread,3122.31,3122.31,18733.86,6,,Low,Cancelled,2025-08-29
+1509,1350.0,P5018,Sports,Cricket Bat,3371.98,3371.98,33719.8,10,South,High,Processing,2025-09-24
+1510,1256.0,P7630,Groceries,Bread,1707.95,1707.95,15371.55,9,North,Low,,2025-06-03
+1511,1433.0,P5075,Clothing,T-Shirt,4137.94,4137.94,37241.46,9,West,High,Completed,2025-04-25
+1512,1291.0,P2329,Sports,Dumbbells,1878.67,1878.67,13150.69,7,South,High,Processing,2025-08-03
+1513,1208.0,P3523,Electronics,Tablet,4638.01,4638.01,4638.01,1,West,Medium,Completed,2025-08-12
+1514,1451.0,P7493,Clothing,Jacket,679.31,679.31,2717.24,4,South,Medium,Processing,2025-09-07
+1515,1082.0,P7174,Furniture,Sofa,1291.86,1291.86,3875.58,3,North,High,Completed,2025-06-22
+1516,1460.0,P3488,Electronics,Laptop,835.23,835.23,5846.61,7,North,High,Processing,2025-09-10
+1517,1352.0,P6853,Furniture,Chair,754.07,754.07,4524.42,6,North,High,Pending,2025-12-14
+1518,1021.0,P4149,Clothing,Jacket,589.86,589.86,5898.6,10,South,Medium,Processing,2025-02-12
+1519,1037.0,P5660,Electronics,Tablet,3007.51,3007.51,30075.1,10,South,High,Processing,2025-09-27
+1520,1255.0,P5648,Sports,Tennis Racket,871.23,871.23,7841.07,9,North,Medium,Cancelled,2025-02-19
+1521,1157.0,P7571,Furniture,Desk,4070.33,4070.33,24421.98,6,West,High,Cancelled,2025-09-18
+1522,1080.0,P1962,Clothing,Jeans,1279.34,1279.34,3838.02,3,North,High,Completed,2025-12-27
+1523,1395.0,P6242,Groceries,Milk,831.7,831.7,1663.4,2,South,Low,Processing,2025-05-25
+1524,1155.0,P4436,Groceries,Eggs,700.83,700.83,6307.47,9,West,Low,Completed,2025-10-28
+1525,1026.0,P5131,Clothing,Jeans,2014.89,2014.89,12089.34,6,West,High,Processing,2025-02-03
+1526,1069.0,P7919,Groceries,Eggs,3940.25,3940.25,23641.5,6,East,Low,Pending,2025-08-19
+1527,1250.0,P6481,Electronics,Smartphone,4776.02,4776.02,33432.14,7,South,High,Pending,2025-02-17
+1528,1370.0,P1629,Furniture,Wardrobe,3059.22,3059.22,15296.1,5,North,Low,Cancelled,2025-04-14
+1529,1248.0,P9209,Clothing,Hoodie,1927.82,1927.82,1927.82,1,South,High,Pending,2025-02-23
+1530,1303.0,P4222,Clothing,Hoodie,1439.89,1439.89,10079.23,7,West,Low,Completed,2025-09-28
+1531,1023.0,P1293,Groceries,Oil,2780.9,2780.9,25028.1,9,West,Low,Completed,2025-08-22
+1532,1119.0,P4651,Groceries,Eggs,4652.34,4652.34,46523.4,10,West,Medium,Cancelled,2025-10-20
+1533,1203.0,P9695,Electronics,Smartphone,3375.32,3375.32,33753.2,10,South,High,Pending,2025-05-11
+1534,1491.0,P5483,Groceries,Milk,2045.2,2045.2,14316.4,7,West,High,Cancelled,2025-01-25
+1535,1274.0,P5711,Sports,Football,2533.51,2533.51,25335.1,10,North,High,Processing,2025-04-20
+1536,1351.0,P6386,Sports,Tennis Racket,968.46,968.46,3873.84,4,South,Medium,Completed,2025-01-08
+1537,1337.0,P5212,Electronics,Smartphone,4662.3,4662.3,23311.5,5,West,High,Processing,2025-03-28
+1538,1278.0,P2123,Furniture,Table,1871.01,1871.01,9355.05,5,North,High,Completed,2025-06-08
+1539,1059.0,P6530,Electronics,Smartphone,423.31,423.31,2116.55,5,North,Low,Processing,2025-04-02
+1540,1403.0,P2507,Sports,Football,2458.09,2458.09,24580.9,10,East,High,Processing,2025-05-23
+1541,1412.0,P2415,Furniture,Wardrobe,4730.21,4730.21,4730.21,1,North,High,Pending,2025-11-14
+1542,1246.0,P6757,Clothing,Jeans,2658.22,2658.22,23923.98,9,North,Medium,Processing,2025-04-10
+1543,1086.0,P8920,Groceries,Rice,4055.65,4055.65,28389.55,7,North,Low,Pending,2025-04-19
+1544,1329.0,P1687,Groceries,Oil,3877.11,3877.11,27139.77,7,North,Medium,Pending,2025-06-14
+1545,1174.0,P1121,Electronics,Monitor,1841.57,1841.57,11049.42,6,East,Medium,Completed,2025-11-29
+1546,1304.0,P9099,Furniture,Chair,3013.78,3013.78,27124.02,9,East,High,Completed,2025-03-01
+1547,1020.0,P1899,Clothing,Jeans,1629.09,1629.09,11403.63,7,East,Low,Pending,2025-05-31
+1548,1436.0,P2218,Clothing,Shoes,4996.48,4996.48,24982.4,5,East,High,Processing,2025-06-24
+1549,1168.0,P2524,Clothing,Jacket,2093.67,2093.67,2093.67,1,South,Low,Completed,2025-05-26
+1550,1163.0,P3992,Clothing,T-Shirt,566.27,566.27,2831.35,5,South,Low,Completed,2025-06-20
+1551,1468.0,P9993,Furniture,Chair,1454.92,1454.92,13094.28,9,East,Low,Cancelled,2025-10-05
+1552,1471.0,P2523,Electronics,Headphones,3786.28,3786.28,3786.28,1,East,Medium,Completed,2025-06-09
+1553,1055.0,P1696,Furniture,Chair,562.14,562.14,5621.4,10,West,Medium,Processing,2025-01-03
+1554,1459.0,P2343,Sports,Football,1394.98,1394.98,13949.8,10,East,High,Pending,2025-10-15
+1555,1112.0,P3075,Sports,Football,3191.11,3191.11,3191.11,1,South,Low,Pending,2025-08-29
+1556,1407.0,P4072,Groceries,Rice,3438.91,3438.91,17194.55,5,West,Low,Pending,2025-10-23
+1557,1423.0,P6640,Electronics,Headphones,1133.94,1133.94,7937.58,7,South,Medium,Processing,2025-04-09
+1558,1362.0,P9153,Sports,Tennis Racket,1419.87,1419.87,14198.7,10,North,High,Processing,2025-03-05
+1559,1095.0,P2965,Sports,Cricket Bat,3759.25,3759.25,11277.75,3,South,High,Completed,2025-10-23
+1560,1203.0,P4573,Furniture,Table,3749.91,3749.91,7499.82,2,East,High,Completed,2025-12-17
+1561,1055.0,P8324,Furniture,Chair,4166.86,4166.86,4166.86,1,South,High,Completed,2025-07-31
+1562,1266.0,P8264,Clothing,Jacket,4888.53,4888.53,34219.71,7,South,Low,Pending,2025-12-04
+1563,1251.0,P8167,Furniture,Desk,1830.57,1830.57,7322.28,4,North,Medium,Completed,2025-09-08
+1564,1269.0,P7773,Groceries,Eggs,877.16,877.16,877.16,1,North,Medium,Pending,2025-08-23
+1565,1403.0,P2069,Clothing,Jacket,967.59,967.59,967.59,1,West,Medium,Cancelled,2025-08-31
+1566,1494.0,P3628,Furniture,Desk,1084.53,1084.53,5422.65,5,,High,Processing,2025-09-02
+1567,1113.0,P9350,Furniture,Chair,3926.94,3926.94,31415.52,8,South,High,Cancelled,2025-07-16
+1568,1442.0,P6082,Clothing,Hoodie,1348.57,1348.57,2697.14,2,West,High,Completed,2025-05-20
+1569,1415.0,P9682,Sports,Football,1282.01,1282.01,6410.05,5,South,Low,Processing,2025-05-10
+1570,1394.0,P7876,Sports,Football,830.57,830.57,830.57,1,East,High,Processing,2025-06-17
+1571,1129.0,P5455,Furniture,Table,631.48,631.48,3157.4,5,South,Low,Processing,2025-08-06
+1572,1242.0,P5012,Sports,Dumbbells,2863.71,2863.71,5727.42,2,East,High,Cancelled,2025-07-14
+1573,1253.0,P1269,Clothing,Shoes,3818.74,3818.74,34368.66,9,North,High,Pending,2025-06-20
+1574,1212.0,P2189,Furniture,Desk,4346.1,4346.1,17384.4,4,North,Low,Processing,2025-08-28
+1575,1050.0,P1191,Furniture,Table,3716.32,3716.32,14865.28,4,West,High,Cancelled,2025-07-09
+1576,1473.0,P2946,Sports,Yoga Mat,4476.2,4476.2,8952.4,2,North,Medium,Pending,2025-06-24
+1577,1337.0,P1104,Electronics,Headphones,3476.08,3476.08,31284.72,9,West,High,Processing,2025-03-27
+1578,1474.0,P1001,Clothing,T-Shirt,534.68,534.68,5346.8,10,West,Low,Cancelled,2025-04-28
+1579,1379.0,P1349,Clothing,Shoes,2825.81,2825.81,8477.43,3,East,High,Pending,2025-01-14
+1580,1424.0,P3172,Furniture,Table,3713.63,3713.63,11140.89,3,East,Medium,Completed,2025-04-11
+1581,1372.0,P4345,Groceries,Milk,3131.37,3131.37,3131.37,1,East,Low,Cancelled,2025-03-02
+1582,,P7136,Groceries,Milk,3470.79,3470.79,10412.37,3,North,Low,Pending,2025-08-31
+1583,1038.0,P2776,Groceries,Rice,515.65,515.65,1546.95,3,West,High,Pending,2025-04-19
+1584,1461.0,P6407,Clothing,Hoodie,3597.24,3597.24,32375.16,9,West,High,Pending,2025-10-30
+1585,1162.0,P4508,Groceries,Eggs,943.46,943.46,7547.68,8,North,High,Processing,2025-05-23
+1586,1448.0,P3077,Clothing,Shoes,3885.53,3885.53,31084.24,8,North,High,Completed,2025-02-16
+1587,1378.0,P1865,Sports,Yoga Mat,2033.57,2033.57,20335.7,10,South,Low,Pending,2025-12-31
+1588,1279.0,P4956,Furniture,Table,4549.21,4549.21,40942.89,9,North,Medium,Completed,2025-11-07
+1589,1023.0,P4363,Clothing,Jacket,1727.17,1727.17,5181.51,3,South,High,Completed,2025-04-02
+1590,1370.0,P2313,Sports,Cricket Bat,3161.72,3161.72,6323.44,2,East,Medium,Pending,2025-08-05
+1591,1397.0,P1396,Clothing,Jacket,246.8,246.8,246.8,1,North,High,Cancelled,2025-01-14
+1592,1488.0,P8192,Furniture,Wardrobe,497.21,497.21,1988.84,4,East,High,Completed,2025-09-04
+1593,1331.0,P5786,Furniture,Sofa,1632.94,1632.94,3265.88,2,East,High,Completed,2025-09-16
+1594,1245.0,P9556,Sports,Cricket Bat,3041.71,3041.71,30417.1,10,North,High,Pending,2025-10-04
+1595,1195.0,P9309,Clothing,Hoodie,3146.11,3146.11,3146.11,1,West,Medium,Completed,2025-06-10
+1596,1194.0,P6594,Electronics,Monitor,339.38,339.38,1696.9,5,North,Medium,Cancelled,2025-05-06
+1597,1121.0,P5414,Sports,Cricket Bat,2085.4,2085.4,20854.0,10,South,Medium,Cancelled,2025-03-04
+1598,1193.0,P1645,Electronics,Tablet,1619.62,1619.62,4858.86,3,West,High,Processing,2025-10-23
+1599,1236.0,P1278,Furniture,Table,2109.9,2109.9,21099.0,10,South,High,Completed,2025-10-13
+1600,1130.0,P3035,Electronics,Tablet,4029.77,4029.77,8059.54,2,North,Medium,Cancelled,2025-07-20
+1601,1265.0,P4075,Furniture,Wardrobe,4747.38,4747.38,37979.04,8,North,Medium,Cancelled,2025-05-08
+1602,1205.0,P5835,Furniture,Table,3397.7,3397.7,10193.1,3,South,Low,Cancelled,2025-12-23
+1603,1388.0,P7033,Groceries,Bread,877.11,877.11,3508.44,4,West,High,Completed,2025-08-03
+1604,1150.0,P7387,Clothing,Jacket,502.62,502.62,502.62,1,South,Medium,Cancelled,2025-07-19
+1605,1189.0,P4063,Clothing,T-Shirt,1014.29,1014.29,4057.16,4,East,High,Completed,2025-12-12
+1606,1442.0,P9689,Electronics,Headphones,1948.63,1948.63,13640.41,7,North,High,Completed,2025-05-24
+1607,1092.0,P5512,Clothing,Jeans,2824.84,2824.84,25423.56,9,East,Low,Pending,2025-09-23
+1608,1353.0,P5746,Groceries,Oil,4175.59,4175.59,4175.59,1,North,Medium,Pending,2025-12-11
+1609,1425.0,P6162,Furniture,Table,1123.79,1123.79,6742.74,6,North,Medium,Pending,2025-04-10
+1610,1270.0,P3027,Furniture,Chair,541.28,541.28,5412.8,10,North,Low,Pending,2025-08-21
+1611,1111.0,P6292,Furniture,Wardrobe,547.95,547.95,2191.8,4,South,High,Processing,2025-09-10
+1612,1255.0,P6364,Electronics,Laptop,4785.43,4785.43,47854.3,10,West,High,Processing,2025-09-16
+1613,1006.0,P4419,Sports,Yoga Mat,3916.68,3916.68,35250.12,9,North,High,Completed,2025-01-05
+1614,1269.0,P5004,Clothing,Shoes,648.87,648.87,1946.61,3,West,Medium,Processing,2025-11-02
+1615,1492.0,P7807,Groceries,Bread,3673.38,3673.38,36733.8,10,North,Low,Pending,2025-03-03
+1616,1454.0,P6099,Groceries,Bread,3087.74,3087.74,18526.44,6,North,High,Cancelled,2025-03-10
+1617,1272.0,P1432,Electronics,Monitor,1531.99,1531.99,6127.96,4,South,Medium,Pending,2025-07-23
+1618,1259.0,P4934,Furniture,Table,4713.84,4713.84,47138.4,10,West,Medium,Cancelled,2025-11-05
+1619,1357.0,P5816,Clothing,Shoes,476.05,476.05,2380.25,5,South,Low,Processing,2025-01-19
+1620,1253.0,P8023,Electronics,Tablet,3189.34,3189.34,19136.04,6,West,Low,Completed,2025-05-02
+1621,1400.0,P1690,,Football,670.91,670.91,2012.73,3,South,High,Pending,2025-08-07
+1622,1419.0,P1446,Clothing,Shoes,2049.37,2049.37,20493.7,10,West,High,Processing,2025-02-15
+1623,1488.0,P4581,Electronics,Tablet,4707.52,4707.52,18830.08,4,East,Medium,Cancelled,2025-02-21
+1624,1293.0,P8950,Electronics,Headphones,2594.47,2594.47,7783.41,3,West,Low,Pending,2025-08-12
+1625,1384.0,P2897,Sports,Cricket Bat,4921.21,4921.21,24606.05,5,South,Medium,Completed,2025-05-29
+1626,1122.0,P9660,Sports,Yoga Mat,3923.19,3923.19,23539.14,6,South,Medium,Completed,2025-06-02
+1627,1028.0,P7071,Furniture,Table,3261.16,3261.16,32611.6,10,West,Low,Completed,2025-03-05
+1628,1363.0,P5740,Sports,Football,2586.26,2586.26,25862.6,10,East,Low,Pending,2025-10-25
+1629,1207.0,P7893,Electronics,Headphones,4960.28,4960.28,49602.8,10,West,Low,Cancelled,2025-03-26
+1630,1456.0,P3378,Sports,Dumbbells,3821.52,3821.52,30572.16,8,East,Low,Processing,2025-02-15
+1631,,P9199,Sports,Cricket Bat,819.97,819.97,8199.7,10,East,Low,Pending,2025-02-22
+1632,1400.0,P8043,Furniture,Table,630.94,630.94,2523.76,4,West,Low,Completed,2025-05-31
+1633,1080.0,P2928,Groceries,Oil,3528.42,3528.42,31755.78,9,West,Medium,Completed,2025-08-31
+1634,1483.0,P4737,Groceries,Milk,3771.46,3771.46,18857.3,5,South,Medium,Cancelled,2025-10-15
+1635,1429.0,P5664,Furniture,Wardrobe,778.76,778.76,7008.84,9,North,Medium,Processing,2025-01-09
+1636,1223.0,P9998,Electronics,Smartphone,4521.02,4521.02,45210.2,10,South,Medium,Cancelled,2025-11-09
+1637,1402.0,P7198,Sports,Cricket Bat,2227.31,2227.31,11136.55,5,East,Medium,Completed,2025-02-17
+1638,1345.0,P3387,Furniture,Chair,2852.79,2852.79,19969.53,7,South,Low,Cancelled,2025-02-20
+1639,1432.0,P5375,Sports,Tennis Racket,4904.32,4904.32,9808.64,2,West,Low,Pending,2025-05-09
+1640,1140.0,P1664,Furniture,Wardrobe,4001.79,4001.79,20008.95,5,North,High,Processing,2025-09-18
+1641,1308.0,P7378,Furniture,Chair,131.92,131.92,1187.28,9,North,High,Completed,2025-08-11
+1642,1099.0,P6486,Groceries,Oil,1090.09,1090.09,2180.18,2,North,High,Completed,2025-12-09
+1643,1151.0,P2198,Groceries,Oil,374.33,374.33,1871.65,5,East,High,Processing,2025-02-11
+1644,1447.0,P8263,Groceries,Milk,4328.2,4328.2,38953.8,9,West,Low,Pending,2025-04-11
+1645,1009.0,P8219,Electronics,Tablet,1180.5,1180.5,5902.5,5,West,Low,Cancelled,2025-05-19
+1646,1372.0,P7744,Groceries,Milk,385.09,385.09,3080.72,8,South,Low,Pending,2025-03-13
+1647,1372.0,P8768,Clothing,T-Shirt,2821.78,2821.78,5643.56,2,West,High,Pending,2025-09-09
+1648,1204.0,P9741,Sports,Dumbbells,427.29,427.29,2136.45,5,East,High,Pending,2025-01-12
+1649,1489.0,P6863,Furniture,Table,2323.95,2323.95,4647.9,2,South,High,Cancelled,2025-03-09
+1650,1006.0,P3691,Groceries,Rice,2389.24,2389.24,4778.48,2,North,High,Pending,2025-08-26
+1651,1423.0,P6206,Electronics,Headphones,651.84,651.84,4562.88,7,South,Medium,Processing,2025-05-02
+1652,1098.0,P2217,Sports,Dumbbells,4884.52,4884.52,34191.64,7,East,Medium,Cancelled,2025-03-04
+1653,1166.0,P7481,Sports,Football,3657.33,3657.33,10971.99,3,East,Low,Completed,2025-10-24
+1654,1232.0,P5098,Electronics,Headphones,1449.42,1449.42,1449.42,1,North,Medium,Processing,2025-05-02
+1655,1342.0,P4058,Sports,Football,4645.65,4645.65,37165.2,8,North,High,Pending,2025-09-13
+1656,1424.0,P4168,Electronics,Headphones,4481.9,4481.9,44819.0,10,East,Low,Processing,2025-10-02
+1657,1311.0,P7979,Furniture,Wardrobe,2776.01,2776.01,22208.08,8,South,Low,Pending,2025-12-18
+1658,1015.0,P8366,Electronics,Monitor,968.36,968.36,5810.16,6,North,Medium,Processing,2025-07-29
+1659,1441.0,P4865,Groceries,Rice,2322.51,2322.51,2322.51,1,West,Low,Pending,2025-07-26
+1660,1074.0,P3800,Electronics,Tablet,3846.23,3846.23,26923.61,7,South,High,Cancelled,2025-10-04
+1661,1448.0,P1243,Clothing,Jeans,522.33,522.33,3656.31,7,East,Low,Processing,2025-12-14
+1662,1268.0,P3854,Electronics,Tablet,2084.18,2084.18,6252.54,3,North,Low,Pending,2025-02-07
+1663,1489.0,P9753,Clothing,Hoodie,2049.86,2049.86,16398.88,8,East,High,Processing,2025-11-01
+1664,1488.0,P1619,Sports,Dumbbells,2755.1,2755.1,24795.9,9,East,High,Pending,2025-01-09
+1665,1129.0,P5781,Sports,Yoga Mat,4877.55,4877.55,48775.5,10,South,Medium,Cancelled,2025-12-21
+1666,1044.0,P8403,Sports,Dumbbells,2812.35,2812.35,5624.7,2,West,High,Processing,2025-11-28
+1667,1206.0,P8825,Electronics,Tablet,4625.88,4625.88,18503.52,4,South,Low,Pending,2025-10-06
+1668,1494.0,P8559,Electronics,Monitor,2314.83,2314.83,16203.81,7,West,Low,Processing,2025-02-09
+1669,1469.0,P9146,Groceries,Oil,834.59,834.59,8345.9,10,South,High,Cancelled,2025-10-22
+1670,1273.0,P9591,Sports,Dumbbells,1061.15,1061.15,1061.15,1,North,Medium,Pending,2025-11-26
+1671,1340.0,P6904,Furniture,Sofa,354.17,354.17,1770.85,5,West,Medium,Cancelled,2025-01-16
+1672,1144.0,P3882,Groceries,Oil,287.75,287.75,575.5,2,East,Medium,Cancelled,2025-03-27
+1673,1304.0,P3299,Clothing,Jeans,4677.73,4677.73,32744.11,7,East,Low,Cancelled,2025-08-24
+1674,1273.0,P5411,Furniture,Table,3206.35,3206.35,9619.05,3,West,High,Pending,2025-12-16
+1675,1085.0,P6371,Sports,Dumbbells,4679.23,4679.23,28075.38,6,South,Low,Cancelled,2025-07-27
+1676,1086.0,P3815,Groceries,Milk,4578.37,4578.37,27470.22,6,West,Low,Pending,2025-07-19
+1677,1115.0,P9265,Furniture,Sofa,2695.73,2695.73,16174.38,6,North,Low,Processing,2025-02-22
+1678,1135.0,P6314,Clothing,Jacket,225.73,225.73,1805.84,8,North,Low,Cancelled,2025-09-23
+1679,1100.0,P2965,Groceries,Bread,4141.82,4141.82,16567.28,4,North,High,Processing,2025-01-04
+1680,1427.0,P4866,Sports,Yoga Mat,907.59,907.59,3630.36,4,East,High,Completed,2025-09-25
+1681,1151.0,P6353,Clothing,Jeans,2033.2,2033.2,4066.4,2,East,High,Completed,2025-06-16
+1682,1244.0,P9593,Furniture,Table,1893.94,1893.94,7575.76,4,North,High,Processing,2025-08-03
+1683,1488.0,P2787,Groceries,Bread,324.38,324.38,3243.8,10,East,High,Completed,2025-05-17
+1684,1486.0,P9580,Clothing,Jeans,2337.5,2337.5,23375.0,10,West,Low,Completed,2025-09-28
+1685,1185.0,P9425,Sports,Cricket Bat,3813.05,3813.05,3813.05,1,East,Medium,Pending,2025-05-20
+1686,1030.0,P9297,Furniture,Sofa,2831.29,2831.29,19819.03,7,West,Medium,Processing,2025-08-02
+1687,1362.0,P6526,Clothing,Jacket,4326.7,4326.7,12980.1,3,East,Low,Cancelled,2025-09-10
+1688,1431.0,P3912,Sports,Yoga Mat,4826.22,4826.22,28957.32,6,South,Medium,Completed,2025-12-31
+1689,1478.0,P1645,Electronics,Headphones,4928.39,4928.39,4928.39,1,North,High,Cancelled,2025-03-11
+1690,1491.0,P2896,Clothing,Jeans,2973.02,2973.02,11892.08,4,East,Medium,Completed,2025-02-07
+1691,1268.0,P7974,Furniture,Chair,1687.49,1687.49,13499.92,8,South,Low,Completed,2025-01-18
+1692,1316.0,P9038,Clothing,Jacket,1493.38,1493.38,13440.42,9,South,Medium,Pending,2025-09-26
+1693,1330.0,P1104,Groceries,Eggs,4504.46,4504.46,36035.68,8,South,Medium,Pending,2025-05-30
+1694,1112.0,P3832,Clothing,Jacket,1124.84,1124.84,2249.68,2,North,Low,Pending,2025-09-27
+1695,1450.0,P1116,Furniture,Chair,718.85,718.85,7188.5,10,East,Low,Completed,2025-03-15
+1696,1126.0,P9020,Electronics,Headphones,3717.65,3717.65,7435.3,2,South,High,Processing,2025-09-24
+1697,1266.0,P8471,Clothing,T-Shirt,2709.31,2709.31,21674.48,8,South,High,Cancelled,2025-07-26
+1698,1322.0,P3222,Groceries,Eggs,1672.16,1672.16,10032.96,6,West,High,Completed,2025-10-15
+1699,1380.0,P4950,Clothing,Jeans,3131.2,3131.2,28180.8,9,North,Medium,Completed,2025-12-09
+1700,1241.0,P8490,Sports,Cricket Bat,3619.62,3619.62,7239.24,2,South,High,Processing,2025-11-27
+1701,1167.0,P3542,Furniture,Wardrobe,3311.44,3311.44,9934.32,3,South,Low,Processing,2025-01-15
+1702,1438.0,P5967,Furniture,Chair,3690.75,3690.75,22144.5,6,South,Low,Pending,2025-12-03
+1703,1494.0,P9850,Furniture,Table,1693.0,1693.0,10158.0,6,South,Medium,Cancelled,2025-12-26
+1704,1113.0,P7440,Clothing,Shoes,698.57,698.57,5588.56,8,East,High,Completed,2025-09-10
+1705,1416.0,P9161,Sports,Tennis Racket,1379.09,1379.09,6895.45,5,North,High,Processing,2025-10-23
+1706,1090.0,P3655,Sports,Dumbbells,2250.1,2250.1,6750.3,3,North,Medium,Pending,2025-10-20
+1707,1110.0,P6355,Sports,Yoga Mat,3822.75,3822.75,30582.0,8,South,Low,Pending,2025-02-27
+1708,1407.0,P1889,Furniture,Table,237.58,237.58,475.16,2,South,High,Completed,2025-03-10
+1709,1416.0,P8628,Electronics,Tablet,3828.88,3828.88,30631.04,8,West,Medium,Pending,2025-11-07
+1710,1274.0,P1997,Clothing,Hoodie,1851.08,1851.08,7404.32,4,North,High,Completed,2025-11-23
+1711,1042.0,P6254,Clothing,Jacket,1257.81,1257.81,8804.67,7,North,Medium,Completed,2025-11-27
+1712,1012.0,P3743,Clothing,Jeans,4775.06,4775.06,47750.6,10,East,Low,Completed,2025-02-17
+1713,1445.0,P4159,Electronics,Tablet,1074.31,1074.31,5371.55,5,North,Low,Pending,2025-12-01
+1714,1108.0,P9189,Electronics,Monitor,2136.36,2136.36,17090.88,8,North,Low,Completed,2025-02-12
+1715,1060.0,P2934,Furniture,Desk,337.24,337.24,1011.72,3,West,Medium,Processing,2025-03-19
+1716,1058.0,P2712,Furniture,Chair,664.31,664.31,1328.62,2,South,High,Completed,2025-03-01
+1717,1371.0,P9669,Electronics,Monitor,3636.19,3636.19,29089.52,8,West,High,Pending,2025-03-11
+1718,1221.0,P4414,Sports,Cricket Bat,281.41,281.41,2814.1,10,North,Low,Pending,2025-04-09
+1719,1392.0,P3885,Groceries,Bread,3905.58,3905.58,7811.16,2,North,High,Cancelled,2025-03-18
+1720,1473.0,P1143,Electronics,Monitor,3446.9,3446.9,31022.1,9,East,High,Pending,2025-03-13
+1721,1100.0,P7008,Sports,Tennis Racket,1940.33,1940.33,1940.33,1,East,Low,Processing,2025-10-30
+1722,1292.0,P3100,Electronics,Laptop,4046.27,4046.27,16185.08,4,West,High,Completed,2025-12-08
+1723,1218.0,P6351,Furniture,Desk,681.39,681.39,3406.95,5,East,Medium,Cancelled,2025-04-08
+1724,1455.0,P3558,Furniture,Table,4247.08,4247.08,21235.4,5,North,High,Processing,2025-02-08
+1725,1246.0,P9107,Electronics,Headphones,703.25,703.25,7032.5,10,East,High,Pending,2025-03-24
+1726,1219.0,P1366,Sports,Dumbbells,401.44,401.44,802.88,2,West,High,Pending,2025-08-09
+1727,1164.0,P3598,Furniture,Sofa,2702.13,2702.13,5404.26,2,North,High,Cancelled,2025-06-25
+1728,1186.0,P7644,Electronics,Smartphone,387.37,387.37,387.37,1,West,Low,Processing,2025-11-12
+1729,1034.0,P6702,Clothing,Shoes,4475.91,4475.91,22379.55,5,East,Medium,Processing,2025-11-15
+1730,1429.0,P8565,Furniture,Table,1331.28,1331.28,2662.56,2,West,High,Completed,2025-03-12
+1731,1063.0,P1436,Electronics,Monitor,391.05,391.05,782.1,2,West,Low,Pending,2025-09-21
+1732,1083.0,P1698,Electronics,Headphones,2053.33,2053.33,4106.66,2,North,Low,Completed,2025-09-08
+1733,1445.0,P6615,Clothing,Shoes,626.27,626.27,6262.7,10,North,Medium,Completed,2025-01-16
+1734,1127.0,P4755,Furniture,Wardrobe,308.01,308.01,2464.08,8,East,High,Completed,2025-02-22
+1735,1154.0,P7563,Clothing,Jacket,4852.85,4852.85,24264.25,5,South,High,Pending,2025-09-09
+1736,1273.0,P6821,Electronics,Laptop,2869.14,2869.14,8607.42,3,West,Medium,Processing,2025-06-28
+1737,,P4259,Sports,Tennis Racket,2531.25,2531.25,10125.0,4,South,Low,Processing,2025-03-03
+1738,1224.0,P2293,Furniture,Desk,4617.65,4617.65,32323.55,7,East,Low,Completed,2025-07-21
+1739,1017.0,P5358,Sports,Cricket Bat,4170.4,4170.4,33363.2,8,West,Medium,Processing,2025-01-10
+1740,1387.0,P2908,Electronics,Tablet,4828.9,4828.9,48289.0,10,North,Medium,,2025-01-13
+1741,1384.0,P4865,Groceries,Rice,4578.25,4578.25,4578.25,1,North,Low,Cancelled,2025-01-11
+1742,1402.0,P5186,Sports,Football,1643.73,1643.73,3287.46,2,North,Low,Cancelled,2025-06-12
+1743,1271.0,P4664,Sports,Yoga Mat,4653.38,4653.38,32573.66,7,North,High,Processing,2025-11-07
+1744,1309.0,P5794,Sports,Yoga Mat,3457.26,3457.26,24200.82,7,North,Medium,Processing,2025-07-15
+1745,1249.0,P5360,Electronics,Smartphone,1159.79,1159.79,5798.95,5,South,High,Pending,2025-01-26
+1746,1303.0,P2866,Clothing,Shoes,996.78,996.78,8971.02,9,West,High,Completed,2025-12-09
+1747,1110.0,P9447,Clothing,Jeans,4428.78,4428.78,13286.34,3,West,Low,Pending,2025-01-14
+1748,1341.0,P5251,Electronics,Laptop,2112.64,2112.64,6337.92,3,North,Low,Completed,2025-12-05
+1749,1263.0,P8349,Furniture,Sofa,3453.3,3453.3,34533.0,10,South,High,Completed,2025-10-20
+1750,1321.0,P5747,Groceries,Rice,3681.69,3681.69,33135.21,9,North,High,Processing,2025-09-15
+1751,1232.0,P6833,Clothing,Jacket,2722.01,2722.01,8166.03,3,South,Low,Processing,2025-03-03
+1752,1089.0,P1420,Sports,Tennis Racket,2244.57,2244.57,2244.57,1,East,Low,Completed,2025-10-04
+1753,1432.0,P2394,Groceries,Eggs,1668.97,1668.97,3337.94,2,East,Low,Processing,2025-04-03
+1754,1346.0,P5430,Electronics,Laptop,4677.33,4677.33,42095.97,9,South,Low,,2025-09-13
+1755,1483.0,P8817,Sports,Dumbbells,837.14,837.14,5859.98,7,North,Medium,Completed,2025-10-24
+1756,1464.0,P7938,Sports,Tennis Racket,1223.75,1223.75,2447.5,2,North,Medium,Processing,2025-05-13
+1757,1250.0,P4672,Electronics,Headphones,4507.98,4507.98,18031.92,4,East,Low,Processing,2025-04-01
+1758,1409.0,P7523,Clothing,T-Shirt,3917.25,3917.25,31338.0,8,South,Medium,Completed,2025-10-25
+1759,1193.0,P5073,Sports,Yoga Mat,3539.85,3539.85,17699.25,5,East,Low,Processing,2025-11-09
+1760,1034.0,P3505,Electronics,Tablet,2319.99,2319.99,11599.95,5,East,High,Processing,2025-03-19
+1761,1390.0,P7662,Furniture,Table,4908.01,4908.01,29448.06,6,East,Low,Pending,2025-10-24
+1762,1274.0,P9221,Electronics,Monitor,4841.54,4841.54,19366.16,4,South,Low,Completed,2025-05-17
+1763,1078.0,P9637,Groceries,Milk,4926.56,4926.56,34485.92,7,West,Low,Completed,2025-09-03
+1764,1154.0,P2850,Groceries,Rice,3153.87,3153.87,6307.74,2,South,Medium,Pending,2025-02-15
+1765,1369.0,P1006,Furniture,Desk,629.01,629.01,2516.04,4,East,High,Pending,2025-09-01
+1766,1206.0,P1359,Electronics,Tablet,1673.97,1673.97,15065.73,9,South,Medium,Cancelled,2025-02-18
+1767,1050.0,P1517,Clothing,Shoes,808.76,808.76,1617.52,2,South,Low,Cancelled,2025-11-12
+1768,1433.0,P8933,Clothing,T-Shirt,3959.72,3959.72,27718.04,7,North,Low,Pending,2025-07-25
+1769,1022.0,P1046,Clothing,Hoodie,2737.38,2737.38,24636.42,9,West,Medium,Pending,2025-11-19
+1770,1265.0,P2713,Electronics,Tablet,490.14,490.14,2450.7,5,South,Medium,Pending,2025-07-31
+1771,1316.0,P5079,Groceries,Eggs,4741.21,4741.21,42670.89,9,West,Low,Processing,2025-08-05
+1772,1457.0,P6362,Clothing,Hoodie,1967.7,1967.7,9838.5,5,East,Low,Cancelled,2025-12-19
+1773,1370.0,P3958,Clothing,T-Shirt,642.17,642.17,6421.7,10,North,Low,Processing,2025-03-11
+1774,1023.0,P2153,Clothing,Jeans,3515.26,3515.26,24606.82,7,West,High,Processing,2025-12-22
+1775,1414.0,P7901,Electronics,Smartphone,4179.37,4179.37,37614.33,9,East,High,Processing,2025-10-12
+1776,1191.0,P7209,Furniture,Chair,2621.87,2621.87,13109.35,5,West,High,Completed,2025-06-17
+1777,1414.0,P9689,Electronics,Monitor,3314.71,3314.71,33147.1,10,East,High,Completed,2025-06-04
+1778,1315.0,P9151,Clothing,Shoes,4993.34,4993.34,24966.7,5,West,High,Cancelled,2025-10-13
+1779,1217.0,P9028,Groceries,Bread,892.96,892.96,4464.8,5,West,Medium,Completed,2025-06-11
+1780,1494.0,P9297,Sports,Yoga Mat,3934.33,3934.33,19671.65,5,North,Medium,Pending,2025-06-13
+1781,1402.0,P4019,Furniture,Sofa,1364.63,1364.63,9552.41,7,West,Medium,Cancelled,2025-07-15
+1782,1312.0,P1879,Electronics,Laptop,2042.8,2042.8,12256.8,6,North,Low,Processing,2025-11-06
+1783,1093.0,P8404,Furniture,Table,680.23,680.23,2040.69,3,West,Medium,Processing,2025-05-31
+1784,1035.0,P2698,Clothing,Shoes,758.25,758.25,4549.5,6,North,High,Cancelled,2025-11-10
+1785,1274.0,P7361,Electronics,Laptop,1925.3,1925.3,17327.7,9,North,High,Completed,2025-05-09
+1786,1365.0,P3094,Electronics,Headphones,2985.17,2985.17,20896.19,7,South,High,Pending,2025-09-04
+1787,1477.0,P1223,Sports,Dumbbells,4424.14,4424.14,26544.84,6,East,Medium,Pending,2025-08-16
+1788,1076.0,P3697,Groceries,Bread,4278.43,4278.43,29949.01,7,North,High,Cancelled,2025-02-08
+1789,1357.0,P7322,Furniture,Desk,1776.54,1776.54,12435.78,7,North,Medium,Cancelled,2025-06-27
+1790,1159.0,P4810,Furniture,Sofa,4918.67,4918.67,44268.03,9,East,Medium,Cancelled,2025-03-31
+1791,1157.0,P5672,Clothing,T-Shirt,254.03,254.03,1778.21,7,West,Medium,Pending,2025-05-11
+1792,1479.0,P8331,Furniture,Chair,645.88,645.88,2583.52,4,East,Low,Processing,2025-03-20
+1793,1125.0,P3725,Sports,Football,2308.68,2308.68,16160.76,7,West,High,Completed,2025-04-16
+1794,1460.0,P1206,Furniture,Wardrobe,2740.59,2740.59,8221.77,3,North,High,Processing,2025-02-07
+1795,1198.0,P4760,Furniture,Chair,1349.16,1349.16,5396.64,4,East,Low,Pending,2025-01-17
+1796,1452.0,P1585,Clothing,Hoodie,4479.59,4479.59,26877.54,6,North,Low,Completed,2025-04-28
+1797,1464.0,P7962,Groceries,Eggs,2423.44,2423.44,12117.2,5,East,High,Cancelled,2025-09-21
+1798,1135.0,P9711,Clothing,Jacket,4592.27,4592.27,27553.62,6,South,Low,Cancelled,2025-05-14
+1799,1361.0,P2755,Electronics,Headphones,3053.56,3053.56,12214.24,4,North,Low,Cancelled,2025-08-19
+1800,1492.0,P5185,Furniture,Wardrobe,704.33,704.33,6338.97,9,West,Low,Processing,2025-08-22
+1801,1307.0,P6152,Sports,Dumbbells,2621.01,2621.01,7863.03,3,West,Low,Pending,2025-12-20
+1802,1071.0,P4810,Groceries,Rice,1443.78,1443.78,11550.24,8,North,High,Processing,2025-12-15
+1803,1333.0,P8365,Clothing,Jeans,1412.22,1412.22,5648.88,4,South,Low,Pending,2025-10-13
+1804,1331.0,P9191,Furniture,Wardrobe,3982.51,3982.51,11947.53,3,North,Medium,Pending,2025-02-27
+1805,1474.0,P4474,Sports,Cricket Bat,4918.69,4918.69,44268.21,9,South,High,Completed,2025-09-21
+1806,,P2032,Electronics,Laptop,173.02,173.02,692.08,4,West,Medium,Processing,2025-03-31
+1807,1431.0,P8878,Groceries,Rice,322.02,322.02,322.02,1,West,High,Completed,2025-09-18
+1808,1197.0,P5731,Sports,Football,4107.37,4107.37,16429.48,4,North,Low,Pending,2025-07-10
+1809,1484.0,P9361,Sports,Tennis Racket,4649.93,4649.93,18599.72,4,North,Medium,Cancelled,2025-11-25
+1810,1159.0,P6183,Groceries,Oil,3243.42,3243.42,12973.68,4,North,High,Completed,2025-06-11
+1811,1002.0,P5570,Furniture,Chair,2339.52,2339.52,16376.64,7,East,Low,Processing,2025-04-04
+1812,1222.0,P7388,Groceries,Rice,1723.9,1723.9,1723.9,1,West,Medium,Completed,2025-08-12
+1813,1154.0,P2479,Electronics,Laptop,4534.44,4534.44,31741.08,7,South,Medium,Completed,2025-07-09
+1814,1419.0,P5405,Groceries,Oil,1687.26,1687.26,11810.82,7,West,High,Completed,2025-11-11
+1815,1281.0,P3307,Clothing,Hoodie,3825.02,3825.02,26775.14,7,West,Low,Processing,2025-08-03
+1816,1120.0,P9520,Furniture,Desk,3073.97,3073.97,3073.97,1,North,Medium,Processing,2025-09-28
+1817,1220.0,P8430,Sports,Football,1884.01,1884.01,11304.06,6,North,Low,Processing,2025-10-30
+1818,1012.0,P3174,Groceries,Rice,3496.75,3496.75,13987.0,4,West,Low,Cancelled,2025-03-06
+1819,1008.0,P2288,Groceries,Oil,2928.83,2928.83,8786.49,3,North,Low,Cancelled,2025-07-14
+1820,1262.0,P2929,Furniture,Chair,3941.43,3941.43,23648.58,6,West,Medium,Processing,2025-06-21
+1821,1152.0,P4029,Clothing,T-Shirt,3387.72,3387.72,10163.16,3,North,High,Pending,2025-09-07
+1822,1482.0,P5362,Clothing,T-Shirt,3081.9,3081.9,30819.0,10,South,High,Pending,2025-07-26
+1823,1231.0,P5330,Sports,Yoga Mat,1737.91,1737.91,17379.1,10,East,Medium,Pending,2025-02-08
+1824,1249.0,P1743,Electronics,Monitor,1798.4,1798.4,8992.0,5,East,Medium,Pending,2025-07-10
+1825,,P1295,Electronics,Monitor,793.53,793.53,4761.18,6,North,High,Processing,2025-09-12
+1826,1088.0,P3228,Furniture,Sofa,2109.04,2109.04,2109.04,1,East,Medium,Pending,2025-08-24
+1827,1455.0,P5587,Sports,Cricket Bat,4605.76,4605.76,46057.6,10,North,High,Completed,2025-06-17
+1828,1083.0,P8415,Groceries,Oil,3294.55,3294.55,29650.95,9,South,High,Pending,2025-04-04
+1829,1004.0,P1965,Groceries,Rice,2008.48,2008.48,18076.32,9,East,Low,Completed,2025-07-11
+1830,1092.0,P2789,Electronics,Laptop,2914.37,2914.37,2914.37,1,North,Medium,Pending,2025-11-09
+1831,1117.0,P8218,Groceries,Rice,3762.9,3762.9,3762.9,1,North,Low,Pending,2025-07-05
+1832,1304.0,P1240,Furniture,Chair,260.86,260.86,521.72,2,North,Medium,Cancelled,2025-08-09
+1833,1365.0,P5801,Electronics,Monitor,2912.61,2912.61,14563.05,5,South,Low,Pending,2025-10-15
+1834,1294.0,P7752,Sports,Dumbbells,2394.79,2394.79,23947.9,10,East,High,Cancelled,2025-10-12
+1835,1492.0,P9432,Clothing,Shoes,3853.36,3853.36,26973.52,7,,Medium,Pending,2025-02-15
+1836,1133.0,P3518,Clothing,Hoodie,504.95,504.95,1009.9,2,East,Low,Processing,2025-01-19
+1837,1498.0,P6897,Furniture,Table,436.73,436.73,2183.65,5,West,Medium,Pending,2025-04-20
+1838,1442.0,P9940,Clothing,Jeans,2161.32,2161.32,2161.32,1,West,High,Processing,2025-07-27
+1839,1457.0,P9879,Groceries,Milk,2982.6,2982.6,11930.4,4,South,Low,,2025-05-09
+1840,1497.0,P7650,Furniture,Sofa,4020.99,4020.99,28146.93,7,South,Low,Completed,2025-11-19
+1841,1361.0,P6899,Clothing,Jacket,360.06,360.06,2880.48,8,West,Low,Cancelled,2025-05-22
+1842,1106.0,P1159,Clothing,T-Shirt,1884.69,1884.69,13192.83,7,North,Low,Cancelled,2025-03-23
+1843,1342.0,P2666,Clothing,T-Shirt,308.28,308.28,1541.4,5,South,High,Completed,2025-01-15
+1844,1308.0,P1312,,Headphones,3916.65,3916.65,27416.55,7,South,Medium,Cancelled,2025-02-18
+1845,,P7077,Groceries,Eggs,364.52,364.52,1093.56,3,South,Medium,Cancelled,2025-03-28
+1846,1070.0,P6140,Electronics,Smartphone,4991.23,4991.23,9982.46,2,East,High,Completed,2025-12-08
+1847,1164.0,P4515,Furniture,Desk,3821.78,3821.78,3821.78,1,South,Medium,Cancelled,2025-02-10
+1848,1023.0,P9066,Groceries,Oil,1764.94,1764.94,14119.52,8,North,Medium,Pending,2025-05-25
+1849,1363.0,P6999,Furniture,Desk,3015.31,3015.31,3015.31,1,North,High,Completed,2025-07-01
+1850,1319.0,P5981,Electronics,Laptop,4914.58,4914.58,24572.9,5,North,High,Completed,2025-12-13
+1851,1220.0,P5656,Electronics,Tablet,1806.23,1806.23,1806.23,1,North,High,Cancelled,2025-04-20
+1852,1316.0,P9936,Sports,Football,4781.52,4781.52,28689.12,6,East,Medium,Pending,2025-11-12
+1853,1199.0,P1971,Clothing,Hoodie,1768.29,1768.29,1768.29,1,West,Medium,Completed,2025-07-05
+1854,1038.0,P8196,Electronics,Headphones,2898.85,2898.85,26089.65,9,West,Medium,Completed,2025-01-31
+1855,1340.0,P5734,Furniture,Desk,2554.67,2554.67,7664.01,3,East,Low,Cancelled,2025-04-22
+1856,1194.0,P3575,Furniture,Chair,113.62,113.62,908.96,8,East,Medium,Completed,2025-08-23
+1857,1253.0,P7217,Furniture,Table,3201.13,3201.13,3201.13,1,East,Medium,Pending,2025-02-07
+1858,1131.0,P2001,Groceries,Milk,1500.76,1500.76,12006.08,8,South,Low,Pending,2025-10-03
+1859,1008.0,P1523,Furniture,Table,1607.8,1607.8,3215.6,2,North,Low,Processing,2025-02-05
+1860,1468.0,P5149,Electronics,Tablet,1297.0,1297.0,11673.0,9,South,High,Pending,2025-10-12
+1861,1407.0,P1106,Electronics,Laptop,1981.73,1981.73,15853.84,8,East,Low,Cancelled,2025-04-23
+1862,1405.0,P8391,Groceries,Bread,3795.76,3795.76,37957.6,10,East,Low,Pending,2025-10-12
+1863,1160.0,P1760,Electronics,Smartphone,3007.75,3007.75,30077.5,10,South,High,Processing,2025-08-05
+1864,1190.0,P4056,Furniture,Chair,4435.25,4435.25,13305.75,3,North,Medium,Processing,2025-08-23
+1865,1465.0,P2488,Groceries,Rice,3505.02,3505.02,10515.06,3,East,High,Pending,2025-01-01
+1866,1491.0,P3800,Sports,Football,986.57,986.57,6905.99,7,North,Medium,Completed,2025-12-25
+1867,1188.0,P8106,Sports,Dumbbells,4558.32,4558.32,4558.32,1,North,High,Processing,2025-12-18
+1868,1042.0,P6127,Furniture,Wardrobe,1920.0,1920.0,17280.0,9,West,Low,Processing,2025-10-09
+1869,1363.0,P6565,Furniture,Chair,1970.43,1970.43,17733.87,9,South,Medium,Pending,2025-01-23
+1870,1261.0,P8857,Electronics,Monitor,4897.54,4897.54,48975.4,10,South,Low,Cancelled,2025-03-21
+1871,1071.0,P8811,Clothing,Jacket,4344.54,4344.54,8689.08,2,South,High,Completed,2025-09-21
+1872,1066.0,P4746,Furniture,Wardrobe,1147.38,1147.38,5736.9,5,South,Low,Pending,2025-10-02
+1873,1143.0,P3157,Electronics,Tablet,534.53,534.53,2672.65,5,North,High,Processing,2025-09-07
+1874,1006.0,P1213,Clothing,Hoodie,3051.97,3051.97,12207.88,4,South,High,Pending,2025-12-25
+1875,1437.0,P8191,Electronics,Tablet,4691.81,4691.81,14075.43,3,West,Medium,Pending,2025-04-23
+1876,1461.0,P3140,Electronics,Smartphone,1927.36,1927.36,7709.44,4,North,Medium,Cancelled,2025-01-22
+1877,1350.0,P1941,Electronics,Headphones,1341.98,1341.98,5367.92,4,East,Low,Pending,2025-01-02
+1878,1050.0,P4674,Groceries,Eggs,2352.03,2352.03,16464.21,7,South,High,Completed,2025-10-27
+1879,1153.0,P1669,Furniture,Wardrobe,539.33,539.33,1078.66,2,South,Low,Pending,2025-08-29
+1880,1035.0,P7420,Electronics,Laptop,1391.99,1391.99,12527.91,9,South,High,Completed,2025-05-22
+1881,1029.0,P7038,Furniture,Chair,2157.02,2157.02,2157.02,1,West,Medium,Processing,2025-09-14
+1882,1044.0,P7450,Electronics,Headphones,1245.95,1245.95,8721.65,7,East,Medium,Completed,2025-03-20
+1883,1336.0,P8069,Clothing,Hoodie,1506.0,1506.0,7530.0,5,West,High,Cancelled,2025-06-03
+1884,,P7175,Sports,Cricket Bat,3614.67,3614.67,36146.7,10,South,Medium,Pending,2025-08-02
+1885,1046.0,P3406,Furniture,Table,1988.17,1988.17,13917.19,7,East,High,Processing,2025-03-02
+1886,1165.0,P3478,Furniture,Sofa,4710.11,4710.11,42390.99,9,North,Low,Completed,2025-12-23
+1887,1317.0,P7677,Sports,Yoga Mat,4750.8,4750.8,47508.0,10,South,Low,Pending,2025-12-18
+1888,1195.0,P4293,Clothing,T-Shirt,3324.27,3324.27,33242.7,10,East,High,Pending,2025-12-16
+1889,1342.0,P9710,Clothing,Shoes,4873.13,4873.13,14619.39,3,South,High,Pending,2025-07-07
+1890,1124.0,P6993,Clothing,Jeans,4751.88,4751.88,4751.88,1,West,Medium,Completed,2025-12-20
+1891,1470.0,P5400,Clothing,Jacket,1912.0,1912.0,15296.0,8,West,Medium,Processing,2025-07-19
+1892,1172.0,P6906,Groceries,Oil,3589.32,3589.32,17946.6,5,South,Medium,Cancelled,2025-11-22
+1893,1198.0,P9237,Sports,Yoga Mat,4956.53,4956.53,24782.65,5,West,High,Processing,2025-07-21
+1894,1147.0,P9773,Furniture,Sofa,719.72,719.72,2159.16,3,North,Low,Cancelled,2025-06-25
+1895,1390.0,P3336,Sports,Tennis Racket,2589.42,2589.42,15536.52,6,East,Medium,Processing,2025-04-05
+1896,1437.0,P1221,Groceries,Bread,4236.77,4236.77,12710.31,3,West,Medium,Pending,2025-02-27
+1897,1137.0,P3007,Furniture,Sofa,3906.91,3906.91,39069.1,10,East,High,Cancelled,2025-03-02
+1898,1419.0,P6189,Sports,Dumbbells,1057.53,1057.53,3172.59,3,East,High,Completed,2025-08-01
+1899,1054.0,P1296,Groceries,Oil,2121.98,2121.98,16975.84,8,North,Low,Completed,2025-04-26
+1900,1478.0,P7035,Groceries,Oil,4127.56,4127.56,12382.68,3,West,High,Cancelled,2025-03-14
+1901,1222.0,P9281,Clothing,Jeans,1124.66,1124.66,5623.3,5,West,Medium,Cancelled,2025-04-01
+1902,1495.0,P1414,Groceries,Rice,650.9,650.9,2603.6,4,West,Medium,Pending,2025-11-26
+1903,1221.0,P6307,Furniture,Desk,2367.72,2367.72,7103.16,3,West,High,Pending,2025-10-23
+1904,1424.0,P6850,Groceries,Rice,646.23,646.23,646.23,1,South,Medium,Completed,2025-11-27
+1905,1024.0,P3490,Electronics,Tablet,1694.87,1694.87,15253.83,9,West,Low,Pending,2025-12-04
+1906,1340.0,P4192,Furniture,Chair,1615.02,1615.02,9690.12,6,North,Medium,Completed,2025-08-26
+1907,1406.0,P4565,Sports,Tennis Racket,1210.87,1210.87,12108.7,10,West,Low,Completed,2025-12-21
+1908,1102.0,P6666,Groceries,Milk,4551.32,4551.32,18205.28,4,East,Low,Pending,2025-03-04
+1909,1331.0,P8940,Sports,Yoga Mat,962.45,962.45,962.45,1,South,Medium,Pending,2025-11-04
+1910,1076.0,P8253,Clothing,Hoodie,1826.02,1826.02,7304.08,4,South,Low,Pending,2025-05-01
+1911,1187.0,P4638,Sports,Dumbbells,3078.83,3078.83,3078.83,1,East,High,Pending,2025-05-28
+1912,1498.0,P7506,Furniture,Desk,2191.43,2191.43,19722.87,9,North,High,Processing,2025-06-29
+1913,1404.0,P9284,Electronics,Monitor,1018.44,1018.44,10184.4,10,South,High,Processing,2025-09-12
+1914,1203.0,P4641,Electronics,Laptop,169.38,169.38,338.76,2,South,Low,Completed,2025-03-21
+1915,1441.0,P7595,Groceries,Eggs,4622.91,4622.91,23114.55,5,West,High,Cancelled,2025-10-01
+1916,1354.0,P3320,Groceries,Bread,742.02,742.02,2968.08,4,South,Low,Completed,2025-04-21
+1917,1287.0,P3527,Electronics,Monitor,1530.98,1530.98,4592.94,3,South,High,Cancelled,2025-06-27
+1918,1109.0,P1807,Groceries,Rice,1947.43,1947.43,19474.3,10,West,High,Processing,2025-06-22
+1919,1029.0,P9057,Furniture,Chair,4289.91,4289.91,8579.82,2,East,High,Pending,2025-09-30
+1920,1487.0,P2999,Electronics,Headphones,3378.11,3378.11,13512.44,4,East,High,Completed,2025-10-14
+1921,1339.0,P5699,Electronics,Smartphone,3896.36,3896.36,11689.08,3,,High,Processing,2025-07-25
+1922,1024.0,P5119,Clothing,Shoes,409.96,409.96,2049.8,5,North,High,Completed,2025-09-01
+1923,1040.0,P6606,Clothing,T-Shirt,2197.78,2197.78,10988.9,5,East,Medium,Cancelled,2025-02-06
+1924,1370.0,P4465,Electronics,Monitor,4673.39,4673.39,9346.78,2,East,Medium,Processing,2025-10-23
+1925,1010.0,P8120,Clothing,Jeans,394.97,394.97,394.97,1,South,Low,Completed,2025-03-12
+1926,1070.0,P2471,Electronics,Monitor,4347.7,4347.7,34781.6,8,South,Medium,Completed,2025-02-19
+1927,1207.0,P8436,Furniture,Wardrobe,1293.89,1293.89,9057.23,7,West,High,Processing,2025-11-14
+1928,1119.0,P4037,Furniture,Chair,908.37,908.37,7266.96,8,,Medium,Processing,2025-09-05
+1929,1274.0,P9924,Electronics,Headphones,4799.8,4799.8,47998.0,10,West,Medium,Pending,2025-09-29
+1930,1060.0,P7262,Furniture,Wardrobe,4510.54,4510.54,22552.7,5,East,Medium,Pending,2025-04-14
+1931,1172.0,P3042,Electronics,Monitor,3393.36,3393.36,33933.6,10,South,High,Pending,2025-11-23
+1932,1249.0,P5461,Electronics,Monitor,439.34,439.34,439.34,1,East,Low,Processing,2025-06-28
+1933,1072.0,P8606,Clothing,Shoes,133.75,133.75,133.75,1,West,Medium,Cancelled,2025-01-01
+1934,1230.0,P6071,Sports,Yoga Mat,2532.42,2532.42,12662.1,5,North,Medium,Pending,2025-10-21
+1935,1440.0,P1377,Groceries,Bread,2190.49,2190.49,2190.49,1,West,High,Cancelled,2025-05-12
+1936,1379.0,P5462,Clothing,Jeans,2404.27,2404.27,2404.27,1,West,Low,Pending,2025-10-29
+1937,1184.0,P7228,Groceries,Eggs,487.48,487.48,4874.8,10,South,Medium,Pending,2025-11-29
+1938,1189.0,P3646,Electronics,Tablet,3008.47,3008.47,3008.47,1,South,Medium,Processing,2025-04-02
+1939,1315.0,P9593,Furniture,Desk,1568.58,1568.58,3137.16,2,East,Low,Processing,2025-06-10
+1940,1153.0,P5288,Clothing,Jacket,2128.34,2128.34,14898.38,7,East,Low,Pending,2025-05-07
+1941,1063.0,P5007,Clothing,Jacket,3949.27,3949.27,19746.35,5,South,Low,Cancelled,2025-11-10
+1942,1452.0,P7716,Clothing,Hoodie,2309.36,2309.36,9237.44,4,East,High,Pending,2025-10-22
+1943,1216.0,P8815,Furniture,Table,333.95,333.95,2003.7,6,South,Low,Cancelled,2025-09-14
+1944,1229.0,P3839,Electronics,Smartphone,872.7,872.7,872.7,1,North,Medium,Completed,2025-10-20
+1945,1099.0,P7763,Groceries,Bread,1576.66,1576.66,14189.94,9,East,Medium,Processing,2025-06-28
+1946,,P5944,Sports,Cricket Bat,4309.8,4309.8,12929.4,3,East,Low,Processing,2025-01-20
+1947,1115.0,P1448,Clothing,Shoes,4651.61,4651.61,13954.83,3,South,Low,Cancelled,2025-11-09
+1948,1171.0,P6836,Electronics,Smartphone,3916.05,3916.05,15664.2,4,West,High,Cancelled,2025-08-25
+1949,1285.0,P2292,Sports,Tennis Racket,3177.22,3177.22,25417.76,8,South,High,Cancelled,2025-01-02
+1950,1168.0,P4625,Clothing,Hoodie,1561.89,1561.89,7809.45,5,North,High,Pending,2025-12-23
+1951,1456.0,P7674,Sports,Dumbbells,1917.83,1917.83,7671.32,4,South,Low,Pending,2025-06-01
+1952,1094.0,P4406,Electronics,Smartphone,1055.02,1055.02,8440.16,8,,High,Cancelled,2025-05-30
+1953,1380.0,P7492,Furniture,Desk,3599.61,3599.61,25197.27,7,North,High,Cancelled,2025-09-16
+1954,1492.0,P2469,Furniture,Wardrobe,4315.74,4315.74,30210.18,7,West,Medium,Cancelled,2025-10-26
+1955,1107.0,P1957,Electronics,Headphones,1391.13,1391.13,1391.13,1,South,High,Cancelled,2025-06-04
+1956,1484.0,P7403,Electronics,Smartphone,893.74,893.74,8043.66,9,East,High,Processing,2025-11-09
+1957,1079.0,P4830,Clothing,Jeans,1074.95,1074.95,3224.85,3,North,High,Completed,2025-09-24
+1958,1105.0,P4763,Furniture,Sofa,2066.24,2066.24,4132.48,2,North,High,Pending,2025-04-21
+1959,1063.0,P8008,Clothing,Shoes,2395.39,2395.39,4790.78,2,West,Medium,Completed,2025-12-21
+1960,1313.0,P6164,Groceries,Eggs,795.77,795.77,6366.16,8,South,Low,Completed,2025-11-09
+1961,1041.0,P3835,Furniture,Sofa,3244.6,3244.6,12978.4,4,South,Low,Cancelled,2025-01-29
+1962,1367.0,P3159,Groceries,Milk,1251.44,1251.44,5005.76,4,North,High,Cancelled,2025-05-19
+1963,1047.0,P3671,Groceries,Rice,4738.09,4738.09,47380.9,10,South,Low,Pending,2025-01-09
+1964,1417.0,P7776,Clothing,T-Shirt,4417.29,4417.29,4417.29,1,East,Low,Processing,2025-08-13
+1965,1423.0,P2734,Electronics,Headphones,3246.75,3246.75,25974.0,8,South,Medium,Completed,2025-06-14
+1966,1447.0,P3524,Groceries,Bread,3235.11,3235.11,12940.44,4,West,Low,Pending,2025-10-02
+1967,1080.0,P1657,Clothing,Hoodie,4373.83,4373.83,8747.66,2,East,Medium,Processing,2025-04-03
+1968,1485.0,P5081,Sports,Tennis Racket,3591.8,3591.8,32326.2,9,South,Medium,Completed,2025-03-17
+1969,1062.0,P9413,Furniture,Chair,736.95,736.95,1473.9,2,North,High,Cancelled,2025-01-25
+1970,1343.0,P2211,Sports,Yoga Mat,4055.98,4055.98,40559.8,10,West,High,Processing,2025-01-26
+1971,1078.0,P5125,Clothing,T-Shirt,4009.89,4009.89,16039.56,4,East,High,Cancelled,2025-11-03
+1972,1464.0,P7353,Electronics,Headphones,599.92,599.92,1799.76,3,East,High,Pending,2025-03-14
+1973,1439.0,P3364,Sports,Yoga Mat,990.76,990.76,990.76,1,North,Medium,Pending,2025-07-04
+1974,1451.0,P4151,Groceries,Bread,3456.99,3456.99,17284.95,5,South,Low,Completed,2025-10-30
+1975,1155.0,P1303,Sports,Cricket Bat,1091.55,1091.55,5457.75,5,East,Low,Processing,2025-05-31
+1976,1139.0,P3723,Sports,Dumbbells,2942.54,2942.54,17655.24,6,North,Medium,Processing,2025-01-07
+1977,1404.0,P9140,Sports,Tennis Racket,449.72,449.72,2698.32,6,East,Low,Pending,2025-04-08
+1978,1486.0,P6186,Groceries,Eggs,3209.84,3209.84,12839.36,4,West,High,Cancelled,2025-03-23
+1979,1407.0,P6876,Furniture,Desk,4614.28,4614.28,36914.24,8,South,High,Processing,2025-06-13
+1980,1415.0,P1455,Electronics,Headphones,1811.52,1811.52,3623.04,2,East,Low,Pending,2025-03-14
+1981,1474.0,P7725,Furniture,Wardrobe,1500.6,1500.6,3001.2,2,South,High,Pending,2025-06-15
+1982,1120.0,P8590,Sports,Tennis Racket,1647.44,1647.44,16474.4,10,South,Low,Processing,2025-07-25
+1983,1221.0,P6492,Furniture,Wardrobe,3641.33,3641.33,10923.99,3,East,Low,Completed,2025-01-22
+1984,1115.0,P1662,Sports,Tennis Racket,575.77,575.77,2303.08,4,North,Medium,Pending,2025-02-24
+1985,1436.0,P3832,Furniture,Chair,4112.72,4112.72,8225.44,2,North,Medium,Cancelled,2025-04-01
+1986,1446.0,P7834,Sports,Football,3585.02,3585.02,32265.18,9,West,Medium,Cancelled,2025-03-20
+1987,1168.0,P9802,Electronics,Laptop,3841.52,3841.52,7683.04,2,North,Medium,Cancelled,2025-09-29
+1988,1407.0,P9232,Clothing,Jeans,4202.14,4202.14,4202.14,1,West,Medium,Processing,2025-01-22
+1989,1206.0,P7542,Furniture,Sofa,2651.83,2651.83,18562.81,7,East,Low,,2025-11-23
+1990,1338.0,P3308,Sports,Yoga Mat,3648.68,3648.68,14594.72,4,West,High,Pending,2025-06-01
+1991,1033.0,P3672,Electronics,Smartphone,996.81,996.81,4984.05,5,East,Low,Pending,2025-12-20
+1992,1396.0,P2833,Electronics,Tablet,3690.42,3690.42,33213.78,9,North,Medium,Processing,2025-10-18
+1993,1143.0,P9631,Furniture,Desk,2981.82,2981.82,29818.2,10,North,Low,Pending,2025-11-10
+1994,1030.0,P8077,Sports,Cricket Bat,643.38,643.38,5790.42,9,West,Medium,Completed,2025-01-11
+1995,1383.0,P6515,Furniture,Chair,405.7,405.7,2434.2,6,South,Low,Processing,2025-04-11
+1996,1415.0,P5002,Furniture,Chair,118.86,118.86,118.86,1,South,Low,Completed,2025-06-17
+1997,1088.0,P2023,Clothing,Hoodie,3476.65,3476.65,24336.55,7,North,Medium,Processing,2025-11-12
+1998,1478.0,P4721,Sports,Yoga Mat,903.67,903.67,7229.36,8,South,Low,Pending,2025-08-12
+1999,1418.0,P2364,Sports,Dumbbells,4475.49,4475.49,17901.96,4,East,Low,Completed,2025-04-20
+2000,1127.0,P5992,Sports,Yoga Mat,967.46,967.46,7739.68,8,North,High,Completed,2025-02-23
+1,1072.0,P9935,Electronics,Laptop,3733.6,3733.6,14934.4,4,North,Low,Processing,2025-04-25
+2,,P4257,Electronics,Laptop,559.11,559.11,2236.44,4,West,High,Processing,2025-09-16
+3,1358.0,P5552,Sports,Tennis Racket,4066.21,4066.21,4066.21,1,South,High,Cancelled,2025-03-23
+4,1310.0,P1711,Electronics,Laptop,1961.64,1961.64,11769.84,6,West,Low,Completed,2025-06-26
+5,1296.0,P2139,Groceries,Rice,2805.0,2805.0,28050.0,10,North,Low,Pending,2025-07-05
+6,1143.0,P6977,Clothing,T-Shirt,4291.06,4291.06,8582.12,2,South,Medium,Cancelled,2025-07-14
+7,1326.0,P5010,Furniture,Sofa,3538.92,3538.92,7077.84,2,South,Medium,Processing,2025-11-08
+8,1118.0,P6168,Clothing,Hoodie,1176.11,1176.11,7056.66,6,West,Medium,Completed,2025-01-29
+9,1336.0,P8517,Furniture,Wardrobe,4394.2,4394.2,26365.2,6,South,Medium,Pending,2025-04-19
+10,1460.0,P6930,Furniture,Wardrobe,2740.99,2740.99,27409.9,10,South,High,Processing,2025-08-08
+11,1082.0,P7916,Electronics,Laptop,4319.4,4319.4,12958.2,3,North,Medium,Processing,2025-11-18
+12,1349.0,P9797,Sports,Yoga Mat,2692.66,2692.66,24233.94,9,East,Low,Cancelled,2025-01-06
+13,1489.0,P5315,Electronics,Tablet,2230.35,2230.35,17842.8,8,South,Low,Completed,2025-01-02
+14,1391.0,P9689,Clothing,Hoodie,3083.95,3083.95,9251.85,3,North,Low,Cancelled,2025-07-11
+15,1123.0,P2290,Groceries,Rice,648.15,648.15,3888.9,6,North,Low,Processing,2025-06-07
+16,1244.0,P3705,Electronics,Monitor,3852.59,3852.59,11557.77,3,East,Low,Processing,2025-12-04
+17,1160.0,P7118,Furniture,Wardrobe,3800.8,3800.8,15203.2,4,West,Low,Processing,2026-01-01
+18,1302.0,P4608,Electronics,Smartphone,1201.02,1201.02,7206.12,6,North,High,Completed,2025-01-11
+19,1264.0,P8953,Furniture,Chair,4536.56,4536.56,27219.36,6,South,Low,Pending,2025-02-06
+20,1098.0,P8062,Sports,Dumbbells,2416.09,2416.09,19328.72,8,East,Medium,Processing,2025-07-28
