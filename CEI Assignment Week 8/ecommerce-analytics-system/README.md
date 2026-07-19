@@ -89,8 +89,8 @@ why.
 
 ```
 ## Project structure
-
 ```
+```text
 ecommerce-analytics-system/
 │── data/
 │   ├── raw/
